@@ -1,0 +1,1706 @@
+BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Typepouvoiradjudicateur_Agencenational,D_03_03_Typepouvoiradjudicateur_Autotriteregional,D_03_04_Typepouvoiradjudicateur_Agenceregional,D_03_05_Typepouvoiradjudicateur_Orgdroitpublic,D_03_06_Typepouvoiradjudicateur_Institutioneuropeenne,D_03_07_Typepouvoiradjudicateur_Autre
+20-52103,False,False,True,False,False,False,
+20-52108,True,False,False,False,False,False,
+20-52117,False,False,False,True,False,False,
+20-52123,False,False,False,False,True,False,
+20-52126,False,False,True,False,False,False,
+20-52127,False,False,False,False,True,False,
+20-52128,False,False,False,False,True,False,
+20-52130,False,False,False,False,True,False,
+20-52133,False,False,True,False,False,False,
+20-52134,False,False,True,False,False,False,
+20-52135,False,False,True,False,False,False,
+20-52145,False,False,False,False,True,False,
+20-52151,False,False,True,False,False,False,
+20-52158,False,False,True,False,False,False,
+20-52163,False,False,False,False,True,False,
+20-52164,False,False,True,False,False,False,
+20-52174,False,False,False,True,False,False,
+20-52176,False,False,True,False,False,False,
+20-52177,False,False,False,False,True,False,
+20-52181,True,False,False,False,False,False,
+20-52183,False,False,False,False,True,False,
+20-52185,False,False,False,False,False,False,Etablissement Public de Santé
+20-52186,False,False,True,False,False,False,
+20-52188,True,False,False,False,False,False,
+20-52190,False,False,False,False,True,False,
+20-52193,True,False,False,False,False,False,
+20-52195,False,False,False,False,True,False,
+20-52198,True,False,False,False,False,False,
+20-52199,False,False,True,False,False,False,
+20-31056,True,False,False,False,False,False,
+20-52206,False,False,True,False,False,False,
+20-792,False,False,True,False,False,False,
+20-52209,False,False,False,False,False,False,Université
+20-52211,False,False,True,False,False,False,
+20-52213,False,False,False,False,True,False,
+20-52218,False,False,True,False,False,False,
+20-52221,False,False,False,False,True,False,
+20-52222,True,False,False,False,False,False,
+20-52228,False,False,False,False,False,False,Etablissement public
+20-52234,False,False,True,False,False,False,
+20-52237,False,False,True,False,False,False,
+20-52238,False,False,True,False,False,False,
+20-52239,False,False,True,False,False,False,
+20-52260,True,False,False,False,False,False,
+20-52264,False,False,True,False,False,False,
+20-52266,False,False,True,False,False,False,
+20-52267,False,False,True,False,False,False,
+20-52268,True,False,False,False,False,False,
+20-52271,False,False,False,False,True,False,
+20-52273,False,False,False,False,True,False,
+20-52274,False,False,True,False,False,False,
+20-52275,False,False,True,False,False,False,
+20-52278,False,False,False,False,False,False,"EPSCP (Etablissement public à caractère scientifique, culturel et professionnel)"
+20-52280,False,False,True,False,False,False,
+20-52282,False,False,False,False,True,False,
+20-52289,False,False,False,False,False,False,Sté d'Exploitation de la Tour Eiffel
+20-52296,False,False,True,False,False,False,
+20-52302,False,False,False,False,True,False,
+20-52304,False,False,False,False,False,False,Société d'Exploitation de la Tour Eiffel
+20-52309,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-52310,False,False,True,False,False,False,
+20-52317,False,False,False,False,False,False,GIE Informatique
+20-52318,False,False,True,False,False,False,
+20-52321,False,False,True,False,False,False,
+20-52328,False,False,False,False,True,False,
+20-52329,False,False,False,False,True,False,
+20-52334,False,False,True,False,False,False,
+20-52335,False,False,False,False,False,False,commune
+20-52339,False,False,True,False,False,False,
+20-52343,False,False,False,False,True,False,
+20-52344,False,False,False,False,True,False,
+20-52346,False,False,True,False,False,False,
+20-52351,False,False,False,False,True,False,
+20-52359,False,False,True,False,False,False,
+20-52362,False,False,True,False,False,False,
+20-52369,False,False,True,False,False,False,
+20-52375,False,False,True,False,False,False,
+20-52377,False,False,True,False,False,False,
+20-4030,True,False,False,False,False,False,
+20-52385,False,False,True,False,False,False,
+20-52386,False,False,False,False,False,False,Comité National d'Action Sociale
+20-52388,False,False,False,False,False,False,Groupement d'intérêt Economique
+20-52391,True,False,False,False,False,False,
+20-52398,False,False,True,False,False,False,
+20-52399,False,False,True,False,False,False,
+20-52400,False,False,True,False,False,False,
+20-52408,False,False,False,False,False,False,Etablissement de Santé
+20-52411,False,False,False,False,True,False,
+20-52413,False,False,True,False,False,False,
+20-52415,False,False,False,False,True,False,
+20-52419,False,False,False,False,True,False,
+20-52420,False,False,True,False,False,False,
+20-52421,False,False,False,False,True,False,
+20-52430,False,False,True,False,False,False,
+20-52432,False,False,False,False,False,False,Etablissement public de santé
+20-52435,False,False,True,False,False,False,
+20-52437,False,False,False,False,True,False,
+20-52440,False,False,True,False,False,False,
+20-52449,False,False,True,False,False,False,
+20-52453,False,False,False,False,True,False,
+20-52455,False,False,True,False,False,False,
+20-52460,True,False,False,False,False,False,
+20-52463,False,False,False,False,False,False,Environnement
+20-52466,False,False,False,False,True,False,
+20-52467,False,False,True,False,False,False,
+20-52470,False,False,False,False,True,False,
+20-52472,False,False,False,False,False,False,Etablissement public
+20-52485,False,False,False,True,False,False,
+20-52499,False,False,True,False,False,False,
+20-52501,False,False,True,False,False,False,
+20-52504,False,False,True,False,False,False,
+20-52506,False,False,False,False,False,False,ASSAINISSEMENT
+20-52514,False,False,True,False,False,False,
+20-52517,False,False,True,False,False,False,
+20-52519,False,False,False,False,True,False,
+20-52521,True,False,False,False,False,False,
+20-52522,False,False,False,False,True,False,
+20-52525,False,False,True,False,False,False,
+20-52528,False,False,True,False,False,False,
+20-52529,False,False,False,True,False,False,
+20-52534,False,False,False,False,True,False,
+20-52536,False,False,True,False,False,False,
+20-52542,False,False,True,False,False,False,
+20-52549,False,False,True,False,False,False,
+20-52551,False,False,False,False,True,False,
+20-52553,False,False,False,False,True,False,
+20-52554,False,False,True,False,False,False,
+20-52560,False,False,False,False,True,False,
+20-52563,False,False,False,False,True,False,
+20-52565,False,False,True,False,False,False,
+20-52566,False,False,False,False,False,False,Chambre de Commerce et d'Industrie
+20-52567,False,False,True,False,False,False,
+20-52568,False,False,False,False,True,False,
+20-52580,False,False,True,False,False,False,
+20-52581,False,False,True,False,False,False,
+20-52583,False,False,True,False,False,False,
+20-52586,False,False,True,False,False,False,
+20-52588,False,False,False,False,False,False,collectivités territoriales
+20-52595,False,False,True,False,False,False,
+20-52596,False,False,False,False,True,False,
+20-52599,True,False,False,False,False,False,
+20-52601,False,False,True,False,False,False,
+20-52603,False,False,False,False,False,False,autre
+20-52622,False,False,False,False,True,False,
+20-52625,False,False,False,False,False,False,Organisme de Sécurité sociale
+20-52626,False,False,True,False,False,False,
+20-52627,False,False,False,False,False,False,établissement public de coopération intercommunale
+20-52640,False,False,True,False,False,False,
+20-52642,True,False,False,False,False,False,
+20-52649,False,False,False,False,False,False,Établissement Public de Santé
+20-52650,False,False,True,False,False,False,
+20-52653,False,False,True,False,False,False,
+20-52658,False,False,True,False,False,False,
+20-52660,False,False,False,False,True,False,
+20-52662,True,False,False,False,False,False,
+20-52671,False,False,False,False,True,False,
+20-52675,False,False,True,False,False,False,
+20-52677,False,False,False,False,True,False,
+20-52686,False,False,True,False,False,False,
+20-52690,False,False,True,False,False,False,
+20-52704,False,False,True,False,False,False,
+20-52707,False,False,False,False,True,False,
+20-52712,False,False,False,False,True,False,
+20-52713,False,False,True,False,False,False,
+20-52714,False,False,True,False,False,False,
+20-52717,False,False,False,False,False,False,Établissement Public de Santé
+20-52718,False,False,False,False,True,False,
+20-52719,False,False,False,False,False,False,Chambre de Commerce et d'Industrie
+20-52721,False,False,False,False,False,False,EPCI
+20-52727,False,False,True,False,False,False,
+20-52732,False,False,False,False,False,False,Collectivité territoriale
+20-52735,False,False,False,True,False,False,
+20-52737,False,False,True,False,False,False,
+20-52745,False,False,False,False,False,False,autre
+20-52746,False,False,False,False,False,False,autre
+20-52747,False,False,False,False,False,False,autre
+20-52752,False,False,True,False,False,False,
+20-52754,False,False,False,False,True,False,
+20-52757,False,False,True,False,False,False,
+20-52761,False,False,False,False,True,False,
+20-52764,False,False,False,False,False,False,Etablissement public de santé
+20-52769,False,False,False,False,True,False,
+20-15225,True,False,False,False,False,False,
+20-52771,False,False,False,False,True,False,
+20-52772,False,False,True,False,False,False,
+20-52775,False,False,True,False,False,False,
+20-52779,False,False,False,False,False,False,centre hospitalier
+20-52780,True,False,False,False,False,False,
+20-52781,False,False,False,False,False,False,Santé
+20-52785,False,False,False,False,False,False,Logement social
+20-52790,False,False,True,False,False,False,
+20-52795,False,False,False,False,False,False,Enseignement supérieur et recherche
+20-52796,False,False,False,False,False,False,Logement social
+20-52799,False,False,False,False,True,False,
+20-52800,False,False,False,False,True,False,
+20-52802,False,False,True,False,False,False,
+20-52807,False,False,True,False,False,False,
+20-52811,False,False,True,False,False,False,
+20-52813,False,False,True,False,False,False,
+20-52816,False,False,False,False,False,False,autre
+20-52817,False,False,False,False,False,False,autre
+20-52818,False,False,True,False,False,False,
+20-52819,False,False,False,False,True,False,
+20-15673,False,False,False,False,False,False,Organisme de sécurité sociale
+20-52829,False,False,True,False,False,False,
+20-52832,False,False,False,True,False,False,
+20-52833,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-52838,False,False,False,False,True,False,
+20-52840,False,False,True,False,False,False,
+20-52844,False,False,False,False,False,False,Sté d'Exploitation de la Tour Eiffel
+20-52845,False,False,False,False,False,False,Syndicat mixte fermé
+20-52846,False,False,False,False,True,False,
+20-52849,False,False,True,False,False,False,
+20-52850,False,False,True,False,False,False,
+20-52857,False,False,True,False,False,False,
+20-52858,False,False,True,False,False,False,
+20-52860,False,False,True,False,False,False,
+20-52862,False,False,False,False,True,False,
+20-52864,False,False,False,False,True,False,
+20-52865,False,False,False,False,False,False,autre
+20-52866,False,False,False,False,True,False,
+20-52868,False,False,True,False,False,False,
+20-52870,False,False,False,False,False,False,Communauté de communes
+20-52872,False,False,True,False,False,False,
+20-52882,False,False,True,False,False,False,
+20-52897,False,False,False,False,False,False,Emploi
+20-52902,False,False,True,False,False,False,
+20-52909,False,False,True,False,False,False,
+20-52912,True,False,False,False,False,False,
+20-52918,False,False,False,False,False,False,Etablissement public de santé
+20-52927,False,False,False,False,False,False,Etablissement public de santé
+20-52934,False,False,True,False,False,False,
+20-52953,False,False,True,False,False,False,
+20-52956,False,False,True,False,False,False,
+20-52957,False,False,False,False,True,False,
+20-52958,False,False,True,False,False,False,
+20-52961,False,False,False,False,True,False,
+20-52962,False,False,True,False,False,False,
+20-15344,False,False,True,False,False,False,
+20-52976,True,False,False,False,False,False,
+20-52979,False,False,False,False,True,False,
+20-52980,False,False,False,False,True,False,
+20-52982,False,False,False,False,True,False,
+20-52983,False,False,True,False,False,False,
+20-52985,False,False,False,False,True,False,
+20-52987,False,False,False,False,False,False,Syndicat mixte fermé
+20-52993,True,False,False,False,False,False,
+20-52999,True,False,False,False,False,False,
+20-53002,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-53005,False,False,True,False,False,False,
+20-53007,False,False,False,False,False,False,autre
+20-53013,False,False,False,False,False,False,Etablissement Public de Santé
+20-53022,False,False,True,False,False,False,
+20-53026,False,False,False,False,True,False,
+20-53027,False,False,True,False,False,False,
+20-15193,False,False,True,False,False,False,
+20-53031,False,False,False,False,False,False,Association loi 1901 de droit privamp;eacute;
+20-53033,False,False,False,False,False,False,Commune
+20-15065,False,False,True,False,False,False,
+20-53047,False,False,True,False,False,False,
+20-53052,False,False,True,False,False,False,
+20-14598,False,False,True,False,False,False,
+20-53061,False,False,True,False,False,False,
+20-53070,False,False,True,False,False,False,
+20-53072,False,True,False,False,False,False,
+20-53073,False,False,False,False,False,False,SAEM
+20-19286,False,False,True,False,False,False,
+20-53078,True,False,False,False,False,False,
+20-53082,False,False,False,False,False,False,autre
+20-53091,False,False,True,False,False,False,
+20-53096,False,False,False,False,True,False,
+20-53098,False,False,True,False,False,False,
+20-53100,False,False,False,False,False,False,autre
+20-15364,False,False,True,False,False,False,
+20-53102,False,False,False,False,True,False,
+20-53104,False,False,False,False,False,False,Centre Hospitalier
+20-53114,False,False,False,False,True,False,
+20-53117,False,False,False,False,True,False,
+20-53121,False,False,True,False,False,False,
+20-53125,True,False,False,False,False,False,
+20-53127,False,False,True,False,False,False,
+20-53134,False,False,False,False,True,False,
+20-53135,False,False,True,False,False,False,
+20-53136,False,False,True,False,False,False,
+20-53137,False,False,False,False,False,False,CAISSE PRIMAIRE D'ASSURANCE MALADIE
+20-53140,True,False,False,False,False,False,
+20-53144,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-53157,False,False,True,False,False,False,
+20-53163,False,False,True,False,False,False,
+20-14877,False,False,False,False,True,False,
+20-53170,True,False,False,False,False,False,
+20-53173,False,False,False,False,True,False,
+20-53174,False,False,True,False,False,False,
+20-53177,False,False,False,False,True,False,
+20-53179,False,False,False,False,False,False,Etablissement Public de Sante
+20-53184,False,False,False,False,True,False,
+20-53186,False,False,False,False,True,False,
+20-53191,False,False,False,False,True,False,
+20-53194,False,False,False,False,False,False,Emploi
+20-53195,False,False,False,False,True,False,
+20-53202,False,False,True,False,False,False,
+20-53212,False,True,False,False,False,False,
+20-53218,False,False,True,False,False,False,
+20-53223,True,False,False,False,False,False,
+20-53224,False,False,False,False,False,False,EPCSCP
+20-53226,False,False,False,False,True,False,
+20-53229,False,False,False,False,False,False,société publique locale
+20-53232,False,False,False,False,True,False,
+20-53233,False,False,False,False,False,False,EPCI
+20-53235,False,False,False,False,True,False,
+20-53237,False,False,True,False,False,False,
+20-53239,False,False,False,False,True,False,
+20-53240,False,False,False,False,True,False,
+20-53244,False,False,False,False,True,False,
+20-53247,False,False,False,False,True,False,
+20-53251,False,False,False,False,True,False,
+20-53256,False,False,True,False,False,False,
+20-53262,False,False,False,False,True,False,
+20-53263,False,False,False,False,True,False,
+20-53265,False,False,False,False,True,False,
+20-53266,False,False,True,False,False,False,
+20-53272,False,False,True,False,False,False,
+20-53273,False,False,True,False,False,False,
+20-53274,False,False,True,False,False,False,
+20-53289,False,False,True,False,False,False,
+20-53294,False,False,True,False,False,False,
+20-53296,False,False,False,False,False,False,Régulation des marchés financiers
+20-53301,False,False,True,False,False,False,
+20-53302,False,False,False,False,False,False,Ecole Supérieure des Technologies Industrielle Avancées
+20-53304,False,False,True,False,False,False,
+20-53305,False,False,True,False,False,False,
+20-53309,False,False,True,False,False,False,
+20-53323,False,False,False,False,False,False,Établissement public local à caractère administratif
+20-53325,True,False,False,False,False,False,
+20-53327,True,False,False,False,False,False,
+20-15201,False,False,True,False,False,False,
+20-53330,False,False,True,False,False,False,
+20-53332,False,False,False,False,False,False,société publique locale
+20-53333,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-53339,True,False,False,False,False,False,
+20-53344,False,False,True,False,False,False,
+20-53345,True,False,False,False,False,False,
+20-53348,False,False,True,False,False,False,
+20-53349,True,False,False,False,False,False,
+20-53350,False,False,True,False,False,False,
+20-53361,False,False,True,False,False,False,
+20-53362,False,False,True,False,False,False,
+20-53365,False,False,True,False,False,False,
+20-53369,False,False,True,False,False,False,
+20-53370,True,False,False,False,False,False,
+20-53372,False,False,False,False,True,False,
+20-53373,False,False,False,False,True,False,
+20-53377,False,False,True,False,False,False,
+20-53378,False,False,True,False,False,False,
+20-53380,False,False,True,False,False,False,
+20-53381,False,False,False,False,False,False,"Aménagement, gestion, promotion, animation du territoire"
+20-53383,False,False,False,False,True,False,
+20-53391,False,False,False,False,False,False,Etablissement public local
+20-53393,True,False,False,False,False,False,
+20-53395,False,False,True,False,False,False,
+20-53397,True,False,False,False,False,False,
+20-53404,False,False,False,False,False,False,Établissement Public de Coopération Intercommunale
+20-53422,False,False,False,False,True,False,
+20-53424,False,False,False,False,True,False,
+20-53433,False,False,False,False,True,False,
+20-53434,False,False,False,False,True,False,
+20-53439,False,False,True,False,False,False,
+20-53441,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-53442,False,False,False,False,False,False,Ecole Supérieure des Technologies Industrielle Avancées
+20-53444,False,False,False,False,False,False,Formation professionnelle des agents territoriaux
+20-53446,False,False,True,False,False,False,
+20-53447,False,False,True,False,False,False,
+20-53448,False,True,False,False,False,False,
+20-53449,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-53456,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-53457,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+20-53458,False,False,True,False,False,False,
+20-53461,False,False,False,False,True,False,
+20-53465,False,False,True,False,False,False,
+20-53466,False,False,True,False,False,False,
+20-53467,False,False,True,False,False,False,
+20-53469,False,False,True,False,False,False,
+20-53477,False,False,False,False,False,False,Etablissement public de santé
+20-53478,False,False,False,False,True,False,
+20-53479,False,False,False,False,True,False,
+20-53480,True,False,False,False,False,False,
+20-53483,False,False,False,False,False,False,Organisme de protection sociale
+20-53489,False,False,False,False,False,False,Groupement d'achat
+20-53494,False,False,True,False,False,False,
+20-53507,False,False,False,False,True,False,
+20-53516,False,False,False,False,True,False,
+20-53524,False,False,True,False,False,False,
+20-53527,False,False,False,True,False,False,
+20-53535,False,False,False,False,True,False,
+20-53536,False,False,False,False,False,False,EHPAD
+20-53539,False,False,False,False,False,False,SA D'HLM
+20-53544,False,False,True,False,False,False,
+20-53545,False,False,True,False,False,False,
+20-53559,False,False,True,False,False,False,
+20-53563,False,False,False,False,True,False,
+20-53566,False,False,False,False,False,False,Chambre consulaire
+20-53568,False,False,True,False,False,False,
+20-53572,True,False,False,False,False,False,
+20-53574,False,False,False,False,False,False,Société Publique Locale
+20-53577,False,False,False,False,True,False,
+20-53579,False,False,False,False,False,False,bailleur social
+20-53589,False,False,True,False,False,False,
+20-16919,False,False,True,False,False,False,
+20-53591,False,False,True,False,False,False,
+20-53592,False,False,True,False,False,False,
+20-53600,False,False,True,False,False,False,
+20-53601,False,False,True,False,False,False,
+20-53603,True,False,False,False,False,False,
+20-53613,False,False,False,False,True,False,
+20-53622,False,False,False,False,False,False,collectivité territoriale
+20-53634,False,False,True,False,False,False,
+20-53635,False,False,False,False,True,False,
+20-53640,True,False,False,False,False,False,
+20-53641,False,False,True,False,False,False,
+20-53661,False,False,False,False,False,False,EPCI
+20-53665,False,False,True,False,False,False,
+20-53675,False,False,True,False,False,False,
+20-53677,False,False,True,False,False,False,
+20-53683,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-53693,False,False,True,False,False,False,
+20-53695,False,False,False,False,False,False,Etablissement public local
+20-53697,False,False,True,False,False,False,
+20-53698,False,False,False,False,False,False,Etablissement public de santé
+20-15559,True,False,False,False,False,False,
+20-53701,False,False,True,False,False,False,
+20-53707,False,False,False,False,True,False,
+20-53710,False,False,True,False,False,False,
+20-53711,False,False,False,False,True,False,
+20-53723,False,False,False,False,False,False,Etablissement public de santé
+20-53725,False,False,False,False,True,False,
+20-53729,False,False,False,False,True,False,
+20-53731,False,False,True,False,False,False,
+20-53733,False,False,False,False,True,False,
+20-53735,False,False,False,False,True,False,
+20-53744,False,False,True,False,False,False,
+20-53745,False,False,False,False,False,False,EPCI
+20-53746,False,False,False,False,False,False,établissement public local
+20-53751,True,False,False,False,False,False,
+20-53755,True,False,False,False,False,False,
+20-53756,False,False,True,False,False,False,
+20-53760,False,False,False,False,True,False,
+20-53762,False,False,False,False,True,False,
+20-53765,False,False,True,False,False,False,
+20-53766,False,False,False,False,True,False,
+20-53768,False,False,True,False,False,False,
+20-53772,False,False,True,False,False,False,
+20-53775,False,False,True,False,False,False,
+20-53776,False,False,False,False,True,False,
+20-53779,False,False,False,False,False,False,Société Economie Mixte
+20-53785,False,False,False,False,True,False,
+20-53786,False,False,True,False,False,False,
+20-53790,False,False,False,False,True,False,
+20-53795,False,False,True,False,False,False,
+20-53800,False,False,False,False,False,False,Etablissement Public de Santé
+20-53802,False,False,True,False,False,False,
+20-53803,False,False,True,False,False,False,
+20-53804,False,False,False,False,False,False,autre
+20-53805,False,False,False,False,True,False,
+20-53806,False,False,False,False,True,False,
+20-53812,False,False,True,False,False,False,
+20-53817,False,False,False,False,False,False,Environnement
+20-53819,False,False,False,False,False,False,Collectivité territoriale
+20-53821,False,False,False,False,True,False,
+20-53822,False,False,True,False,False,False,
+20-53824,False,False,False,False,True,False,
+20-53826,False,False,False,False,True,False,
+20-53829,False,False,True,False,False,False,
+20-53831,False,False,False,False,False,False,Société Publique Locale (SPL)
+20-53832,False,False,False,False,False,False,Société par actions simplifiée
+20-53833,False,False,False,False,True,False,
+20-53834,True,False,False,False,False,False,
+20-53835,False,False,False,False,False,False,Fondation partenariale
+20-53837,False,False,False,False,True,False,
+20-53847,False,False,False,False,False,False,Société par Action Simplifiée
+20-53850,False,False,False,False,True,False,
+20-53851,True,False,False,False,False,False,
+20-53852,True,False,False,False,False,False,
+20-53855,False,False,True,False,False,False,
+20-53857,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale.
+20-53859,False,False,False,True,False,False,
+20-53860,False,False,False,False,False,False,Autorité portuaire
+20-53862,False,False,True,False,False,False,
+20-53867,False,False,False,False,True,False,
+20-53871,True,False,False,False,False,False,
+20-53879,False,False,False,False,True,False,
+20-53882,False,True,False,False,False,False,
+20-53883,False,False,True,False,False,False,
+20-53885,False,False,False,False,True,False,
+20-53886,False,False,False,False,True,False,
+20-53887,False,False,False,False,True,False,
+20-53888,False,False,True,False,False,False,
+20-53891,True,False,False,False,False,False,
+20-53902,False,False,False,False,False,False,Société d'Economie Mixte
+20-53904,False,False,True,False,False,False,
+20-53906,False,False,True,False,False,False,
+20-53909,False,False,True,False,False,False,
+20-53919,False,False,True,False,False,False,
+20-53920,True,False,False,False,False,False,
+20-53921,False,False,False,False,True,False,
+20-53923,False,False,True,False,False,False,
+20-53927,False,False,False,False,False,False,Santé
+20-53928,False,False,False,False,True,False,
+20-53930,False,False,False,False,False,False,Etablissement territorial
+20-53931,True,False,False,False,False,False,
+20-53933,False,False,True,False,False,False,
+20-16022,False,False,True,False,False,False,
+20-53938,False,False,False,False,True,False,
+20-53943,False,False,False,False,True,False,
+20-53944,False,False,False,False,False,False,Centre Hospitalier
+20-53947,False,False,False,False,False,False,Etablissement Public de Santé
+20-53948,False,False,False,False,True,False,
+20-53949,False,False,False,False,True,False,
+20-53951,False,False,True,False,False,False,
+20-53952,False,False,True,False,False,False,
+20-53953,False,False,True,False,False,False,
+20-53958,False,False,True,False,False,False,
+20-53959,False,False,True,False,False,False,
+20-53960,False,False,False,False,False,False,autre
+20-53962,False,False,False,False,True,False,
+20-53968,False,False,False,False,False,False,Organisme de sécurité sociale
+20-15449,False,False,True,False,False,False,
+20-53974,False,False,True,False,False,False,
+20-53977,False,False,False,False,True,False,
+20-53979,False,False,True,False,False,False,
+20-53980,False,False,True,False,False,False,
+20-53982,True,False,False,False,False,False,
+20-53983,False,False,True,False,False,False,
+20-53986,False,False,True,False,False,False,
+20-53988,False,False,True,False,False,False,
+20-53990,True,False,False,False,False,False,
+20-53994,False,False,True,False,False,False,
+20-53997,True,False,False,False,False,False,
+20-54000,False,False,True,False,False,False,
+20-54001,False,False,False,False,True,False,
+20-54004,False,False,True,False,False,False,
+20-54010,False,False,False,False,False,False,Logement social
+20-54011,False,False,True,False,False,False,
+20-54013,False,False,False,False,False,False,EPA
+20-54017,True,False,False,False,False,False,
+20-54019,True,False,False,False,False,False,
+20-54023,False,False,False,False,False,False,ESH
+20-54025,False,False,False,False,True,False,
+20-54028,True,False,False,False,False,False,
+20-54031,False,False,False,False,False,False,EPA
+20-54035,False,False,True,False,False,False,
+20-54038,False,False,False,False,True,False,
+20-54042,False,False,False,False,True,False,
+20-16987,False,False,True,False,False,False,
+20-54050,False,False,False,False,False,False,autre
+20-54051,False,False,False,False,False,False,autre
+20-54053,False,False,False,False,False,False,autre
+20-54054,False,False,False,False,False,False,Etablissement public de santé
+20-54055,False,False,False,False,False,False,Etablissement public de santé
+20-54057,False,False,True,False,False,False,
+20-54061,True,False,False,False,False,False,
+20-54063,False,False,True,False,False,False,
+20-54064,True,False,False,False,False,False,
+20-54067,False,False,False,False,False,False,Etablissement public
+20-54068,False,False,False,False,True,False,
+20-54069,False,False,True,False,False,False,
+20-54075,False,False,True,False,False,False,
+20-54078,False,False,False,False,True,False,
+20-54081,False,False,True,False,False,False,
+20-54082,False,False,True,False,False,False,
+20-14657,False,False,True,False,False,False,
+20-54092,False,False,False,False,True,False,
+20-54094,False,False,False,False,True,False,
+20-54096,False,False,True,False,False,False,
+20-54097,False,False,True,False,False,False,
+20-54098,False,False,True,False,False,False,
+20-54099,False,False,False,False,True,False,
+20-54104,False,False,True,False,False,False,
+20-54105,False,False,True,False,False,False,
+20-54111,False,False,True,False,False,False,
+20-54113,False,False,False,False,True,False,
+20-54114,False,False,True,False,False,False,
+20-54123,False,False,True,False,False,False,
+20-54143,False,False,True,False,False,False,
+20-54146,False,False,True,False,False,False,
+20-54148,False,False,False,False,True,False,
+20-54171,False,False,False,False,False,False,Syndicat mixte
+20-54177,False,False,False,False,False,False,Université
+20-54181,False,False,True,False,False,False,
+20-54183,False,False,False,False,True,False,
+20-54192,False,False,True,False,False,False,
+20-54194,False,False,True,False,False,False,
+20-54195,False,False,False,False,True,False,
+20-54198,False,False,True,False,False,False,
+20-54212,False,False,False,False,False,False,Société Publique Locale d'Aménagement définie à l'article L327-1 du code de l'urbanisme
+20-54216,False,False,False,False,True,False,
+20-54220,False,False,True,False,False,False,
+20-12659,False,False,False,False,False,False,Autorité régionale ou locale
+20-54224,False,False,False,False,False,False,Etablissement consulaire
+20-54226,False,False,False,False,False,False,Syndicat mixte
+20-54227,False,False,False,False,False,False,GROUPEMENT EUROPEEN DE COOPERATION TERRITORIALE
+20-54236,False,False,True,False,False,False,
+20-54238,False,False,True,False,False,False,
+20-54241,False,False,False,False,False,False,Établissement public de coopération intercommunale (EPCI).
+20-54243,False,False,False,False,False,False,Organisme privé
+20-54245,False,False,True,False,False,False,
+20-54248,False,False,False,False,True,False,
+20-54267,False,False,True,False,False,False,
+20-54268,False,False,True,False,False,False,
+20-54269,False,False,True,False,False,False,
+20-54270,False,False,True,False,False,False,
+20-54271,False,False,True,False,False,False,
+20-54273,False,False,True,False,False,False,
+20-54281,False,False,False,False,True,False,
+20-54283,False,False,False,False,True,False,
+20-54286,False,False,True,False,False,False,
+20-54287,False,False,False,False,False,False,EPCI
+20-54288,False,False,False,False,False,False,GIE INFORMATIQUE
+20-54293,False,False,False,False,False,False,Institution Consulaire
+20-54298,False,False,True,False,False,False,
+20-54300,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-54301,False,False,False,False,False,False,EPST
+20-54302,True,False,False,False,False,False,
+20-54303,False,False,False,False,True,False,
+20-54305,False,False,False,False,True,False,
+20-54311,False,False,True,False,False,False,
+20-54314,False,False,True,False,False,False,
+20-54315,False,False,True,False,False,False,
+20-54316,False,False,False,False,True,False,
+20-54317,False,False,False,False,False,False,COMMUNE
+20-54321,False,False,True,False,False,False,
+20-54323,False,False,False,False,False,False,EHPAD public autonome (FPH)
+20-54324,False,False,True,False,False,False,
+20-54326,False,False,True,False,False,False,
+20-54328,False,False,True,False,False,False,
+20-54330,False,False,True,False,False,False,
+20-54332,False,False,True,False,False,False,
+20-54333,False,False,False,False,False,False,autre
+20-54334,False,False,False,False,True,False,
+20-54336,False,False,False,False,True,False,
+20-54337,False,False,True,False,False,False,
+20-54339,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-54344,False,False,False,False,False,False,Établissement public de santé
+20-54346,False,False,False,False,False,False,Collectivité territoriale
+20-54347,False,False,True,False,False,False,
+20-54349,False,False,True,False,False,False,
+20-54350,False,False,False,False,True,False,
+20-54355,True,False,False,False,False,False,
+20-54361,False,False,True,False,False,False,
+20-54363,False,False,True,False,False,False,
+20-54364,False,False,False,False,False,False,Organisme de sécurité sociale
+20-54365,False,False,True,False,False,False,
+20-54371,False,False,True,False,False,False,
+20-54375,False,False,True,False,False,False,
+20-54376,False,False,True,False,False,False,
+20-54378,False,False,False,False,False,False,Etablissement public de santé
+20-54379,False,False,False,False,True,False,
+20-54383,False,False,True,False,False,False,
+20-54386,False,False,False,False,True,False,
+20-54389,False,False,False,False,True,False,
+20-54394,False,False,False,False,False,False,Centrale d'achat
+20-54395,False,False,True,False,False,False,
+20-54396,False,False,False,False,False,False,autre
+20-54398,False,False,False,False,False,False,autre
+20-54399,False,False,False,False,True,False,
+20-54409,False,False,False,False,False,False,autre
+20-54412,False,False,True,False,False,False,
+20-54414,False,False,False,False,False,False,Aménagement construction conseil
+20-54422,False,False,False,False,True,False,
+20-13148,False,False,False,False,True,False,
+20-54425,False,False,True,False,False,False,
+20-54426,False,False,True,False,False,False,
+20-54427,False,False,False,False,False,False,"Société Publique Locale (SPL), agissant en qualité de mandataire de la Ville de Marseille"
+20-54428,False,False,False,False,True,False,
+20-54429,False,False,True,False,False,False,
+20-54434,False,False,True,False,False,False,
+20-54438,False,False,False,False,False,False,Établissement Public de Santé
+20-54440,False,False,True,False,False,False,
+20-54443,False,False,False,False,False,False,GIE
+20-54444,True,False,False,False,False,False,
+20-54445,False,False,True,False,False,False,
+20-54454,False,False,True,False,False,False,
+20-54457,False,False,True,False,False,False,
+20-54465,False,False,True,False,False,False,
+20-54469,False,False,True,False,False,False,
+20-54470,False,False,True,False,False,False,
+20-54472,False,False,True,False,False,False,
+20-54475,False,False,True,False,False,False,
+20-54477,True,False,False,False,False,False,
+20-54478,False,False,False,False,True,False,
+20-54479,True,False,False,False,False,False,
+20-54480,False,False,True,False,False,False,
+20-54493,False,False,True,False,False,False,
+20-54502,False,False,True,False,False,False,
+20-54503,True,False,False,False,False,False,
+20-54504,False,False,False,False,False,False,Protection sociale
+20-54511,False,False,True,False,False,False,
+20-54512,False,False,True,False,False,False,
+20-54521,False,False,True,False,False,False,
+20-54523,False,False,True,False,False,False,
+20-54524,False,False,False,False,True,False,
+20-54527,False,False,False,False,False,False,centre hospitalier
+20-54528,False,False,True,False,False,False,
+20-54537,False,False,False,False,True,False,
+20-54539,False,False,False,True,False,False,
+20-54541,False,False,False,False,False,False,ESPIC
+20-54544,False,False,True,False,False,False,
+20-54545,True,False,False,False,False,False,
+20-54550,False,False,False,False,True,False,
+20-54551,True,False,False,False,False,False,
+20-54552,False,False,False,False,False,False,Etablissement médico-social public autonome
+20-54556,False,False,False,True,False,False,
+20-54560,False,False,True,False,False,False,
+20-54561,False,False,False,False,False,False,cté d'agglomération
+20-54563,False,False,False,False,True,False,
+20-54566,False,False,False,False,False,False,Etablissement public de santé
+20-54567,False,False,False,False,True,False,
+20-54569,True,False,False,False,False,False,
+20-54572,False,False,False,False,True,False,
+20-54578,False,False,True,False,False,False,
+20-54581,False,False,True,False,False,False,
+20-54582,False,False,False,False,False,False,EPCSCP
+20-54583,False,False,False,False,True,False,
+20-54586,False,False,False,False,False,False,EPCI
+20-54587,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-54588,False,False,False,True,False,False,
+20-54589,False,False,False,False,False,False,Syndicat mixte
+20-54594,False,False,False,True,False,False,
+20-54596,False,False,True,False,False,False,
+20-54599,False,False,True,False,False,False,
+20-54601,False,False,True,False,False,False,
+20-54605,False,False,False,False,False,False,autre
+20-54607,False,False,True,False,False,False,
+20-54608,False,False,True,False,False,False,
+20-5283,False,False,False,False,True,False,
+20-54610,False,False,True,False,False,False,
+20-54621,False,False,False,False,True,False,
+20-54623,False,False,True,False,False,False,
+20-54626,False,False,False,False,True,False,
+20-54627,False,False,True,False,False,False,
+20-54633,False,False,True,False,False,False,
+20-54636,False,False,True,False,False,False,
+20-54643,False,False,False,False,False,False,EPCI
+20-54649,False,False,False,False,True,False,
+20-54654,False,False,False,False,False,False,Groupement hospitalier de territoire
+20-54661,False,False,True,False,False,False,
+20-54665,False,False,True,False,False,False,
+20-54666,False,False,False,False,False,False,Blanchisserie Interhospitalire
+20-54672,False,False,True,False,False,False,
+20-54678,False,False,False,False,True,False,
+20-54681,False,False,True,False,False,False,
+20-54687,False,False,False,False,True,False,
+20-54692,False,False,True,False,False,False,
+20-54693,False,False,True,False,False,False,
+20-54694,False,False,False,False,True,False,
+20-54696,False,False,False,False,False,False,Établissement Public de Coopération Intercommunale
+20-54702,False,False,True,False,False,False,
+20-54706,False,False,False,False,False,False,Société d'Economie Mixte
+20-54709,False,False,False,False,False,False,Organisme de sécurité sociale
+20-54712,False,False,True,False,False,False,
+20-54716,False,False,False,False,False,False,Protection sociale
+20-54718,False,False,False,False,True,False,
+20-54720,False,False,False,False,False,False,Formation professionnelle des agents territoriaux
+20-54722,False,False,False,False,False,False,Etablissement public de santé
+20-54724,False,False,False,False,False,False,Etablissement public de santé
+20-54727,False,False,True,False,False,False,
+20-54731,False,False,False,False,False,False,autre
+20-54733,False,False,False,False,False,False,autre
+20-23137,False,False,True,False,False,False,
+20-54745,False,False,False,False,False,False,"EPSCP (Etablissement public à caractère scientifique, culturel et professionnel)"
+20-54749,False,False,False,False,True,False,
+20-54754,False,False,True,False,False,False,
+20-54760,True,False,False,False,False,False,
+20-54761,False,False,True,False,False,False,
+20-54762,False,False,False,False,True,False,
+20-54767,False,False,True,False,False,False,
+20-54768,False,False,False,False,True,False,
+20-54770,True,False,False,False,False,False,
+20-54776,False,False,False,False,False,False,SAEM
+20-54781,False,False,True,False,False,False,
+20-54782,False,False,True,False,False,False,
+20-54783,False,False,True,False,False,False,
+20-54784,False,False,False,False,True,False,
+20-54785,False,False,True,False,False,False,
+20-54789,False,False,True,False,False,False,
+20-54794,False,False,False,False,False,False,société d'économie mixte
+20-54795,True,False,False,False,False,False,
+20-54796,False,False,False,False,True,False,
+20-54799,False,False,False,False,False,False,Etablissement public de santé
+20-54802,False,False,False,False,False,False,autre
+20-54805,False,False,False,False,False,False,établissement de santé
+20-54807,True,False,False,False,False,False,
+20-54811,False,False,False,False,True,False,
+20-54815,False,False,False,False,True,False,
+20-54821,False,False,True,False,False,False,
+20-54822,False,False,True,False,False,False,
+20-54823,True,False,False,False,False,False,
+20-54826,False,False,False,False,False,False,MAIRIE
+20-54829,False,False,True,False,False,False,
+20-54830,False,False,True,False,False,False,
+20-54832,False,False,True,False,False,False,
+20-54837,False,False,True,False,False,False,
+20-54838,False,False,True,False,False,False,
+20-54845,True,False,False,False,False,False,
+20-54847,False,False,False,False,True,False,
+20-54853,False,False,True,False,False,False,
+20-54860,False,False,False,False,False,False,Etablissement public de santé
+20-54863,False,False,False,True,False,False,
+20-54867,False,False,False,False,True,False,
+20-54871,False,False,True,False,False,False,
+20-54874,False,False,False,False,True,False,
+20-54875,False,False,False,False,True,False,
+20-54881,False,False,True,False,False,False,
+20-54883,False,False,True,False,False,False,
+20-54884,False,False,True,False,False,False,
+20-54885,False,False,False,False,True,False,
+20-54891,False,False,False,False,True,False,
+20-54892,False,False,False,False,True,False,
+20-54897,True,False,False,False,False,False,
+20-54905,False,False,False,False,True,False,
+20-54910,False,False,False,False,True,False,
+20-54912,False,False,True,False,False,False,
+20-54919,False,False,False,False,True,False,
+20-54923,False,False,False,False,True,False,
+20-54926,False,False,False,False,False,False,Etablissement public administratif
+20-54929,False,False,False,False,True,False,
+20-54935,False,False,False,False,True,False,
+20-54936,False,False,True,False,False,False,
+20-54938,True,False,False,False,False,False,
+20-54939,True,False,False,False,False,False,
+20-54947,False,False,False,False,True,False,
+20-54950,True,False,False,False,False,False,
+20-54956,False,False,False,False,False,False,EPS
+20-54963,False,False,True,False,False,False,
+20-54965,False,False,True,False,False,False,
+20-54970,False,False,False,False,False,False,cté d'agglomération
+20-54977,False,False,False,False,True,False,
+20-54989,False,False,False,True,False,False,
+20-54991,False,False,False,False,True,False,
+20-54992,False,False,False,False,False,False,Centre Hospitalier
+20-54995,True,False,False,False,False,False,
+20-54997,False,False,True,False,False,False,
+20-55004,False,False,False,False,True,False,
+20-55005,False,False,False,False,True,False,
+20-55011,False,False,True,False,False,False,
+20-55021,False,False,True,False,False,False,
+20-55023,False,False,True,False,False,False,
+20-55024,False,False,False,False,True,False,
+20-55026,False,False,False,False,False,False,autre
+20-55027,False,False,False,False,True,False,
+20-55032,False,False,False,False,False,False,groupement de collectivites
+20-55043,False,False,True,False,False,False,
+20-55047,False,False,True,False,False,False,
+20-55050,False,False,True,False,False,False,
+20-55052,False,False,True,False,False,False,
+20-55055,True,False,False,False,False,False,
+20-55058,False,False,True,False,False,False,
+20-55060,False,False,False,True,False,False,
+20-55062,True,False,False,False,False,False,
+20-55069,True,False,False,False,False,False,
+20-55071,True,False,False,False,False,False,
+20-55075,False,False,False,False,False,False,Personne morale de droit privé
+20-55080,False,False,False,False,True,False,
+20-55087,False,False,False,False,True,False,
+20-55090,False,False,True,False,False,False,
+20-55094,False,False,False,False,True,False,
+20-55095,False,False,False,False,False,False,Sté d'Exploitation de la Tour Eiffel
+20-55099,False,False,False,False,False,False,Santé
+20-55100,False,False,True,False,False,False,
+20-55101,True,False,False,False,False,False,
+20-55108,False,False,True,False,False,False,
+20-55110,False,False,False,False,True,False,
+20-55111,False,False,True,False,False,False,
+20-55113,False,False,True,False,False,False,
+20-29354,False,False,False,False,True,False,
+20-55128,False,False,True,False,False,False,
+20-55130,False,False,False,False,False,False,service départemental d'incendie et de secours
+20-55132,False,False,False,False,True,False,
+20-55133,True,False,False,False,False,False,
+20-55136,True,False,False,False,False,False,
+20-55137,False,False,False,True,False,False,
+20-55138,False,False,True,False,False,False,
+20-55139,False,False,False,False,False,False,Logement social
+20-55145,False,False,False,False,True,False,
+20-55149,False,False,False,False,True,False,
+20-55151,False,False,False,False,True,False,
+20-55153,True,False,False,False,False,False,
+20-55154,False,False,True,False,False,False,
+20-55155,False,False,True,False,False,False,
+20-55157,False,False,True,False,False,False,
+20-55158,False,False,True,False,False,False,
+20-55160,False,False,False,False,True,False,
+20-55161,False,False,True,False,False,False,
+20-55162,False,False,True,False,False,False,
+20-55164,True,False,False,False,False,False,
+20-55167,False,False,False,False,True,False,
+20-55169,False,False,False,False,False,False,SDIS
+20-55172,True,False,False,False,False,False,
+20-55174,True,False,False,False,False,False,
+20-55176,False,False,True,False,False,False,
+20-55180,False,False,False,False,False,False,Etablissement public de santé
+20-55182,False,False,True,False,False,False,
+20-55183,False,False,True,False,False,False,
+20-55184,False,False,False,False,False,False,autre
+20-55185,False,False,False,False,True,False,
+20-55188,False,False,True,False,False,False,
+20-55190,False,False,False,False,True,False,
+20-55191,False,False,True,False,False,False,
+20-55200,False,False,False,False,True,False,
+20-55203,False,False,False,False,True,False,
+20-55207,False,False,True,False,False,False,
+20-55208,True,False,False,False,False,False,
+20-55209,False,False,False,False,True,False,
+20-55214,False,False,True,False,False,False,
+20-55215,False,False,False,False,False,False,Collectivité territoriale
+20-55217,False,False,False,False,False,False,Informatique
+20-55222,False,False,False,False,True,False,
+20-55223,False,False,True,False,False,False,
+20-55224,False,False,False,False,True,False,
+20-55266,False,False,False,False,False,False,Autre
+20-55267,False,False,True,False,False,False,
+20-55270,False,False,True,False,False,False,
+20-55274,False,False,True,False,False,False,
+20-55277,False,False,False,False,False,False,Autre
+20-55306,True,False,False,False,False,False,
+20-55315,False,False,True,False,False,False,
+20-55324,False,False,False,False,False,False,Association
+20-55337,False,False,False,False,True,False,
+20-55364,False,False,True,False,False,False,
+20-55396,False,False,True,False,False,False,
+20-55401,False,False,True,False,False,False,
+20-55403,False,False,True,False,False,False,
+20-55405,False,False,True,False,False,False,
+20-55412,False,False,False,False,True,False,
+20-55415,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-55417,True,False,False,False,False,False,
+20-55419,False,False,True,False,False,False,
+20-55420,False,False,False,False,False,False,Chambre de commerce et d industrie
+20-55424,False,False,False,False,True,False,
+20-55427,False,False,True,False,False,False,
+20-45006,False,False,True,False,False,False,
+20-55435,False,False,True,False,False,False,
+20-55436,False,False,False,False,False,False,Etablissement public de santé
+20-55437,False,False,False,False,False,False,Etablissement d'Hébergement pour Personnes Agées Dépendantes (EHPAD)
+20-55438,False,False,True,False,False,False,
+20-55439,False,False,True,False,False,False,
+20-47537,False,False,True,False,False,False,
+20-55441,False,False,False,False,False,False,Société d'économie mixte
+20-55444,False,False,True,False,False,False,
+20-55446,False,False,False,False,False,False,Etablissement public de santé
+20-55452,False,False,False,False,False,False,association loi 1901
+20-55456,False,False,False,False,True,False,
+20-55461,False,False,True,False,False,False,
+20-55465,False,False,True,False,False,False,
+20-55467,True,False,False,False,False,False,
+20-55470,False,False,True,False,False,False,
+20-55471,False,False,False,False,False,False,Société d'économie mixte - Personne morale de droit privé
+20-55474,False,False,False,False,True,False,
+20-55475,False,False,True,False,False,False,
+20-55477,False,False,True,False,False,False,
+20-55478,False,False,False,False,True,False,
+20-3293,False,False,True,False,False,False,
+20-55483,False,False,True,False,False,False,
+20-55485,False,False,False,False,True,False,
+20-55487,False,False,False,False,False,False,autre
+20-55493,False,False,False,False,False,False,CCAS
+20-55495,False,False,True,False,False,False,
+20-55496,False,False,False,False,True,False,
+20-55497,False,False,True,False,False,False,
+20-55499,False,False,True,False,False,False,
+20-55501,False,False,False,False,False,False,OPH
+20-55502,False,False,False,False,True,False,
+20-55505,False,False,False,False,False,False,Etablissement public national à caractère scientifique culturel et professionnel
+20-55509,True,False,False,False,False,False,
+20-55510,False,False,True,False,False,False,
+20-55511,False,False,True,False,False,False,
+20-4370,False,False,False,False,False,False,ITE
+20-55514,False,False,True,False,False,False,
+20-55518,False,False,False,False,True,False,
+20-55519,False,False,False,False,False,False,Environnement
+20-55520,False,False,False,False,True,False,
+20-55522,False,False,True,False,False,False,
+20-55528,True,False,False,False,False,False,
+20-55529,False,False,True,False,False,False,
+20-55530,False,False,False,False,True,False,
+20-55544,False,False,False,False,True,False,
+20-55547,False,False,True,False,False,False,
+20-55559,False,False,False,False,True,False,
+20-55561,False,False,False,False,True,False,
+20-55562,False,False,True,False,False,False,
+20-55563,False,False,True,False,False,False,
+20-55568,False,False,False,False,False,False,Société d'Economie Mixte
+20-55574,False,False,False,False,False,False,Eaux
+20-55579,False,False,False,False,True,False,
+20-55580,False,False,False,False,True,False,
+20-55581,False,False,True,False,False,False,
+20-55583,False,False,False,False,True,False,
+20-55585,False,False,False,False,False,False,CHAMBRE DE COMMERCE
+20-55586,False,False,False,False,True,False,
+20-55594,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-55597,False,False,True,False,False,False,
+20-55598,False,False,False,False,False,False,Groupement d'intérêt public
+20-55607,False,False,True,False,False,False,
+20-55608,False,False,False,False,False,False,autre
+20-55609,False,False,True,False,False,False,
+20-55612,False,False,True,False,False,False,
+20-55614,False,False,True,False,False,False,
+20-55617,False,False,True,False,False,False,
+20-55620,True,False,False,False,False,False,
+20-55625,False,False,False,False,False,False,Etablissement public de santé
+20-55630,False,False,True,False,False,False,
+20-55634,False,False,True,False,False,False,
+20-55641,False,False,True,False,False,False,
+20-55645,True,False,False,False,False,False,
+20-55649,False,False,False,False,True,False,
+20-55651,False,False,False,False,True,False,
+20-55652,False,False,True,False,False,False,
+20-55659,False,False,False,False,False,False,EPCI
+20-55660,False,False,False,False,True,False,
+20-55662,True,False,False,False,False,False,
+20-55664,False,False,False,True,False,False,
+20-55667,False,False,False,False,True,False,
+20-55675,False,False,False,True,False,False,
+20-55676,False,False,True,False,False,False,
+20-55680,False,False,False,False,False,False,Chambre de commerce et d'industrie
+20-55681,False,False,False,False,True,False,
+20-55684,False,False,False,False,False,False,Régulation des marchés financiers
+20-55687,False,False,False,False,True,False,
+20-55688,False,False,False,False,False,False,Etablissement public de santé
+20-55692,False,False,False,False,True,False,
+20-55695,False,False,False,False,False,False,Etablissement public local
+20-55696,False,False,False,False,False,False,Centre Hospitalier
+20-55698,False,False,False,False,False,False,Établissement supérieur d'enseignement et de recherche
+20-55702,False,False,False,False,True,False,
+20-55703,False,False,True,False,False,False,
+20-55707,False,False,False,False,True,False,
+20-55709,False,False,False,False,False,False,EPCI
+20-55710,False,False,True,False,False,False,
+20-55718,False,False,False,False,True,False,
+20-10828,False,False,True,False,False,False,
+20-55725,False,False,True,False,False,False,
+20-55726,False,False,True,False,False,False,
+20-55727,True,False,False,False,False,False,
+20-55729,False,False,True,False,False,False,
+20-55735,False,False,True,False,False,False,
+20-55736,False,False,False,False,False,False,Organisme consulaire - CCI
+20-55738,False,False,False,False,False,False,Entité adjudicatrice aéroport Avignon Provence
+20-55740,False,False,False,False,True,False,
+20-55753,False,False,False,False,True,False,
+20-55754,False,False,True,False,False,False,
+20-5718,False,False,False,False,True,False,
+20-55765,False,False,True,False,False,False,
+20-55768,False,False,True,False,False,False,
+20-55772,False,False,False,False,False,False,Etablissement public
+20-55779,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-55781,False,False,True,False,False,False,
+20-55784,False,False,False,False,True,False,
+20-55795,False,False,True,False,False,False,
+20-55796,False,False,True,False,False,False,
+20-55798,False,False,True,False,False,False,
+20-55799,False,False,True,False,False,False,
+20-55803,False,False,False,False,False,False,Etablissement public de santé
+20-55813,False,False,True,False,False,False,
+20-55818,False,False,False,False,False,False,EPCI
+20-55828,False,False,True,False,False,False,
+20-55833,False,False,False,False,False,False,collectivité territoriale
+20-55837,False,False,False,False,False,False,Etablissement public de snté
+20-55840,False,False,False,False,False,False,Organisme de Sécurité Sociale
+20-55852,False,False,False,False,True,False,
+20-55855,False,False,True,False,False,False,
+20-55856,False,False,True,False,False,False,
+20-55859,False,False,True,False,False,False,
+20-55861,False,False,True,False,False,False,
+20-55866,False,False,False,False,False,False,autre
+20-55874,False,False,True,False,False,False,
+20-55876,False,False,True,False,False,False,
+20-55879,False,False,True,False,False,False,
+20-55886,False,False,True,False,False,False,
+20-55888,False,True,False,False,False,False,
+20-55890,False,False,True,False,False,False,
+20-55893,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-55894,False,False,True,False,False,False,
+20-55895,False,False,True,False,False,False,
+20-55899,False,False,True,False,False,False,
+20-55900,False,False,True,False,False,False,
+20-55906,False,False,True,False,False,False,
+20-55910,False,False,False,False,False,False,Etablissement d'enseignement
+20-55914,True,False,False,False,False,False,
+20-55915,False,False,False,False,False,False,Santé
+20-55917,True,False,False,False,False,False,
+20-55922,False,False,False,False,True,False,
+20-55927,False,False,True,False,False,False,
+20-55935,False,False,False,False,True,False,
+20-55939,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-55946,False,False,False,False,False,False,Environnement
+20-55949,False,False,False,False,False,False,Etablissement territorial
+20-55950,False,False,False,False,True,False,
+20-55951,True,False,False,False,False,False,
+20-55954,False,False,False,False,False,False,Régie Autonome
+20-55964,False,False,True,False,False,False,
+20-55969,True,False,False,False,False,False,
+20-55971,False,False,False,False,True,False,
+20-55975,False,False,True,False,False,False,
+20-55986,False,False,True,False,False,False,
+20-55987,False,False,False,False,True,False,
+20-55988,False,False,True,False,False,False,
+20-55991,False,False,True,False,False,False,
+20-55993,False,False,True,False,False,False,
+20-55997,False,False,False,False,True,False,
+20-55999,False,True,False,False,False,False,
+20-56001,False,False,False,False,False,False,Société d'économie mixte - Personne morale de droit privé
+20-56002,False,False,True,False,False,False,
+20-56005,False,False,False,False,False,False,EPCI
+20-56006,False,False,False,False,True,False,
+20-56008,False,False,True,False,False,False,
+20-56009,False,True,False,False,False,False,
+20-56012,False,False,True,False,False,False,
+20-56017,False,False,False,False,True,False,
+20-56020,False,False,True,False,False,False,
+20-56021,False,False,False,False,False,False,SPL
+20-56023,False,False,False,False,True,False,
+20-56025,False,False,False,False,False,False,santé
+20-56027,False,False,False,False,False,False,autre
+20-56030,False,False,False,False,False,False,autre
+20-56039,False,False,True,False,False,False,
+20-56041,False,False,True,False,False,False,
+20-56042,False,False,True,False,False,False,
+20-56051,False,False,False,False,False,False,Syndicat mixte ouvert
+20-56052,False,False,False,False,True,False,
+20-56053,False,False,True,False,False,False,
+20-56065,False,False,False,False,False,False,Société Publique Locale d'Aménagement
+20-56070,False,False,True,False,False,False,
+20-56076,False,False,False,False,True,False,
+20-56077,False,False,True,False,False,False,
+20-56079,False,False,True,False,False,False,
+20-56083,False,False,True,False,False,False,
+20-56085,False,False,True,False,False,False,
+20-56087,False,False,True,False,False,False,
+20-56097,False,False,True,False,False,False,
+20-56098,True,False,False,False,False,False,
+20-56102,False,False,True,False,False,False,
+20-56107,False,False,False,False,True,False,
+20-56116,False,False,True,False,False,False,
+20-56125,True,False,False,False,False,False,
+20-56127,False,False,False,False,True,False,
+20-56128,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-56130,False,False,False,False,False,False,Organisme de droit privé
+20-56131,False,False,False,False,True,False,
+20-56138,False,False,False,False,True,False,
+20-56139,False,False,True,False,False,False,
+20-56145,False,False,False,False,True,False,
+20-56149,False,False,True,False,False,False,
+20-56165,True,False,False,False,False,False,
+20-56168,False,False,False,False,True,False,
+20-56170,False,False,True,False,False,False,
+20-56172,False,False,False,False,False,False,Organisme consulaire
+20-56173,False,True,False,False,False,False,
+20-56177,False,False,True,False,False,False,
+20-56178,False,False,True,False,False,False,
+20-56182,False,False,True,False,False,False,
+20-56185,False,False,True,False,False,False,
+20-56189,False,False,True,False,False,False,
+20-56192,False,False,False,False,True,False,
+20-56195,False,False,False,False,True,False,
+20-56200,False,False,False,False,True,False,
+20-56207,False,False,True,False,False,False,
+20-56208,False,False,False,False,True,False,
+20-56209,False,False,False,False,False,False,autre
+20-56223,False,False,True,False,False,False,
+20-56231,False,False,True,False,False,False,
+20-56241,False,False,True,False,False,False,
+20-56251,False,False,False,False,False,False,Syndicat
+20-56252,False,False,False,False,True,False,
+20-56253,False,False,True,False,False,False,
+20-56262,True,False,False,False,False,False,
+20-56265,False,False,False,False,False,False,Établissement public de l'enseignement et de la recherche
+20-56266,False,False,False,False,False,False,Etablissement Public de Santé
+20-56268,False,False,True,False,False,False,
+20-56269,False,False,False,False,False,False,SA à capitaux publics exerçant une mission d'intérêt général
+20-56271,False,False,False,False,False,False,GIE INFORMATIQUE
+20-56272,True,False,False,False,False,False,
+20-56283,False,False,False,False,False,False,FONDS D'ASSURANCE FORMATION (FAF)
+20-56288,False,False,False,False,False,False,GIE
+20-56290,False,False,True,False,False,False,
+20-56295,True,False,False,False,False,False,
+20-56298,False,False,False,False,True,False,
+20-56300,False,False,False,False,True,False,
+20-56302,False,False,True,False,False,False,
+20-56306,False,False,True,False,False,False,
+20-56307,True,False,False,False,False,False,
+20-56309,False,False,False,False,True,False,
+20-56310,False,False,True,False,False,False,
+20-56313,False,False,False,False,False,False,Personne de droit privée assurant une mission de service public
+20-56316,False,False,True,False,False,False,
+20-56317,False,False,False,False,True,False,
+20-13355,True,False,False,False,False,False,
+20-56325,False,False,False,False,False,False,Communauté de Communes
+20-56329,False,False,False,False,True,False,
+20-56332,False,False,True,False,False,False,
+20-56339,True,False,False,False,False,False,
+20-56347,False,False,True,False,False,False,
+20-56349,False,False,False,False,False,False,Etablissement public de coopération intercommunal.
+20-56361,False,False,False,False,False,False,EPA
+20-56364,False,False,True,False,False,False,
+20-56368,False,False,True,False,False,False,
+20-56372,False,False,False,False,False,False,Autre
+20-56377,True,False,False,False,False,False,
+20-56378,True,False,False,False,False,False,
+20-56381,False,False,False,False,True,False,
+20-56384,False,False,True,False,False,False,
+20-56389,False,False,True,False,False,False,
+20-56392,False,False,False,False,False,False,EPCI
+20-56396,False,False,True,False,False,False,
+20-56415,False,False,True,False,False,False,
+20-56420,False,False,True,False,False,False,
+20-56422,False,False,True,False,False,False,
+20-56430,False,False,True,False,False,False,
+20-56442,False,False,True,False,False,False,
+20-56452,False,False,False,False,True,False,
+20-56453,False,False,True,False,False,False,
+20-56457,False,False,False,False,False,False,Etablissement public d'aménagement
+20-56458,False,False,True,False,False,False,
+20-56459,True,False,False,False,False,False,
+20-56462,False,False,False,False,False,False,autre
+20-56466,False,False,True,False,False,False,
+20-56477,False,False,True,False,False,False,
+20-56484,False,False,False,False,True,False,
+20-56485,False,False,True,False,False,False,
+20-56486,False,False,True,False,False,False,
+20-56487,False,False,False,False,False,False,Etablissement public foncier
+20-56491,False,False,True,False,False,False,
+20-56493,False,False,False,False,False,False,Logement social
+20-56494,False,False,False,False,True,False,
+20-56497,False,False,True,False,False,False,
+20-56498,False,False,False,False,True,False,
+20-56502,False,False,False,False,True,False,
+20-56505,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-56506,False,False,False,False,False,False,Enseignement supérieur et recherche
+20-56509,False,False,False,False,False,False,Etablissement Public Territorial
+20-56511,False,False,True,False,False,False,
+20-14899,False,False,True,False,False,False,
+20-56520,False,False,True,False,False,False,
+20-56521,False,False,False,False,False,False,EPTB
+20-56532,False,False,False,True,False,False,
+20-56534,False,False,False,False,False,False,Environnement
+20-56535,False,False,True,False,False,False,
+20-56537,False,False,False,False,False,False,Etablissement public de santé
+20-56548,False,False,False,False,False,False,Formation professionnelle des agents territoriaux
+20-56549,False,False,True,False,False,False,
+20-56552,False,False,False,False,False,False,"Renouvellement Urbain, Aménagement, Construction"
+20-56577,True,False,False,False,False,False,
+20-56578,True,False,False,False,False,False,
+20-56579,False,False,False,True,False,False,
+20-56581,False,False,True,False,False,False,
+20-56582,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-56591,False,False,True,False,False,False,
+20-56595,False,False,False,False,False,False,SA d'HLM
+20-56607,False,False,False,False,False,False,logement social
+20-56608,False,False,True,False,False,False,
+20-56610,False,False,False,False,False,False,autre
+20-56621,False,False,True,False,False,False,
+20-56623,False,False,True,False,False,False,
+20-56625,False,False,True,False,False,False,
+20-56630,False,False,False,False,False,False,EPCI
+20-56632,True,False,False,False,False,False,
+20-56637,False,False,False,False,False,False,Régulation des marchés financiers
+20-56645,False,False,False,False,True,False,
+20-56646,False,False,False,False,False,False,établissement intercommunal
+20-56652,False,False,True,False,False,False,
+20-56658,True,False,False,False,False,False,
+20-56670,False,False,False,False,True,False,
+20-56671,False,False,True,False,False,False,
+20-56673,False,False,True,False,False,False,
+20-56675,False,False,True,False,False,False,
+20-56676,False,False,True,False,False,False,
+20-56680,False,False,True,False,False,False,
+20-56686,False,False,True,False,False,False,
+20-56692,False,False,False,False,False,False,Collectivité territoriale
+20-56694,False,False,False,False,True,False,
+20-56696,False,False,True,False,False,False,
+20-56702,False,False,False,False,True,False,
+20-56703,True,False,False,False,False,False,
+20-56711,False,False,False,False,True,False,
+20-56713,False,False,False,False,False,False,Etablissement public de santé
+20-56714,False,False,True,False,False,False,
+20-56720,False,False,True,False,False,False,
+20-56721,False,False,True,False,False,False,
+20-56727,True,False,False,False,False,False,
+20-56731,False,False,True,False,False,False,
+20-56732,True,False,False,False,False,False,
+20-56733,False,False,True,False,False,False,
+20-56734,False,False,False,False,True,False,
+20-56736,False,False,True,False,False,False,
+20-56737,False,False,False,False,True,False,
+20-56739,False,False,True,False,False,False,
+20-56742,False,False,False,False,True,False,
+20-56743,False,False,False,False,True,False,
+20-56754,False,False,True,False,False,False,
+20-56758,False,False,False,False,False,False,SYNDICAT MIXTE
+20-56760,True,False,False,False,False,False,
+20-56761,False,False,False,False,True,False,
+20-56763,False,False,False,False,True,False,
+20-56765,False,False,True,False,False,False,
+20-56768,False,False,False,False,False,False,Sem
+20-56772,False,False,True,False,False,False,
+20-56774,False,False,True,False,False,False,
+20-56775,False,False,False,False,True,False,
+20-56777,False,False,True,False,False,False,
+20-56783,False,False,True,False,False,False,
+20-56787,False,False,False,False,False,False,Etablissement public de santé
+20-56789,False,False,False,False,True,False,
+20-56794,False,False,False,False,False,False,Établissement public de coopération intercommunale
+20-56796,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+20-56800,False,False,True,False,False,False,
+20-56801,False,False,False,False,True,False,
+20-56813,False,False,True,False,False,False,
+20-56815,False,False,False,False,True,False,
+20-56817,False,False,True,False,False,False,
+20-56818,False,False,True,False,False,False,
+20-56823,False,False,False,False,True,False,
+20-56824,False,False,True,False,False,False,
+20-56826,False,False,False,False,False,False,SPL
+20-56827,False,False,True,False,False,False,
+20-56828,False,False,False,False,True,False,
+20-56829,False,False,True,False,False,False,
+20-56831,False,False,True,False,False,False,
+20-56839,False,False,False,False,False,False,SEM
+20-56840,True,False,False,False,False,False,
+20-56845,False,False,False,False,True,False,
+20-56847,False,False,False,False,True,False,
+20-56848,False,False,False,False,True,False,
+20-56852,False,False,False,False,False,False,Opérateur de compétences
+20-56858,False,False,True,False,False,False,
+20-56871,False,False,True,False,False,False,
+20-56874,False,False,True,False,False,False,
+20-56875,False,False,False,False,False,False,Etablissement public administratif
+20-56878,False,False,True,False,False,False,
+20-56884,False,False,False,False,False,False,autre
+20-56887,False,False,False,False,False,False,Parlement
+20-56898,False,False,False,False,True,False,
+20-56899,False,False,False,False,True,False,
+20-56900,False,False,False,False,True,False,
+20-56902,False,False,False,False,False,False,Etablissement public de santé
+20-56903,False,False,False,False,True,False,
+20-56904,False,False,True,False,False,False,
+20-56906,True,False,False,False,False,False,
+20-56907,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-56908,False,False,False,False,False,False,commune
+20-56913,False,False,False,False,False,False,Etablissement public de santé
+20-56914,False,False,False,False,False,False,Etablissement public de santé
+20-56917,False,False,False,False,False,False,Etablissement public de coopération intercommunal (EPCI)
+20-56918,True,False,False,False,False,False,
+20-56920,False,False,True,False,False,False,
+20-56930,False,False,True,False,False,False,
+20-56931,False,False,False,False,True,False,
+20-56932,False,False,True,False,False,False,
+20-56933,True,False,False,False,False,False,
+20-56934,False,False,False,False,False,False,commune
+20-56935,False,False,True,False,False,False,
+20-56936,False,False,False,False,True,False,
+20-56944,False,False,False,False,False,False,Organisme privé de sécurité sociale
+20-56947,False,False,True,False,False,False,
+20-56952,True,False,False,False,False,False,
+20-56954,False,False,False,False,False,False,GIE INFORMATIQUE
+20-56956,False,False,False,False,False,False,REGIE
+20-56957,False,False,True,False,False,False,
+20-56958,False,False,True,False,False,False,
+20-56963,False,False,True,False,False,False,
+20-56964,True,False,False,False,False,False,
+20-56968,False,False,True,False,False,False,
+20-56970,False,False,False,False,True,False,
+20-56971,False,False,True,False,False,False,
+20-56975,False,False,False,False,False,False,Autre acheteur public
+20-56978,False,False,False,False,True,False,
+20-56984,False,False,True,False,False,False,
+20-56985,False,False,False,True,False,False,
+20-56986,False,False,True,False,False,False,
+20-56998,False,False,False,False,True,False,
+20-57001,False,False,False,False,True,False,
+20-57011,False,False,False,False,True,False,
+20-57012,False,False,False,False,True,False,
+20-57013,False,False,False,False,True,False,
+20-57016,False,False,False,False,True,False,
+20-57019,False,False,False,False,True,False,
+20-57020,False,False,True,False,False,False,
+20-57024,False,False,True,False,False,False,
+20-57025,False,False,False,False,False,False,SPL
+20-57026,False,False,True,False,False,False,
+20-57028,False,False,True,False,False,False,
+20-57029,False,False,True,False,False,False,
+20-57031,True,False,False,False,False,False,
+20-57032,False,False,True,False,False,False,
+20-57035,False,False,False,False,False,False,etablissement de santé public
+20-57037,False,False,True,False,False,False,
+20-57042,False,False,False,True,False,False,
+20-57048,False,False,False,False,True,False,
+20-57050,False,False,False,False,True,False,
+20-57051,False,False,False,False,False,False,Etablissement de santé public
+20-57057,False,False,False,False,False,False,Organismes consulaires
+20-57058,False,False,False,False,True,False,
+20-57061,False,False,True,False,False,False,
+20-57063,True,False,False,False,False,False,
+20-57064,False,False,False,False,True,False,
+20-57065,False,False,True,False,False,False,
+20-57076,False,False,True,False,False,False,
+20-57082,False,False,False,False,False,False,Etablissement public
+20-57095,False,False,False,False,False,False,Etablissement Public Local dEnseignement
+20-57097,True,False,False,False,False,False,
+20-57102,False,False,False,False,False,False,Chambre consulaire
+20-57105,True,False,False,False,False,False,
+20-57109,False,False,True,False,False,False,
+20-57117,False,False,True,False,False,False,
+20-57125,False,False,True,False,False,False,
+20-57127,True,False,False,False,False,False,
+20-57128,False,False,True,False,False,False,
+20-57131,False,False,False,False,True,False,
+20-57136,True,False,False,False,False,False,
+20-57138,False,False,False,False,True,False,
+20-57142,False,False,True,False,False,False,
+20-57145,True,False,False,False,False,False,
+20-57152,False,False,True,False,False,False,
+20-57153,True,False,False,False,False,False,
+20-57154,True,False,False,False,False,False,
+20-57155,False,False,False,False,False,False,Société d'aménagement
+20-57160,False,False,False,False,True,False,
+20-57164,False,False,False,False,False,False,SYNDICAT MIXTE DE LA GOËLE
+20-57165,False,False,True,False,False,False,
+20-57168,False,False,False,False,True,False,
+20-57173,False,False,False,False,False,False,logement social
+20-57175,False,False,False,False,False,False,Office Public de l'Habitat
+20-57177,False,False,True,False,False,False,
+20-57183,False,False,True,False,False,False,
+20-57186,False,False,True,False,False,False,
+20-57188,False,False,False,False,True,False,
+20-57189,False,False,False,True,False,False,
+20-57196,False,False,False,False,True,False,
+20-57201,False,False,False,False,True,False,
+20-57204,False,False,False,False,False,False,ACTION SOCIALE
+20-57208,False,False,True,False,False,False,
+20-57210,False,False,False,False,False,False,Aménagement d'espaces publics
+20-57213,False,False,True,False,False,False,
+20-57216,False,False,False,False,True,False,
+20-57217,True,False,False,False,False,False,
+20-57218,False,False,False,False,True,False,
+20-57223,True,False,False,False,False,False,
+20-57225,False,False,True,False,False,False,
+20-57226,False,False,False,False,False,False,Organisme de sécurité sociale
+20-57228,False,False,True,False,False,False,
+20-57239,False,False,False,False,True,False,
+20-57241,False,False,False,False,True,False,
+20-57242,False,False,False,False,True,False,
+20-57243,False,False,True,False,False,False,
+20-57247,False,False,True,False,False,False,
+20-57248,False,False,False,False,False,False,Etablissement public de santé
+20-57250,False,False,False,False,True,False,
+20-57253,False,False,True,False,False,False,
+20-57255,False,False,True,False,False,False,
+20-57258,False,False,False,False,False,False,Etablissement public de coopération intercommunale (EPCI)
+20-57262,False,False,True,False,False,False,
+20-57269,False,False,True,False,False,False,
+20-57272,False,False,False,False,True,False,
+20-57276,False,False,False,False,False,False,Etablissement Public Local
+20-57278,False,False,True,False,False,False,
+20-57279,False,False,True,False,False,False,
+20-57284,True,False,False,False,False,False,
+20-57288,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-57292,False,False,True,False,False,False,
+20-57300,False,False,False,False,True,False,
+20-57301,False,False,True,False,False,False,
+20-57302,False,False,False,False,True,False,
+20-57307,True,False,False,False,False,False,
+20-57309,False,False,False,False,True,False,
+20-57310,False,False,False,False,True,False,
+20-57312,False,False,True,False,False,False,
+20-57316,False,False,True,False,False,False,
+20-57323,True,False,False,False,False,False,
+20-57325,False,False,True,False,False,False,
+20-57326,False,False,True,False,False,False,
+20-57327,False,False,True,False,False,False,
+20-57328,True,False,False,False,False,False,
+20-57333,False,False,True,False,False,False,
+20-57338,False,False,False,False,False,False,Chambre de commerce et d'industrie
+20-57343,False,False,True,False,False,False,
+20-57344,False,False,True,False,False,False,
+20-57346,False,False,False,False,False,False,Etablissement public de santé
+20-57347,False,False,True,False,False,False,
+20-57355,False,False,False,False,True,False,
+20-57360,False,False,True,False,False,False,
+20-57364,False,False,True,False,False,False,
+20-57367,False,False,True,False,False,False,
+20-57368,False,False,True,False,False,False,
+20-57369,False,False,False,False,True,False,
+20-57370,False,False,True,False,False,False,
+20-57374,False,False,False,False,True,False,
+20-57375,False,False,True,False,False,False,
+20-57376,False,False,True,False,False,False,
+20-57384,False,False,False,False,False,False,Etablissements publics de santé
+20-57389,False,False,True,False,False,False,
+20-57390,False,False,False,False,False,False,Aménagement urbain
+20-57393,True,False,False,False,False,False,
+20-57395,False,False,False,False,True,False,
+20-57398,False,False,True,False,False,False,
+20-57400,False,False,False,False,True,False,
+20-57402,True,False,False,False,False,False,
+20-57403,False,False,False,False,True,False,
+20-57406,False,False,False,False,True,False,
+20-57408,False,False,True,False,False,False,
+20-57415,False,False,False,False,True,False,
+20-57418,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+20-57424,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-57427,False,False,False,False,False,False,Etablissement public de santé
+20-57445,False,False,True,False,False,False,
+20-57453,False,False,False,False,False,False,Santé
+20-57456,False,False,True,False,False,False,
+20-57466,False,False,False,False,True,False,
+20-57469,False,False,True,False,False,False,
+20-57471,False,False,False,False,True,False,
+20-57474,False,False,True,False,False,False,
+20-57478,False,False,True,False,False,False,
+20-57481,False,False,False,False,False,False,autre
+20-57484,False,False,True,False,False,False,
+20-57492,True,False,False,False,False,False,
+20-57497,False,False,False,False,True,False,
+20-57499,False,False,True,False,False,False,
+20-57507,True,False,False,False,False,False,
+20-57508,False,False,False,False,True,False,
+20-57509,False,False,True,False,False,False,
+20-57510,True,False,False,False,False,False,
+20-57513,False,False,False,False,False,False,Etablissement Public National
+20-57518,False,False,False,False,False,False,Etablissement public de coopération intercommunale (EPCI)
+20-57521,False,False,True,False,False,False,
+20-57524,False,False,False,False,True,False,
+20-57527,False,False,True,False,False,False,
+20-57528,False,False,True,False,False,False,
+20-57532,False,False,True,False,False,False,
+20-57543,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-57545,False,False,True,False,False,False,
+20-57546,False,False,False,False,True,False,
+20-57547,False,False,False,False,True,False,
+20-57549,False,False,True,False,False,False,
+20-57570,False,False,False,False,False,False,GIP
+20-57574,False,False,True,False,False,False,
+20-57584,False,False,True,False,False,False,
+20-57586,False,False,False,False,True,False,
+20-57587,False,False,False,False,True,False,
+20-57588,True,False,False,False,False,False,
+20-57590,True,False,False,False,False,False,
+20-57592,False,False,False,False,True,False,
+20-57594,False,False,False,False,True,False,
+20-57597,False,False,False,True,False,False,
+20-57601,True,False,False,False,False,False,
+20-57606,False,False,False,False,False,False,EHPAD PUBLIC
+20-57615,False,False,False,False,True,False,
+20-57623,False,False,False,False,True,False,
+20-57624,False,False,False,False,True,False,
+20-57631,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-57639,False,False,True,False,False,False,
+20-57640,False,False,True,False,False,False,
+20-57642,False,False,False,False,False,False,Organisme de formation de la Sécurité Sociale
+20-57653,False,False,False,True,False,False,
+20-57657,False,False,True,False,False,False,
+20-57663,False,False,True,False,False,False,
+20-57665,False,False,False,False,True,False,
+20-57666,True,False,False,False,False,False,
+20-57672,False,False,False,False,True,False,
+20-57679,False,False,False,False,False,False,SCIC EVOLEA
+20-57682,True,False,False,False,False,False,
+20-57683,False,False,False,False,False,False,SDIS
+20-57684,False,False,False,False,False,False,Santé
+20-57687,False,False,True,False,False,False,
+20-57705,False,False,True,False,False,False,
+20-57706,False,False,True,False,False,False,
+20-57716,False,False,True,False,False,False,
+20-57721,False,False,False,False,True,False,
+20-57723,True,False,False,False,False,False,
+20-57725,False,False,True,False,False,False,
+20-57729,False,False,False,False,True,False,
+20-57731,False,False,False,False,False,False,Office des transports de la Corse
+20-57732,False,False,False,False,False,False,Organisme de droit privé (SAS)
+20-57733,False,False,True,False,False,False,
+20-57738,False,False,True,False,False,False,
+20-57745,False,False,False,False,True,False,
+20-57746,False,False,False,False,False,False,Bailleur social
+20-57747,False,False,True,False,False,False,
+20-57748,False,False,False,False,True,False,
+20-57749,False,False,True,False,False,False,
+20-57754,False,False,False,False,True,False,
+20-57756,False,False,False,False,True,False,
+20-57759,False,False,True,False,False,False,
+20-57767,False,False,False,False,False,False,EPS
+20-57778,False,False,False,False,False,False,autre
+20-57783,False,False,False,False,True,False,
+20-57790,False,False,False,False,False,False,Parlement - Sénat
+20-57793,False,False,True,False,False,False,
+20-57795,False,False,True,False,False,False,
+20-57797,False,False,False,False,True,False,
+20-57805,False,False,True,False,False,False,
+20-57813,False,False,True,False,False,False,
+20-57815,False,False,True,False,False,False,
+20-57821,False,False,True,False,False,False,
+20-57822,True,False,False,False,False,False,
+20-57831,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-57834,True,False,False,False,False,False,
+20-57837,False,False,True,False,False,False,
+20-57842,True,False,False,False,False,False,
+20-57854,False,False,False,False,True,False,
+20-57858,False,False,False,False,True,False,
+20-57860,False,False,False,False,True,False,
+20-57861,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+20-57864,False,False,True,False,False,False,
+20-57871,False,False,False,False,True,False,
+20-57873,True,False,False,False,False,False,
+20-57874,False,False,False,False,True,False,
+20-57876,False,False,False,False,True,False,
+20-57884,False,False,True,False,False,False,
+20-57886,False,False,True,False,False,False,
+20-31568,False,False,False,False,False,False,Établissement public de l'enseignement et de la recherche
+20-57898,False,False,False,False,False,False,Établissement public de coopération intercommunale
+20-57899,False,False,False,False,True,False,
+20-57909,False,False,True,False,False,False,
+20-57910,False,False,True,False,False,False,
+20-57913,False,False,False,False,False,False,Syndicat d'énergie et de e-communication de l'Ain
+20-57914,False,False,True,False,False,False,
+20-57919,False,False,True,False,False,False,
+20-57928,False,False,False,False,True,False,
+20-57938,False,False,False,False,True,False,
+20-57939,False,False,False,True,False,False,
+20-57945,False,False,False,False,False,False,Commune
+20-57950,False,False,True,False,False,False,
+20-57951,False,False,False,False,True,False,
+20-57954,True,False,False,False,False,False,
+20-57957,False,False,False,True,False,False,
+20-57959,False,False,False,False,True,False,
+20-57967,False,False,False,False,True,False,
+20-57969,True,False,False,False,False,False,
+20-31902,False,False,False,False,False,False,Centre de Gestion de la Fonction Publique Territoriale
+20-57971,False,False,True,False,False,False,
+20-57977,False,False,True,False,False,False,
+20-57985,False,False,False,False,True,False,
+20-57990,False,False,False,False,False,False,Commune
+20-57992,False,False,False,False,True,False,
+20-57993,False,False,False,False,False,False,Etablissement public de santé
+20-57996,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+20-57997,False,False,False,False,False,False,Société d'économie mixte
+20-58001,False,False,False,False,False,False,GIP
+20-58008,True,False,False,False,False,False,
+20-58009,False,False,False,False,False,False,Société Publique Locale (SPL)
+20-58014,True,False,False,False,False,False,
+20-58015,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-58016,False,False,True,False,False,False,
+20-58019,False,False,True,False,False,False,
+20-58021,True,False,False,False,False,False,
+20-58024,False,False,True,False,False,False,
+20-58035,False,False,True,False,False,False,
+20-58036,False,False,True,False,False,False,
+20-58041,False,False,True,False,False,False,
+20-58042,False,False,True,False,False,False,
+20-58043,False,False,False,False,False,False,Enseignement et recherche
+20-58046,False,False,False,False,True,False,
+20-58048,True,False,False,False,False,False,
+20-58053,False,False,False,False,False,False,ETABLISSEMENT PUBLIC AUTONOME
+20-58055,True,False,False,False,False,False,
+20-58060,False,False,True,False,False,False,
+20-58072,False,False,False,False,True,False,
+20-58073,False,False,False,False,False,False,Association régie par la loi du 1er juillet 1901
+20-58089,False,False,False,False,False,False,Etablissement de coopération intercommunale
+20-58093,False,False,False,False,False,False,Collectivité territoriale (région)
+20-58094,False,False,False,False,True,False,
+20-58100,False,False,False,False,False,False,SDIS
+20-58104,True,False,False,False,False,False,
+20-58105,False,False,True,False,False,False,
+20-58119,False,False,False,False,True,False,
+20-58124,False,False,False,False,True,False,
+20-58131,False,False,True,False,False,False,
+20-30687,False,False,False,False,True,False,
+20-34865,False,False,True,False,False,False,
+20-58144,True,False,False,False,False,False,
+20-58156,False,False,False,False,True,False,
+20-58168,False,False,True,False,False,False,
+20-58181,True,False,False,False,False,False,
+20-58186,True,False,False,False,False,False,
+20-58191,False,False,True,False,False,False,
+20-58196,False,False,False,False,True,False,
+20-58220,False,False,True,False,False,False,
+20-58222,False,False,False,False,True,False,
+20-58228,False,False,False,False,False,False,ETABLISSEMENT PUBLIC AUTONOME
+20-58231,False,False,True,False,False,False,
+20-58232,False,False,True,False,False,False,
+20-58237,False,False,False,False,False,False,Etablissement public de santé
+20-58238,False,False,True,False,False,False,
+20-58244,False,False,False,False,True,False,
+20-58249,False,False,True,False,False,False,
+20-58254,False,False,True,False,False,False,
+20-58256,False,False,False,False,True,False,
+20-58276,False,False,False,False,True,False,
+20-18683,False,False,True,False,False,False,
+20-58878,False,False,False,False,False,False,GIP
+20-58892,False,False,False,False,True,False,
+20-58897,False,False,False,False,True,False,
+20-58899,False,False,False,False,True,False,
+20-28738,False,False,False,False,False,False,EPCI
+20-597,False,False,False,False,True,False,
+20-6272,False,False,False,False,True,False,
+20-8011,False,False,False,False,False,False,Organisme de droit privé de la MSA
+20-8783,True,False,False,False,False,False,
+20-9482,False,False,True,False,False,False,

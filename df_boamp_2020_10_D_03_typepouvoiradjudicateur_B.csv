@@ -1,0 +1,2975 @@
+BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Typepouvoiradjudicateur_Agencenational,D_03_03_Typepouvoiradjudicateur_Autotriteregional,D_03_04_Typepouvoiradjudicateur_Agenceregional,D_03_05_Typepouvoiradjudicateur_Orgdroitpublic,D_03_06_Typepouvoiradjudicateur_Institutioneuropeenne,D_03_07_Typepouvoiradjudicateur_Autre
+20-125385,False,False,False,False,False,False,Etablissement Public de Santé
+20-125386,False,False,True,False,False,False,
+20-125389,False,False,True,False,False,False,
+20-125393,False,False,False,False,False,False,Etablissement public de santé
+20-125396,False,False,False,False,False,False,Métropole
+20-125399,False,False,True,False,False,False,
+20-125400,False,False,True,False,False,False,
+20-125404,False,False,True,False,False,False,
+20-93051,False,False,False,False,False,False,groupement d'intérêt public
+20-125408,False,False,True,False,False,False,
+20-125413,False,False,False,False,True,False,
+20-125414,False,False,False,False,True,False,
+20-125418,False,False,True,False,False,False,
+20-125428,False,False,True,False,False,False,
+20-125429,True,False,False,False,False,False,
+20-125436,False,False,True,False,False,False,
+20-125437,False,False,True,False,False,False,
+20-125440,False,False,False,False,True,False,
+20-125442,False,False,False,False,True,False,
+20-125443,False,False,True,False,False,False,
+20-125444,False,False,False,False,True,False,
+20-125447,False,False,True,False,False,False,
+20-125449,False,False,True,False,False,False,
+20-125453,False,False,True,False,False,False,
+20-125454,False,False,True,False,False,False,
+20-125459,False,False,True,False,False,False,
+20-125461,False,False,True,False,False,False,
+20-125462,False,False,True,False,False,False,
+20-125470,False,False,False,False,True,False,
+20-125473,False,False,True,False,False,False,
+20-125474,False,False,False,False,True,False,
+20-125475,False,False,True,False,False,False,
+20-125476,False,False,False,False,False,False,Gestion des voies navigables
+20-125483,False,False,True,False,False,False,
+20-125484,False,False,False,False,True,False,
+20-125488,False,False,False,False,True,False,
+20-125491,False,False,False,False,False,False,EPS
+20-125493,False,False,True,False,False,False,
+20-125495,False,False,True,False,False,False,
+20-125496,False,False,True,False,False,False,
+20-125497,False,False,False,False,True,False,
+20-125498,False,False,True,False,False,False,
+20-125502,False,False,False,False,True,False,
+20-125503,False,False,True,False,False,False,
+20-125505,False,False,True,False,False,False,
+20-125507,False,False,True,False,False,False,
+20-125508,False,False,True,False,False,False,
+20-125511,False,False,False,False,False,False,EPCSCP
+20-125512,False,False,True,False,False,False,
+20-125513,False,False,False,False,True,False,
+20-125515,True,False,False,False,False,False,
+20-125518,False,False,True,False,False,False,
+20-125522,False,False,False,False,True,False,
+20-125525,False,False,False,True,False,False,
+20-125526,False,False,True,False,False,False,
+20-125531,False,False,True,False,False,False,
+20-125537,False,False,True,False,False,False,
+20-125539,False,False,False,False,True,False,
+20-125540,False,False,False,False,True,False,
+20-125541,False,False,True,False,False,False,
+20-125544,False,False,False,False,True,False,
+20-125546,False,False,False,False,True,False,
+20-125550,True,False,False,False,False,False,
+20-125560,False,False,False,False,False,False,EPS
+20-125561,False,True,False,False,False,False,
+20-125564,False,False,True,False,False,False,
+20-125565,False,False,False,False,False,False,Service d'Incendie et de Secours
+20-125567,False,False,True,False,False,False,
+20-125568,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-125570,False,False,False,False,True,False,
+20-125573,False,False,False,False,True,False,
+20-125575,False,False,False,False,False,False,autre
+20-125576,False,False,True,False,False,False,
+20-125582,False,False,True,False,False,False,
+20-125587,False,False,False,False,True,False,
+20-125588,False,False,False,False,False,False,Communauté de communes
+20-125589,False,False,False,False,False,False,Association
+20-125591,False,False,False,False,False,False,EPCI
+20-125594,False,False,True,False,False,False,
+20-125595,False,False,False,False,True,False,
+20-125596,False,False,False,False,True,False,
+20-125598,False,False,False,False,False,False,Organisme de Sécurité Sociale
+20-125601,False,False,False,False,True,False,
+20-125604,False,False,True,False,False,False,
+20-125605,False,False,True,False,False,False,
+20-125614,False,False,False,False,True,False,
+20-125615,False,False,False,False,False,False,autre
+20-125616,False,False,False,False,False,False,autre
+20-125617,False,False,False,False,False,False,autre
+20-125621,False,False,False,False,False,False,Etablissement public de santé
+20-104503,False,False,False,False,True,False,
+20-125636,False,False,True,False,False,False,
+20-125637,False,False,True,False,False,False,
+20-125641,False,False,False,False,False,False,autre
+20-125643,False,False,True,False,False,False,
+20-125644,False,False,False,False,True,False,
+20-125646,False,False,False,False,True,False,
+20-125651,False,False,True,False,False,False,
+20-125662,False,False,True,False,False,False,
+20-125663,False,False,False,False,False,False,SCIC EVOLEA
+20-125667,False,False,False,False,True,False,
+20-125670,False,False,False,False,False,False,Etablissement public de santé
+20-125671,False,False,False,False,False,False,Santé
+20-125672,False,False,True,False,False,False,
+20-125682,False,False,True,False,False,False,
+20-125683,False,False,True,False,False,False,
+20-125686,False,False,True,False,False,False,
+20-125687,True,False,False,False,False,False,
+20-125690,False,False,True,False,False,False,
+20-125692,False,False,True,False,False,False,
+20-125694,False,False,False,False,False,False,commune
+20-125696,False,False,False,False,True,False,
+20-125697,False,False,True,False,False,False,
+20-125698,False,False,True,False,False,False,
+20-125699,False,False,True,False,False,False,
+20-125701,False,False,True,False,False,False,
+20-125703,False,False,False,False,False,False,SA HLM
+20-125706,False,False,True,False,False,False,
+20-125710,False,False,True,False,False,False,
+20-125711,False,False,False,False,False,False,Groupement hospitalier de territoire
+20-125712,False,False,True,False,False,False,
+20-125713,True,False,False,False,False,False,
+20-125714,False,False,False,False,False,False,Opérateur de compétences
+20-125715,False,False,True,False,False,False,
+20-125717,False,False,True,False,False,False,
+20-125720,False,False,False,False,True,False,
+20-125726,False,False,True,False,False,False,
+20-125728,False,False,False,False,False,False,Santé
+20-125732,False,False,False,False,True,False,
+20-125733,False,False,False,False,False,False,Santé
+20-125736,False,False,False,False,True,False,
+20-125737,False,False,True,False,False,False,
+20-125739,False,False,False,False,True,False,
+20-125740,False,False,True,False,False,False,
+20-125741,False,False,False,False,False,False,Sem
+20-125742,False,False,False,False,True,False,
+20-125745,False,False,True,False,False,False,
+20-125746,False,False,True,False,False,False,
+20-125748,False,False,False,False,True,False,
+20-125751,False,False,True,False,False,False,
+20-125754,False,False,False,False,False,False,Protection sociale
+20-125757,False,False,False,False,False,False,SA HLM
+20-125759,False,False,True,False,False,False,
+20-125761,False,False,False,False,True,False,
+20-125765,False,False,True,False,False,False,
+20-125774,False,False,False,False,True,False,
+20-125779,False,False,False,False,False,False,Organisme consulaire
+20-125780,False,False,True,False,False,False,
+20-125790,False,False,False,False,False,False,Etablissement SOCIAL MEDICO SOCIAL
+20-125791,True,False,False,False,False,False,
+20-125793,False,False,False,False,False,False,Groupement hospitalier de territoire
+20-125797,False,False,True,False,False,False,
+20-125800,False,False,False,False,True,False,
+20-125808,False,False,False,False,True,False,
+20-125809,False,False,True,False,False,False,
+20-125818,False,False,True,False,False,False,
+20-125820,False,False,False,False,True,False,
+20-110351,False,False,False,False,False,False,Etablissement Public de Santé
+20-125822,False,False,True,False,False,False,
+20-125823,False,False,False,False,True,False,
+20-125825,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-125826,True,False,False,False,False,False,
+20-125828,False,False,False,True,False,False,
+20-125829,False,False,False,False,False,False,Service départemental d'incendie et de secours
+20-125833,False,False,False,True,False,False,
+20-125834,False,False,False,False,True,False,
+20-125836,False,False,True,False,False,False,
+20-125838,False,False,True,False,False,False,
+20-125840,False,False,True,False,False,False,
+20-125841,False,False,True,False,False,False,
+20-125842,False,False,True,False,False,False,
+20-125845,False,False,False,False,False,False,Centre Hospitalier
+20-125846,False,False,False,False,True,False,
+20-125852,False,False,False,False,True,False,
+20-125855,False,False,True,False,False,False,
+20-125860,False,False,False,False,False,False,Sté d'Exploitation de la Tour Eiffel
+20-125862,False,False,True,False,False,False,
+20-125863,False,False,True,False,False,False,
+20-125870,False,False,True,False,False,False,
+20-125872,False,False,True,False,False,False,
+20-125878,False,False,True,False,False,False,
+20-125882,False,False,True,False,False,False,
+20-125884,False,False,True,False,False,False,
+20-125886,False,False,True,False,False,False,
+20-125887,False,False,False,False,False,False,Organisme de sécurité sociale
+20-125888,False,False,False,False,False,False,Enseignement supérieur et recherches
+20-125892,False,False,True,False,False,False,
+20-125897,False,False,False,False,False,False,Sté d'Exploitation de la Tour Eiffel
+20-125898,False,False,True,False,False,False,
+20-125910,False,False,False,False,True,False,
+20-125916,False,False,False,False,True,False,
+20-125917,False,False,False,False,True,False,
+20-125921,False,False,True,False,False,False,
+20-125922,False,False,False,False,False,False,Entreprise sociale pour l'habitat
+20-125924,False,False,True,False,False,False,
+20-125925,False,False,True,False,False,False,
+20-125927,False,False,True,False,False,False,
+20-125928,False,False,True,False,False,False,
+20-125936,False,False,False,False,False,False,Collectivité territoriale
+20-125937,False,False,True,False,False,False,
+20-125938,False,False,False,False,False,False,Organisme de Sécurité Sociale de droit privé assurant une mission de service public
+20-125942,False,False,False,False,True,False,
+20-125944,False,False,False,False,False,False,Groupement d'intérêt Public
+20-125947,False,False,True,False,False,False,
+20-125948,True,False,False,False,False,False,
+20-125951,False,False,False,False,True,False,
+20-125953,False,False,True,False,False,False,
+20-125955,False,False,True,False,False,False,
+20-125956,False,False,True,False,False,False,
+20-125958,False,False,True,False,False,False,
+20-125959,False,False,True,False,False,False,
+20-125960,False,False,True,False,False,False,
+20-125961,True,False,False,False,False,False,
+20-125962,False,False,False,False,True,False,
+20-125963,False,False,False,False,False,False,autre
+20-125964,False,False,False,True,False,False,
+20-125967,False,False,False,False,False,False,établissement public local
+20-125968,False,False,True,False,False,False,
+20-125971,False,False,True,False,False,False,
+20-125973,False,False,False,False,True,False,
+20-125976,False,False,False,False,False,False,Etablissement public administratif
+20-125977,False,False,True,False,False,False,
+20-125980,False,False,True,False,False,False,
+20-125985,False,False,True,False,False,False,
+20-93129,False,False,False,False,True,False,
+20-125990,False,False,False,False,True,False,
+20-125993,True,False,False,False,False,False,
+20-125996,True,False,False,False,False,False,
+20-126001,False,False,True,False,False,False,
+20-126002,False,False,False,False,False,False,Etablissement de Santé
+20-126004,False,False,True,False,False,False,
+20-126005,True,False,False,False,False,False,
+20-126006,False,False,False,False,True,False,
+20-126010,False,False,False,False,False,False,commune
+20-126012,False,False,True,False,False,False,
+20-126014,False,False,True,False,False,False,
+20-120176,False,False,True,False,False,False,
+20-126019,False,False,False,False,True,False,
+20-126025,False,False,True,False,False,False,
+20-126026,False,False,True,False,False,False,
+20-126029,False,False,False,False,True,False,
+20-126032,False,False,True,False,False,False,
+20-126037,False,False,True,False,False,False,
+20-126038,False,False,True,False,False,False,
+20-126042,False,False,False,False,True,False,
+20-126054,True,False,False,False,False,False,
+20-126056,False,False,True,False,False,False,
+20-126058,False,False,False,False,False,False,Organisme de droits privé
+20-126059,False,False,True,False,False,False,
+20-126060,False,False,False,True,False,False,
+20-126062,False,False,True,False,False,False,
+20-126066,False,False,True,False,False,False,
+20-126068,False,False,False,False,True,False,
+20-126069,False,False,True,False,False,False,
+20-126071,False,False,False,False,True,False,
+20-126072,False,False,True,False,False,False,
+20-126076,False,False,False,True,False,False,
+20-126077,False,False,False,False,False,False,OPCO - Opérateur de Compétences
+20-126079,True,False,False,False,False,False,
+20-126090,True,False,False,False,False,False,
+20-126091,False,False,False,False,True,False,
+20-126092,False,False,False,False,True,False,
+20-126097,False,False,False,False,True,False,
+20-126101,False,False,True,False,False,False,
+20-126103,False,False,False,False,True,False,
+20-126104,False,False,True,False,False,False,
+20-126105,False,False,True,False,False,False,
+20-126107,False,False,True,False,False,False,
+20-126108,True,False,False,False,False,False,
+20-126114,False,False,False,False,False,False,Aménagement
+20-126115,False,False,False,False,True,False,
+20-126116,False,False,False,False,True,False,
+20-126117,False,False,True,False,False,False,
+20-126121,False,False,False,False,True,False,
+20-103657,False,False,False,False,True,False,
+20-126128,False,False,False,False,True,False,
+20-126129,False,False,False,False,True,False,
+20-126130,False,False,False,False,True,False,
+20-126136,False,False,True,False,False,False,
+20-126140,False,False,True,False,False,False,
+20-126143,True,False,False,False,False,False,
+20-126144,False,False,True,False,False,False,
+20-126146,False,False,False,False,False,False,SA Publique en charge de valorisation de biens publics
+20-126147,False,False,True,False,False,False,
+20-126149,False,False,True,False,False,False,
+20-126150,False,False,False,False,False,False,Collectivité (mairie)
+20-126155,False,False,True,False,False,False,
+20-126156,False,False,True,False,False,False,
+20-126158,False,False,False,False,True,False,
+20-126162,False,False,False,False,True,False,
+20-126163,False,False,True,False,False,False,
+20-126164,False,False,False,False,False,False,Syndicat intercommunal d'Assainissement de Marne la Vallée (SIAM)
+20-126171,False,False,False,False,False,False,EPCC
+20-126173,False,False,True,False,False,False,
+20-126174,False,False,True,False,False,False,
+20-126181,False,False,False,False,True,False,
+20-126185,False,False,False,False,True,False,
+20-126189,False,False,False,False,False,False,Société Publique Locale
+20-126190,False,False,True,False,False,False,
+20-126197,True,False,False,False,False,False,
+20-126199,False,False,False,False,False,False,Organisation consulaire
+20-126200,False,False,True,False,False,False,
+20-126203,False,False,False,False,False,False,autre
+20-126205,False,False,False,False,False,False,Établissement Public Administratif
+20-126206,False,False,False,False,False,False,Société d'Economie Mixte
+20-126209,False,False,True,False,False,False,
+20-126215,False,False,False,False,True,False,
+20-126216,False,False,True,False,False,False,
+20-126217,False,False,False,False,False,False,Enseignement supérieur et recherche
+20-126218,True,False,False,False,False,False,
+20-126223,True,False,False,False,False,False,
+20-126224,False,False,True,False,False,False,
+20-126225,True,False,False,False,False,False,
+20-126229,False,False,True,False,False,False,
+20-126230,True,False,False,False,False,False,
+20-126231,False,False,False,False,False,False,Collectivité locale
+20-126232,False,False,True,False,False,False,
+20-126243,False,False,True,False,False,False,
+20-126245,True,False,False,False,False,False,
+20-126246,False,False,True,False,False,False,
+20-126247,False,False,True,False,False,False,
+20-126248,False,False,False,False,False,False,Collectivité territoriale
+20-126251,False,False,False,False,True,False,
+20-126254,False,False,False,False,False,False,SPL
+20-126257,False,False,True,False,False,False,
+20-126265,False,False,True,False,False,False,
+20-126266,True,False,False,False,False,False,
+20-126268,False,False,False,False,False,False,Etablissement public administratif de l'état
+20-126269,False,False,True,False,False,False,
+20-126275,True,False,False,False,False,False,
+20-126278,False,False,True,False,False,False,
+20-126279,True,False,False,False,False,False,
+20-126281,False,False,False,False,True,False,
+20-126286,False,False,True,False,False,False,
+20-126293,False,False,False,False,False,False,Association
+20-126294,False,False,True,False,False,False,
+20-126296,False,False,True,False,False,False,
+20-126307,False,False,True,False,False,False,
+20-126311,False,False,False,False,True,False,
+20-126312,False,False,False,False,True,False,
+20-126313,False,False,True,False,False,False,
+20-126315,False,False,True,False,False,False,
+20-126316,False,False,False,False,False,False,Service départemental d'incendie et de secours
+20-126320,False,False,False,False,True,False,
+20-126321,False,False,True,False,False,False,
+20-126324,False,False,True,False,False,False,
+20-126329,False,False,True,False,False,False,
+20-126332,False,False,True,False,False,False,
+20-126333,False,False,True,False,False,False,
+20-126335,False,False,False,False,True,False,
+20-126336,False,False,True,False,False,False,
+20-126340,False,False,False,False,True,False,
+20-126343,False,False,True,False,False,False,
+20-126345,False,False,True,False,False,False,
+20-126346,False,False,True,False,False,False,
+20-126347,False,False,True,False,False,False,
+20-126348,True,False,False,False,False,False,
+20-126349,False,False,True,False,False,False,
+20-126351,False,False,False,False,False,False,Cté d'agglomération
+20-126355,False,False,True,False,False,False,
+20-126357,True,False,False,False,False,False,
+20-126359,False,False,False,False,True,False,
+20-126360,False,False,False,False,False,False,GROUPEMENT DE COOPERATION SANITAIRE
+20-126365,False,False,False,False,False,False,"LANGUEDOC ROUSSILLON AGENCE DE DEVELOPPEMENT agissant au nom et pour le compte de la Région OCCITANIE, représentée par la Présidente de la Région Occitanie Pyrénées Méditerranée, Madame Carole DELGA"
+20-126369,False,False,True,False,False,False,
+20-126373,False,False,True,False,False,False,
+20-126375,False,False,True,False,False,False,
+20-126381,False,False,False,False,True,False,
+20-126392,False,False,False,False,False,False,autre
+20-126395,False,False,False,False,True,False,
+20-126397,False,False,False,False,False,False,autre
+20-126398,False,False,False,False,False,False,autre
+20-126404,False,False,True,False,False,False,
+20-126405,True,False,False,False,False,False,
+20-126408,False,False,True,False,False,False,
+20-126412,False,False,True,False,False,False,
+20-126413,False,False,False,False,False,False,Etablissement public de santé
+20-94330,False,False,False,False,False,False,Education
+20-126418,False,False,False,False,True,False,
+20-126420,True,False,False,False,False,False,
+20-126421,False,False,True,False,False,False,
+20-126422,False,False,False,False,False,False,Université
+20-126424,False,False,False,False,False,False,EPST
+20-126427,False,False,False,False,False,False,Etablissement public de santé
+20-126428,False,False,True,False,False,False,
+20-126429,False,False,True,False,False,False,
+20-126433,False,False,True,False,False,False,
+20-126436,False,False,False,False,False,False,EPCI
+20-126441,True,False,False,False,False,False,
+20-126446,False,False,True,False,False,False,
+20-126447,False,False,True,False,False,False,
+20-126451,False,False,True,False,False,False,
+20-126454,False,False,False,True,False,False,
+20-126455,False,False,True,False,False,False,
+20-126461,False,False,False,False,True,False,
+20-126464,False,False,True,False,False,False,
+20-126465,False,False,False,False,False,False,autre
+20-126467,False,False,True,False,False,False,
+20-126473,False,False,False,False,False,False,Protection sociale
+20-126475,False,False,True,False,False,False,
+20-126476,False,False,True,False,False,False,
+20-126478,True,False,False,False,False,False,
+20-126479,False,False,True,False,False,False,
+20-126490,False,False,True,False,False,False,
+20-126493,False,False,True,False,False,False,
+20-126497,False,False,False,False,True,False,
+20-126498,True,False,False,False,False,False,
+20-126500,False,False,True,False,False,False,
+20-126501,False,False,False,False,True,False,
+20-126502,False,False,False,False,False,False,Etablissement public de santé
+20-126503,False,False,True,False,False,False,
+20-126504,False,False,False,False,False,False,Etablissement public de santé
+20-126507,True,False,False,False,False,False,
+20-126509,False,False,False,False,False,False,Etablissement Public de Santé
+20-126510,False,False,True,False,False,False,
+20-126511,False,False,False,False,False,False,"Gestion et protection des titres de propriété industrielle (brevets, marques, dessins et modèles)"
+20-126515,False,False,True,False,False,False,
+20-126517,False,False,False,False,True,False,
+20-126518,False,False,False,False,True,False,
+20-126520,False,False,False,False,True,False,
+20-126521,False,False,False,False,True,False,
+20-126522,True,False,False,False,False,False,
+20-126523,False,False,True,False,False,False,
+20-116432,False,False,False,False,True,False,
+20-126527,False,False,True,False,False,False,
+20-126528,False,False,False,False,True,False,
+20-126529,False,False,True,False,False,False,
+20-107920,False,False,True,False,False,False,
+20-126534,False,False,True,False,False,False,
+20-126537,False,False,False,False,True,False,
+20-126541,False,False,False,False,False,False,autre
+20-126543,False,False,True,False,False,False,
+20-126546,False,False,True,False,False,False,
+20-126547,False,False,False,False,False,False,Collectivité territoriale
+20-126552,False,False,True,False,False,False,
+20-126555,True,False,False,False,False,False,
+20-126556,False,False,True,False,False,False,
+20-126559,False,False,True,False,False,False,
+20-126562,True,False,False,False,False,False,
+20-126564,False,False,True,False,False,False,
+20-126565,False,False,True,False,False,False,
+20-126571,False,False,True,False,False,False,
+20-126572,False,False,True,False,False,False,
+20-126574,False,False,False,False,True,False,
+20-93960,False,False,False,False,True,False,
+20-126576,False,False,False,False,True,False,
+20-126579,False,False,False,False,True,False,
+20-126581,False,False,False,False,False,False,collectivité territoriale
+20-126584,False,False,False,False,False,False,"Etablissement public à caractère scientifique, culturel et professionnel (EPSCP)"
+20-126590,False,False,False,False,True,False,
+20-126594,False,False,True,False,False,False,
+20-126595,False,False,True,False,False,False,
+20-126598,False,False,False,False,True,False,
+20-126599,False,False,True,False,False,False,
+20-126600,False,False,False,False,False,False,Santé
+20-126601,True,False,False,False,False,False,
+20-126606,False,False,True,False,False,False,
+20-126608,True,False,False,False,False,False,
+20-126613,True,False,False,False,False,False,
+20-126615,False,False,True,False,False,False,
+20-126620,False,False,True,False,False,False,
+20-126623,False,False,True,False,False,False,
+20-126624,False,False,True,False,False,False,
+20-126626,False,False,False,False,False,False,autre
+20-126629,False,False,True,False,False,False,
+20-126630,False,False,False,False,False,False,autre
+20-126631,False,False,True,False,False,False,
+20-126634,False,False,True,False,False,False,
+20-126635,False,False,False,False,True,False,
+20-126638,False,False,False,False,False,False,EPS
+20-126640,False,False,False,False,False,False,Groupement d'intérêt économique
+20-126641,False,False,False,False,False,False,Établissement Public de Coopération Intercommunale
+20-126644,False,False,False,False,False,False,Collectivité territoriale
+20-126650,False,False,False,True,False,False,
+20-126657,False,False,False,False,True,False,
+20-126658,False,False,True,False,False,False,
+20-126662,False,True,False,False,False,False,
+20-126663,False,False,False,False,False,False,Etablissement Public Industriel et Commercial (E.P.I.C.)
+20-126666,True,False,False,False,False,False,
+20-126668,False,False,False,False,True,False,
+20-126670,False,False,False,False,True,False,
+20-126673,False,False,False,False,True,False,
+20-126675,False,False,True,False,False,False,
+20-126677,True,False,False,False,False,False,
+20-126678,False,False,False,False,False,False,centre hospitalier
+20-126679,False,False,False,False,False,False,Éducation
+20-126680,False,False,False,False,True,False,
+20-126682,False,False,True,False,False,False,
+20-126683,False,False,False,False,True,False,
+20-126686,True,False,False,False,False,False,
+20-126690,False,False,False,False,False,False,université
+20-126691,False,False,False,False,True,False,
+20-126694,False,False,False,False,False,True,
+20-126697,False,False,False,False,False,False,Etablissement public de Santé
+20-126699,False,False,False,False,False,False,Etablissement public de santé
+20-126701,False,False,False,False,True,False,
+20-126702,False,False,True,False,False,False,
+20-126703,False,False,False,False,False,False,Bailleur social
+20-126705,False,False,False,False,True,False,
+20-126710,False,False,False,True,False,False,
+20-126711,False,False,False,False,True,False,
+20-126713,False,False,True,False,False,False,
+20-126714,False,False,True,False,False,False,
+20-126715,False,False,True,False,False,False,
+20-126716,False,False,True,False,False,False,
+20-126721,False,False,True,False,False,False,
+20-126727,False,False,True,False,False,False,
+20-126732,False,False,True,False,False,False,
+20-126733,False,False,False,False,False,False,autre
+20-126735,False,False,True,False,False,False,
+20-126737,False,False,False,False,False,False,EPCI
+20-126741,False,False,True,False,False,False,
+20-126743,False,False,True,False,False,False,
+20-126747,False,False,True,False,False,False,
+20-126748,False,False,True,False,False,False,
+20-126751,False,False,True,False,False,False,
+20-126752,False,False,False,False,True,False,
+20-126753,True,False,False,False,False,False,
+20-126755,False,False,True,False,False,False,
+20-126759,False,False,False,False,True,False,
+20-95369,False,False,True,False,False,False,
+20-126769,False,False,False,False,True,False,
+20-126771,False,False,True,False,False,False,
+20-126773,True,False,False,False,False,False,
+20-121662,False,False,False,False,True,False,
+20-126780,False,False,True,False,False,False,
+20-126783,False,False,True,False,False,False,
+20-126784,False,False,False,False,True,False,
+20-126786,False,False,True,False,False,False,
+20-126787,False,False,False,False,False,False,autre
+20-126788,False,False,True,False,False,False,
+20-126790,False,False,False,True,False,False,
+20-126794,False,False,False,False,True,False,
+20-126801,False,False,False,False,True,False,
+20-126805,False,False,True,False,False,False,
+20-126810,False,False,True,False,False,False,
+20-126812,False,False,True,False,False,False,
+20-126818,False,False,False,False,False,False,OPH
+20-126819,False,False,False,False,True,False,
+20-126820,False,False,False,False,True,False,
+20-126821,False,False,True,False,False,False,
+20-126825,False,False,False,False,True,False,
+20-126826,False,False,True,False,False,False,
+20-126827,False,False,False,False,False,False,"Gestion et protection des titres de propriété industrielle (brevets, marques, dessins et modèles)"
+20-126828,False,False,False,True,False,False,
+20-126829,False,False,True,False,False,False,
+20-126838,False,False,True,False,False,False,
+20-126843,False,False,False,False,False,False,Société Publique Locale
+20-126844,False,True,False,False,False,False,
+20-126845,False,False,True,False,False,False,
+20-126847,False,False,False,False,True,False,
+20-126849,False,False,True,False,False,False,
+20-126852,False,False,True,False,False,False,
+20-94754,False,False,True,False,False,False,
+20-126855,False,False,True,False,False,False,
+20-126857,False,False,True,False,False,False,
+20-126859,False,False,True,False,False,False,
+20-126863,False,False,False,False,True,False,
+20-126864,False,False,False,False,True,False,
+20-126868,False,False,True,False,False,False,
+20-126876,False,False,False,False,False,False,EPCI
+20-126877,False,False,True,False,False,False,
+20-126880,False,False,False,False,True,False,
+20-126882,False,False,True,False,False,False,
+20-126883,False,False,False,False,True,False,
+20-126884,False,False,True,False,False,False,
+20-126887,False,False,True,False,False,False,
+20-126888,False,False,True,False,False,False,
+20-126890,False,False,True,False,False,False,
+20-126892,False,False,True,False,False,False,
+20-126900,False,False,True,False,False,False,
+20-126902,False,False,True,False,False,False,
+20-126904,False,False,True,False,False,False,
+20-126913,False,False,False,False,True,False,
+20-126915,False,False,True,False,False,False,
+20-126922,False,False,True,False,False,False,
+20-126924,True,False,False,False,False,False,
+20-126926,True,False,False,False,False,False,
+20-126927,False,False,True,False,False,False,
+20-126932,False,False,True,False,False,False,
+20-126933,False,False,False,False,True,False,
+20-84869,False,False,False,False,False,False,Etablissement public de santé
+20-126936,False,False,False,False,True,False,
+20-126943,False,False,False,False,True,False,
+20-126944,False,False,True,False,False,False,
+20-126946,False,False,False,False,True,False,
+20-126949,False,False,False,False,False,False,SA HLM
+20-126959,False,False,True,False,False,False,
+20-126962,False,False,True,False,False,False,
+20-126963,False,False,True,False,False,False,
+20-126966,False,False,False,False,True,False,
+20-126967,False,False,True,False,False,False,
+20-126970,False,False,False,False,True,False,
+20-126977,False,False,False,False,False,False,Etablissement Public de Santé
+20-126978,False,False,False,False,True,False,
+20-126979,False,False,True,False,False,False,
+20-126980,False,False,False,False,False,False,ESPIC
+20-126988,True,False,False,False,False,False,
+20-126992,False,False,True,False,False,False,
+20-126993,False,False,False,False,False,False,SOCIETE PUBLIQUE LOCALE
+20-126994,False,False,False,False,False,False,EPSCP
+20-126999,False,False,True,False,False,False,
+20-127000,False,False,True,False,False,False,
+20-127003,False,False,True,False,False,False,
+20-127005,False,False,True,False,False,False,
+20-127008,False,False,True,False,False,False,
+20-127009,False,False,False,False,False,False,Etablissement public administratif
+20-127010,False,False,False,False,True,False,
+20-127015,False,False,False,False,True,False,
+20-127016,True,False,False,False,False,False,
+20-127017,False,False,False,False,True,False,
+20-127022,False,False,False,False,False,False,Etablissement public local
+20-127026,False,False,True,False,False,False,
+20-127027,False,False,True,False,False,False,
+20-127028,False,False,True,False,False,False,
+20-127031,False,False,False,False,False,False,COMMUNE
+20-127032,True,False,False,False,False,False,
+20-127034,False,False,True,False,False,False,
+20-127035,False,False,False,False,True,False,
+20-127043,False,False,True,False,False,False,
+20-127049,False,False,False,False,True,False,
+20-127053,False,True,False,False,False,False,
+20-127054,True,False,False,False,False,False,
+20-127060,False,False,True,False,False,False,
+20-127063,False,False,True,False,False,False,
+20-127066,False,False,True,False,False,False,
+20-127076,False,False,True,False,False,False,
+20-127080,False,False,False,False,True,False,
+20-127081,False,False,False,False,True,False,
+20-127085,False,False,True,False,False,False,
+20-127095,True,False,False,False,False,False,
+20-127096,False,False,False,False,True,False,
+20-127099,False,False,False,False,True,False,
+20-127108,False,False,False,False,False,False,L'Urssaf Ile de France est un organisme privé en charge d'une mission de service public
+20-127109,False,False,True,False,False,False,
+20-127112,False,False,True,False,False,False,
+20-127119,False,False,True,False,False,False,
+20-127123,True,False,False,False,False,False,
+20-127124,False,False,False,False,True,False,
+20-127125,False,False,True,False,False,False,
+20-127126,False,False,False,False,False,False,Protection sociale
+20-127128,False,False,False,False,False,False,Etablissement public de santé
+20-127131,False,False,True,False,False,False,
+20-127134,False,False,False,False,True,False,
+20-127136,False,False,False,False,True,False,
+20-127137,False,False,True,False,False,False,
+20-127138,False,False,True,False,False,False,
+20-127139,False,False,True,False,False,False,
+20-127141,False,False,False,False,False,False,Sécurité sociale
+20-127142,False,False,False,False,True,False,
+20-127143,False,False,True,False,False,False,
+20-127144,False,False,False,False,True,False,
+20-127147,True,False,False,False,False,False,
+20-127149,False,False,True,False,False,False,
+20-127151,False,False,True,False,False,False,
+20-127158,False,False,True,False,False,False,
+20-127160,False,False,True,False,False,False,
+20-127170,False,False,False,False,True,False,
+20-127171,True,False,False,False,False,False,
+20-127172,False,False,True,False,False,False,
+20-127173,False,False,True,False,False,False,
+20-127177,False,False,True,False,False,False,
+20-127178,False,False,True,False,False,False,
+20-127179,False,False,False,True,False,False,
+20-127180,False,False,False,False,False,False,Collectivités locales
+20-127183,False,False,False,False,True,False,
+20-127186,False,False,True,False,False,False,
+20-127189,False,False,True,False,False,False,
+20-127191,False,False,False,False,False,False,Commune
+20-127199,False,False,False,False,True,False,
+20-127201,False,False,True,False,False,False,
+20-127210,False,False,False,False,True,False,
+20-127211,False,False,False,False,False,False,Autre
+20-127213,False,False,False,False,False,False,centre hospitalier
+20-127217,False,False,False,False,True,False,
+20-127218,False,False,False,False,True,False,
+20-127219,False,False,False,False,True,False,
+20-127222,False,False,False,False,False,False,Communauté de Communes de la Côte d'Albâtre
+20-127224,False,False,False,False,False,False,Syndicat Mixte d'Energie
+20-127225,False,False,False,False,True,False,
+20-127226,False,False,False,False,True,False,
+20-127227,False,False,False,False,True,False,
+20-127229,False,False,False,False,False,False,Collectivité territoriale
+20-127231,False,False,True,False,False,False,
+20-127236,False,False,False,False,True,False,
+20-127237,False,False,True,False,False,False,
+20-127239,False,False,True,False,False,False,
+20-127240,True,False,False,False,False,False,
+20-85723,False,False,False,False,False,False,Etablissement public de santé
+20-127247,False,False,False,False,False,False,autre
+20-127248,True,False,False,False,False,False,
+20-127252,False,False,True,False,False,False,
+20-127254,False,False,True,False,False,False,
+20-127257,False,False,True,False,False,False,
+20-127261,False,False,True,False,False,False,
+20-127262,False,False,True,False,False,False,
+20-127267,False,False,False,False,True,False,
+20-127268,False,False,True,False,False,False,
+20-127269,False,False,False,False,False,False,Etablissement public à caractère administratif
+20-127270,False,False,True,False,False,False,
+20-127277,True,False,False,False,False,False,
+20-127278,False,False,True,False,False,False,
+20-87269,False,False,False,False,False,False,Etablissement public de santé
+20-127280,False,False,True,False,False,False,
+20-127282,False,False,False,False,False,False,autre
+20-127283,False,False,True,False,False,False,
+20-127286,False,False,False,False,False,False,établissement public local
+20-127287,False,False,True,False,False,False,
+20-127288,False,False,True,False,False,False,
+20-127293,False,False,True,False,False,False,
+20-127295,False,False,False,False,True,False,
+20-127296,False,False,False,False,True,False,
+20-127298,False,False,False,False,True,False,
+20-127304,False,False,False,False,True,False,
+20-127306,False,False,False,False,False,False,CENTRE DE GESTION DE LA FONCTION PUBLIQUE TERRITORIALE DES PYRENEES ORIENTALES
+20-127308,False,False,True,False,False,False,
+20-127311,False,False,False,False,False,False,Établissement public territorial
+20-127313,True,False,False,False,False,False,
+20-127316,False,False,False,False,False,False,Etablissement public de santé
+20-127328,False,False,False,False,True,False,
+20-127329,False,False,False,False,False,False,Groupement Hospitalier de Territoire
+20-127331,False,False,False,False,True,False,
+20-127333,False,False,True,False,False,False,
+20-127339,False,False,True,False,False,False,
+20-127340,False,False,True,False,False,False,
+20-127342,False,False,False,False,False,False,Etablissement public d'aménagement
+20-127346,False,False,False,False,True,False,
+20-127348,False,False,True,False,False,False,
+20-127350,False,False,True,False,False,False,
+20-127352,False,False,True,False,False,False,
+20-127354,False,False,True,False,False,False,
+20-127360,False,False,True,False,False,False,
+20-127362,False,False,True,False,False,False,
+20-127363,False,False,False,False,True,False,
+20-127364,False,False,False,False,True,False,
+20-127369,False,False,False,False,True,False,
+20-127376,False,False,False,False,False,False,Établissement public de santé
+20-127377,False,False,False,False,True,False,
+20-127378,False,False,True,False,False,False,
+20-127382,False,False,False,False,True,False,
+20-127383,False,False,False,False,True,False,
+20-127384,False,False,True,False,False,False,
+20-127386,False,False,True,False,False,False,
+20-127387,False,False,True,False,False,False,
+20-127388,False,False,False,False,True,False,
+20-127392,False,False,False,False,True,False,
+20-127396,True,False,False,False,False,False,
+20-127398,False,False,False,False,True,False,
+20-127401,False,False,True,False,False,False,
+20-127402,False,False,True,False,False,False,
+20-127403,False,False,False,False,True,False,
+20-127408,False,False,False,False,False,False,Collectivité territoriale
+20-127409,False,False,True,False,False,False,
+20-127411,False,False,True,False,False,False,
+20-127413,True,False,False,False,False,False,
+20-127414,False,False,False,False,True,False,
+20-127418,False,False,True,False,False,False,
+20-127420,False,False,True,False,False,False,
+20-127423,False,False,False,False,True,False,
+20-127426,True,False,False,False,False,False,
+20-127428,False,False,False,False,False,False,Etablissement public à caractère scientifique culturel et professionnel
+20-127434,True,False,False,False,False,False,
+20-127435,False,False,True,False,False,False,
+20-127436,False,False,False,False,True,False,
+20-127439,False,False,True,False,False,False,
+20-127440,False,False,True,False,False,False,
+20-127443,False,False,False,False,False,False,Groupement d'intérêt Public
+20-127444,False,False,True,False,False,False,
+20-127447,False,False,False,False,False,False,Etablissement public de santé
+20-126962,False,False,True,False,False,False,
+20-117988,False,False,False,False,True,False,
+20-127452,False,False,False,False,True,False,
+20-127453,False,False,False,False,True,False,
+20-127455,False,False,False,False,True,False,
+20-127457,False,False,False,False,True,False,
+20-127463,False,False,True,False,False,False,
+20-127464,False,False,True,False,False,False,
+20-127468,False,False,True,False,False,False,
+20-127470,False,False,True,False,False,False,
+20-127471,False,False,True,False,False,False,
+20-127472,False,False,False,False,True,False,
+20-127474,False,False,True,False,False,False,
+20-127475,False,False,True,False,False,False,
+20-127476,False,False,True,False,False,False,
+20-127477,False,False,False,False,False,False,EPCI
+20-127479,False,False,True,False,False,False,
+20-127483,False,False,False,False,True,False,
+20-127485,False,False,True,False,False,False,
+20-127486,False,False,True,False,False,False,
+20-127487,False,False,False,False,True,False,
+20-127488,False,False,True,False,False,False,
+20-127489,False,False,False,False,True,False,
+20-127492,False,False,True,False,False,False,
+20-127494,False,False,False,False,False,False,autre
+20-127496,False,False,True,False,False,False,
+20-127500,False,False,False,True,False,False,
+20-127501,False,False,True,False,False,False,
+20-127503,False,False,True,False,False,False,
+20-127504,False,False,True,False,False,False,
+20-127505,False,False,False,False,True,False,
+20-127508,False,False,True,False,False,False,
+20-127513,False,False,True,False,False,False,
+20-127520,False,False,True,False,False,False,
+20-127523,False,False,False,False,False,False,Autorité publique indépendante à caractère scientifique
+20-127527,False,False,True,False,False,False,
+20-127528,False,False,False,False,False,False,Région Nouvelle-Aquitaine
+20-127533,False,False,False,False,True,False,
+20-127534,True,False,False,False,False,False,
+20-127538,True,False,False,False,False,False,
+20-127539,False,False,True,False,False,False,
+20-105898,False,False,False,False,True,False,
+20-127553,False,False,True,False,False,False,
+20-127558,False,False,True,False,False,False,
+20-127559,False,False,True,False,False,False,
+20-127560,False,False,True,False,False,False,
+20-127562,False,False,True,False,False,False,
+20-127563,False,False,False,False,True,False,
+20-127564,False,False,False,False,False,False,syndicat mixte
+20-127566,False,False,False,False,False,False,Établissement public de coopération intercommunale
+20-127567,False,False,False,False,True,False,
+20-127569,True,False,False,False,False,False,
+20-127577,False,False,True,False,False,False,
+20-127579,False,False,True,False,False,False,
+20-127580,True,False,False,False,False,False,
+20-127583,False,False,False,False,True,False,
+20-127584,False,False,True,False,False,False,
+20-127585,False,False,False,False,False,False,Établissement Public de Coopération Intercommunale
+20-127586,False,False,False,False,False,False,ECPI
+20-127587,False,False,True,False,False,False,
+20-127593,True,False,False,False,False,False,
+20-127594,False,False,False,False,False,False,Caisse d'allocations familiales
+20-127597,False,False,True,False,False,False,
+20-127601,False,False,False,False,False,False,Commune
+20-127606,False,False,False,False,True,False,
+20-127608,False,False,True,False,False,False,
+20-127612,False,False,True,False,False,False,
+20-127613,True,False,False,False,False,False,
+20-127614,False,False,True,False,False,False,
+20-127615,False,False,False,False,True,False,
+20-127616,False,False,True,False,False,False,
+20-127617,False,False,False,False,True,False,
+20-127621,False,False,True,False,False,False,
+20-127623,False,False,True,False,False,False,
+20-127624,False,False,True,False,False,False,
+20-127627,False,False,True,False,False,False,
+20-127631,False,False,True,False,False,False,
+20-127634,False,False,False,False,True,False,
+20-127638,False,False,False,False,False,False,Organisme consulaire
+20-127642,False,False,False,False,True,False,
+20-127643,False,False,False,False,False,False,Syndicat mixte
+20-127644,False,False,False,False,True,False,
+20-127647,True,False,False,False,False,False,
+20-127654,False,False,False,False,True,False,
+20-127658,False,False,True,False,False,False,
+20-127661,False,False,True,False,False,False,
+20-127665,True,False,False,False,False,False,
+20-127668,False,False,True,False,False,False,
+20-127672,False,False,False,False,True,False,
+20-127674,False,False,True,False,False,False,
+20-127676,False,False,True,False,False,False,
+20-127677,False,False,True,False,False,False,
+20-127678,False,False,True,False,False,False,
+20-127682,True,False,False,False,False,False,
+20-127683,False,False,False,False,True,False,
+20-127687,False,False,False,False,False,False,Etablissement Public
+20-127688,False,False,True,False,False,False,
+20-127689,False,False,False,False,True,False,
+20-127690,False,False,True,False,False,False,
+20-127691,False,False,True,False,False,False,
+20-127694,False,False,True,False,False,False,
+20-127695,False,False,True,False,False,False,
+20-127698,False,False,False,False,True,False,
+20-127699,False,False,False,False,False,False,autre
+20-127700,False,False,True,False,False,False,
+20-127701,False,False,False,False,True,False,
+20-127704,False,False,True,False,False,False,
+20-127705,False,False,True,False,False,False,
+20-127708,False,False,True,False,False,False,
+20-127711,False,False,True,False,False,False,
+20-127715,False,False,True,False,False,False,
+20-127716,False,False,True,False,False,False,
+20-127718,True,False,False,False,False,False,
+20-127719,False,False,True,False,False,False,
+20-127721,False,False,True,False,False,False,
+20-127724,False,False,True,False,False,False,
+20-127725,False,False,False,False,True,False,
+20-127726,False,False,False,False,True,False,
+20-127727,False,False,False,False,True,False,
+20-127731,False,False,False,False,False,False,CIF COOPERATIVE
+20-127736,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+20-127739,False,False,False,False,True,False,
+20-127740,False,False,False,True,False,False,
+20-127742,False,False,False,False,True,False,
+20-127748,False,False,True,False,False,False,
+20-127750,False,False,False,False,False,False,Santé
+20-127752,False,False,True,False,False,False,
+20-127753,False,False,True,False,False,False,
+20-127754,False,False,False,False,False,False,Santé
+20-127757,False,False,True,False,False,False,
+20-127760,False,False,True,False,False,False,
+20-127761,False,False,False,False,True,False,
+20-127763,False,False,False,False,True,False,
+20-127766,False,False,True,False,False,False,
+20-127775,False,False,False,False,True,False,
+20-127780,False,False,True,False,False,False,
+20-127781,False,False,True,False,False,False,
+20-127782,False,False,False,False,False,False,Fondation
+20-127783,False,False,False,False,False,False,Centre Hospitalier
+20-127784,False,False,False,False,False,False,Groupement hospitalier de territoire
+20-127785,False,False,True,False,False,False,
+20-127786,False,False,True,False,False,False,
+20-127788,False,False,False,False,False,False,Intercommunalité
+20-127790,False,False,True,False,False,False,
+20-127792,False,False,True,False,False,False,
+20-127793,False,False,False,False,False,False,autre
+20-127795,False,False,True,False,False,False,
+20-127796,False,False,True,False,False,False,
+20-127797,False,False,True,False,False,False,
+20-127798,False,False,True,False,False,False,
+20-89012,False,False,True,False,False,False,
+20-127803,False,False,True,False,False,False,
+20-127807,False,False,True,False,False,False,
+20-127810,False,False,False,False,False,False,autre
+20-127813,False,False,False,True,False,False,
+20-127815,False,False,False,False,False,False,autre
+20-127816,False,False,False,False,True,False,
+20-127817,False,False,True,False,False,False,
+20-127820,False,False,True,False,False,False,
+20-127823,False,False,False,False,True,False,
+20-127824,False,False,True,False,False,False,
+20-127827,False,False,True,False,False,False,
+20-127832,False,False,True,False,False,False,
+20-127835,False,False,False,False,True,False,
+20-127843,False,False,False,False,False,False,SEM
+20-127844,False,False,False,False,False,False,SEM
+20-127845,False,False,False,False,True,False,
+20-127846,False,False,False,False,False,False,Commune
+20-127847,False,False,False,False,True,False,
+20-127848,True,False,False,False,False,False,
+20-127849,False,False,False,False,True,False,
+20-127853,False,False,True,False,False,False,
+20-127862,False,False,False,False,True,False,
+20-127863,False,False,True,False,False,False,
+20-127864,False,False,False,False,True,False,
+20-127865,False,False,False,False,True,False,
+20-127868,False,True,False,False,False,False,
+20-127872,False,False,True,False,False,False,
+20-127873,False,False,False,False,True,False,
+20-127875,False,False,False,False,False,False,Établissement Public de Santé
+20-127878,False,False,True,False,False,False,
+20-127886,False,False,False,False,False,False,EPLE
+20-127916,False,False,False,False,False,False,Autorité portuaire
+20-127918,True,False,False,False,False,False,
+20-127920,True,False,False,False,False,False,
+20-127921,False,False,False,False,True,False,
+20-127922,False,False,False,False,False,False,Collectivité territoriale
+20-127940,False,False,False,False,True,False,
+20-127942,True,False,False,False,False,False,
+20-127943,False,False,False,True,False,False,
+20-127944,False,True,False,False,False,False,
+20-127950,False,False,True,False,False,False,
+20-127952,False,False,True,False,False,False,
+20-127956,False,False,True,False,False,False,
+20-127963,False,False,False,False,True,False,
+20-127965,False,False,False,False,True,False,
+20-127966,False,False,True,False,False,False,
+20-127967,False,False,False,False,False,False,autre
+20-127970,False,False,False,False,True,False,
+20-99810,True,False,False,False,False,False,
+20-127978,False,False,False,False,False,False,ADMINISTRATEUR
+20-127979,False,False,False,False,False,False,Organisme de droit privé chargé de service public
+20-127980,False,False,False,False,True,False,
+20-127983,False,False,False,False,True,False,
+20-127992,False,False,True,False,False,False,
+20-127997,True,False,False,False,False,False,
+20-128002,False,False,False,False,True,False,
+20-128003,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel"
+20-128004,True,False,False,False,False,False,
+20-128008,False,False,False,False,False,False,Etablissement public médico social
+20-128009,False,False,False,False,False,False,Etablissement Public de Santé
+20-128010,False,False,False,False,True,False,
+20-128011,False,False,False,False,True,False,
+20-128018,False,False,False,False,False,False,Bailleur privé
+20-128019,False,False,False,False,False,False,Société d'Economie Mixte
+20-128026,False,False,False,False,True,False,
+20-128030,False,False,False,True,False,False,
+20-128034,False,False,True,False,False,False,
+20-128037,False,False,False,False,False,False,autre
+20-128044,False,False,True,False,False,False,
+20-128046,False,False,True,False,False,False,
+20-128052,False,False,False,False,True,False,
+20-128057,False,False,True,False,False,False,
+20-128058,False,False,True,False,False,False,
+20-122559,True,False,False,False,False,False,
+20-128065,False,False,False,True,False,False,
+20-128067,False,False,False,False,False,False,SAEM
+20-128071,False,False,False,False,True,False,
+20-128073,False,False,False,False,False,False,Etablissement public de santé
+20-128076,False,False,False,False,True,False,
+20-128082,False,False,False,False,False,False,Communauté des communes
+20-128085,False,False,False,False,True,False,
+20-128086,True,False,False,False,False,False,
+20-128087,False,False,True,False,False,False,
+20-128088,True,False,False,False,False,False,
+20-128090,False,False,True,False,False,False,
+20-128098,False,False,False,False,False,False,autre
+20-128100,False,False,False,False,True,False,
+20-128101,False,False,True,False,False,False,
+20-128102,False,False,False,False,True,False,
+20-128104,False,False,True,False,False,False,
+20-107611,False,False,False,False,False,False,Société d'Economie Mixte
+20-128110,False,False,True,False,False,False,
+20-128111,False,False,True,False,False,False,
+20-128113,False,False,False,False,False,False,"Etablissement Public à caractère Scientifique, culturel et Professionel (EPSCP)"
+20-128117,True,False,False,False,False,False,
+20-96436,False,False,True,False,False,False,
+20-128120,False,False,False,False,True,False,
+20-128121,False,False,False,False,False,False,Etablissement public d'enseignement supérieur et de recherche
+20-128122,False,False,False,False,False,False,Centre hospitalier
+20-128129,True,False,False,False,False,False,
+20-128131,False,False,False,False,True,False,
+20-128141,False,False,False,False,True,False,
+20-128143,False,False,False,False,True,False,
+20-104681,False,False,False,False,True,False,
+20-128146,False,False,False,False,True,False,
+20-128148,False,False,False,False,True,False,
+20-128151,False,False,True,False,False,False,
+20-128153,False,False,False,False,True,False,
+20-128157,False,False,True,False,False,False,
+20-128161,False,False,True,False,False,False,
+20-128167,True,False,False,False,False,False,
+20-128170,True,False,False,False,False,False,
+20-128171,False,False,False,False,True,False,
+20-128174,True,False,False,False,False,False,
+20-128179,False,False,True,False,False,False,
+20-128182,False,False,True,False,False,False,
+20-128185,False,False,False,False,False,False,Santé
+20-128192,False,False,False,False,False,False,association loi 1901
+20-109443,False,False,True,False,False,False,
+20-128196,False,False,False,False,False,False,Association
+20-128198,False,False,False,False,False,False,Etablissement Public de Santé
+20-128200,False,False,True,False,False,False,
+20-128201,False,False,False,False,False,False,Centre Hospitalier
+20-128203,False,False,False,False,True,False,
+20-128204,False,False,False,False,True,False,
+20-128205,False,False,False,False,True,False,
+20-128209,False,False,False,False,True,False,
+20-128211,False,False,False,False,True,False,
+20-128213,False,False,False,False,False,False,Société d'aménagement
+20-128215,False,False,False,False,True,False,
+20-128217,False,False,False,False,False,False,GIE
+20-128220,False,False,False,False,True,False,
+20-115223,False,False,False,False,True,False,
+20-128224,False,False,False,False,True,False,
+20-128226,False,False,True,False,False,False,
+20-128230,False,False,False,False,False,False,ESPIC
+20-128231,False,False,False,False,True,False,
+20-128232,False,False,False,False,True,False,
+20-128234,False,False,False,False,True,False,
+20-128235,True,False,False,False,False,False,
+20-128237,True,False,False,False,False,False,
+20-128241,False,False,False,False,True,False,
+20-128244,True,False,False,False,False,False,
+20-128245,False,False,False,False,False,False,Collectivité territoriale
+20-128246,False,False,True,False,False,False,
+20-128249,False,False,True,False,False,False,
+20-128254,False,False,False,False,True,False,
+20-128255,False,False,True,False,False,False,
+20-128258,False,False,True,False,False,False,
+20-128261,False,False,True,False,False,False,
+20-128264,False,False,False,False,True,False,
+20-128268,False,False,False,False,False,False,Association
+20-128269,False,False,False,False,True,False,
+20-128270,False,False,False,False,False,False,autre
+20-128271,False,False,True,False,False,False,
+20-128273,False,False,True,False,False,False,
+20-128274,True,False,False,False,False,False,
+20-128275,False,False,False,True,False,False,
+20-128276,False,False,True,False,False,False,
+20-128286,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-128293,False,False,False,False,False,False,Etablissement de santé
+20-128300,False,False,False,False,True,False,
+20-128301,False,False,False,False,False,False,Blanchisserie Interhospitalire
+20-128304,False,False,True,False,False,False,
+20-128309,True,False,False,False,False,False,
+20-128311,False,False,True,False,False,False,
+20-128315,False,False,True,False,False,False,
+20-128317,False,False,False,False,False,False,établissement public local
+20-128320,False,False,False,False,True,False,
+20-128321,False,False,True,False,False,False,
+20-128325,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-128329,False,False,False,False,False,False,organisme de securite sociale
+20-128330,False,False,False,False,False,False,Université
+20-128331,False,False,True,False,False,False,
+20-128337,False,False,False,False,True,False,
+20-128338,False,False,True,False,False,False,
+20-128340,False,False,True,False,False,False,
+20-128342,False,False,True,False,False,False,
+20-128343,False,False,False,False,True,False,
+20-128345,False,False,True,False,False,False,
+20-128346,True,False,False,False,False,False,
+20-128350,False,False,True,False,False,False,
+20-128351,False,False,False,False,True,False,
+20-128353,False,False,False,False,True,False,
+20-128355,False,False,False,True,False,False,
+20-128357,False,False,False,False,False,False,chambre consulaire
+20-128358,False,False,False,False,True,False,
+20-128359,True,False,False,False,False,False,
+20-128360,False,False,False,False,False,False,chambre consulaire
+20-128362,False,False,False,True,False,False,
+20-128364,True,False,False,False,False,False,
+20-128365,True,False,False,False,False,False,
+20-128366,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-128367,False,False,False,False,False,False,Logement social
+20-128370,False,False,True,False,False,False,
+20-128373,False,False,False,False,True,False,
+20-128376,False,False,False,False,True,False,
+20-128380,True,False,False,False,False,False,
+20-128384,True,False,False,False,False,False,
+20-128389,True,False,False,False,False,False,
+20-128391,False,False,True,False,False,False,
+20-128392,False,False,False,False,True,False,
+20-128394,False,False,True,False,False,False,
+20-128398,False,False,False,False,True,False,
+20-128400,False,False,False,False,True,False,
+20-128402,False,False,False,False,False,False,Etablissement Public de l'Etat
+20-128404,False,False,False,False,False,False,autre
+20-128406,False,False,False,False,True,False,
+20-128407,False,False,True,False,False,False,
+20-128408,False,False,True,False,False,False,
+20-128409,False,False,True,False,False,False,
+20-128410,False,False,False,False,False,False,autre
+20-128412,False,False,True,False,False,False,
+20-128414,False,False,True,False,False,False,
+20-128418,False,False,True,False,False,False,
+20-128420,False,False,False,False,True,False,
+20-128424,False,False,True,False,False,False,
+20-128429,False,False,True,False,False,False,
+20-128432,False,False,False,False,True,False,
+20-128440,False,False,False,False,False,False,Service civique
+20-128441,False,False,False,False,True,False,
+20-128444,False,False,False,False,True,False,
+20-128446,False,False,True,False,False,False,
+20-128448,False,False,True,False,False,False,
+20-128452,False,False,True,False,False,False,
+20-128453,False,False,True,False,False,False,
+20-128455,False,False,False,False,True,False,
+20-128457,False,False,True,False,False,False,
+20-128459,False,False,True,False,False,False,
+20-128460,False,False,False,False,False,False,autre
+20-128461,False,False,False,False,True,False,
+20-128463,False,False,False,False,False,False,autre
+20-128464,False,False,False,False,True,False,
+20-128465,False,False,True,False,False,False,
+20-128467,False,False,True,False,False,False,
+20-128470,False,False,True,False,False,False,
+20-128476,True,False,False,False,False,False,
+20-128479,False,False,False,False,True,False,
+20-128482,False,False,False,False,True,False,
+20-128487,False,False,True,False,False,False,
+20-128491,False,False,True,False,False,False,
+20-128493,False,False,False,False,False,False,GCS
+20-128499,False,False,True,False,False,False,
+20-128503,False,False,True,False,False,False,
+20-128507,False,False,True,False,False,False,
+20-128514,False,False,False,False,False,False,Collectivité territoriale
+20-128518,False,False,True,False,False,False,
+20-128519,False,False,True,False,False,False,
+20-128520,True,False,False,False,False,False,
+20-128522,False,False,True,False,False,False,
+20-128525,False,False,True,False,False,False,
+20-128542,False,False,False,False,False,False,autre
+20-128553,False,False,False,False,True,False,
+20-128557,False,False,False,False,True,False,
+20-128561,False,False,False,False,True,False,
+20-128564,False,False,False,False,False,False,Etablissement Public Industriel et Commercial
+20-128565,False,False,True,False,False,False,
+20-128568,False,False,True,False,False,False,
+20-128573,False,False,True,False,False,False,
+20-128578,False,False,True,False,False,False,
+20-128580,False,False,True,False,False,False,
+20-128583,True,False,False,False,False,False,
+20-128585,False,False,True,False,False,False,
+20-128601,False,False,True,False,False,False,
+20-128605,False,False,True,False,False,False,
+20-128607,False,False,False,False,True,False,
+20-128608,False,False,False,False,True,False,
+20-128615,False,False,True,False,False,False,
+20-128618,False,False,True,False,False,False,
+20-128619,False,False,False,False,True,False,
+20-128640,False,False,True,False,False,False,
+20-128642,True,False,False,False,False,False,
+20-128647,False,False,False,False,False,False,Commune
+20-128651,False,False,False,False,True,False,
+20-128655,False,False,False,False,False,False,EPCSCP
+20-128656,True,False,False,False,False,False,
+20-128663,False,False,True,False,False,False,
+20-128668,False,False,False,False,False,False,autre
+20-128671,False,False,True,False,False,False,
+20-128672,False,False,False,False,False,False,autre
+20-128674,False,False,False,False,True,False,
+20-128675,False,False,True,False,False,False,
+20-128685,False,False,True,False,False,False,
+20-128689,False,False,False,False,True,False,
+20-128693,True,False,False,False,False,False,
+20-128694,False,False,True,False,False,False,
+20-128698,False,False,False,False,False,False,autre
+20-128702,False,True,False,False,False,False,
+20-128703,False,False,True,False,False,False,
+20-128704,False,False,True,False,False,False,
+20-128706,False,False,True,False,False,False,
+20-128709,False,False,True,False,False,False,
+20-128714,False,False,True,False,False,False,
+20-128715,True,False,False,False,False,False,
+20-128716,False,False,True,False,False,False,
+20-128721,False,False,True,False,False,False,
+20-128723,False,False,False,False,True,False,
+20-128724,True,False,False,False,False,False,
+20-128725,False,False,False,False,True,False,
+20-128726,False,False,True,False,False,False,
+20-128730,False,False,False,False,False,False,Chambre de Commerce et d'Industrie
+20-128731,False,False,False,False,True,False,
+20-128732,False,False,False,False,True,False,
+20-128733,True,False,False,False,False,False,
+20-128734,True,False,False,False,False,False,
+20-128735,False,False,False,True,False,False,
+20-128738,False,False,True,False,False,False,
+20-128740,False,False,True,False,False,False,
+20-128742,False,False,True,False,False,False,
+20-128743,False,False,True,False,False,False,
+20-128744,False,False,True,False,False,False,
+20-128748,False,False,True,False,False,False,
+20-128750,True,False,False,False,False,False,
+20-128753,False,False,True,False,False,False,
+20-128758,False,False,True,False,False,False,
+20-128761,False,False,False,False,False,False,Société publique locale d'aménagement
+20-128762,False,False,False,False,False,False,Société publique locale d'aménagement (SPLA)
+20-128765,False,False,False,False,True,False,
+20-128768,False,False,False,False,True,False,
+20-128769,False,False,True,False,False,False,
+20-128772,False,False,False,False,False,False,Commune
+20-128775,False,False,True,False,False,False,
+20-128777,False,False,False,False,False,False,autre
+20-128787,False,False,False,False,True,False,
+20-128788,False,False,True,False,False,False,
+20-128789,False,False,False,False,True,False,
+20-128793,False,False,False,True,False,False,
+20-128795,False,False,False,False,False,False,EPS
+20-128797,False,False,False,False,False,False,EPCI
+20-128801,False,False,True,False,False,False,
+20-128802,False,False,True,False,False,False,
+20-128804,True,False,False,False,False,False,
+20-128806,False,False,False,False,False,False,Grand Etablissement
+20-128807,False,False,False,False,True,False,
+20-128811,False,False,True,False,False,False,
+20-128814,False,False,False,False,True,False,
+20-128815,False,False,False,False,True,False,
+20-128818,False,False,True,False,False,False,
+20-128820,False,False,False,False,False,False,autre
+20-128827,False,False,True,False,False,False,
+20-128828,False,False,False,False,True,False,
+20-128830,False,False,True,False,False,False,
+20-128831,False,False,True,False,False,False,
+20-128834,False,False,False,False,False,False,Syndicat intercommunal d'énergie et de e-communication
+20-128837,False,False,False,False,False,False,Logement social
+20-115518,True,False,False,False,False,False,
+20-128842,True,False,False,False,False,False,
+20-128845,False,False,False,False,True,False,
+20-128851,False,False,True,False,False,False,
+20-128854,False,False,True,False,False,False,
+20-128859,False,False,True,False,False,False,
+20-128861,False,False,False,False,True,False,
+20-128862,False,False,False,False,True,False,
+20-128864,True,False,False,False,False,False,
+20-128868,False,False,False,False,False,False,Organisme de sécurité sociale
+20-128870,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-128872,False,False,True,False,False,False,
+20-128879,False,False,False,False,True,False,
+20-128883,False,False,False,False,True,False,
+20-128885,False,False,True,False,False,False,
+20-128886,False,False,False,False,True,False,
+20-128887,True,False,False,False,False,False,
+20-128896,False,False,False,False,True,False,
+20-128899,False,False,True,False,False,False,
+20-128900,True,False,False,False,False,False,
+20-128902,False,False,True,False,False,False,
+20-128903,False,False,False,False,True,False,
+20-128904,False,False,True,False,False,False,
+20-128906,False,False,True,False,False,False,
+20-128907,False,False,True,False,False,False,
+20-128909,False,False,True,False,False,False,
+20-128912,False,False,True,False,False,False,
+20-128914,False,False,True,False,False,False,
+20-128917,False,False,True,False,False,False,
+20-128918,False,False,False,False,False,False,communauté de communes
+20-128919,False,False,False,False,True,False,
+20-128921,False,False,False,False,True,False,
+20-128923,False,False,False,False,True,False,
+20-128924,False,False,True,False,False,False,
+20-128925,False,False,True,False,False,False,
+20-128928,False,False,True,False,False,False,
+20-128929,False,False,False,False,False,False,autre
+20-128931,False,False,True,False,False,False,
+20-128944,False,False,False,False,False,False,Etablissement de santé
+20-128956,False,False,True,False,False,False,
+20-128961,False,False,True,False,False,False,
+20-94875,False,False,False,False,True,False,
+20-128966,True,False,False,False,False,False,
+20-128969,True,False,False,False,False,False,
+20-128971,False,False,False,False,True,False,
+20-128972,False,False,False,False,False,False,Etablissement public administratif
+20-128974,False,False,False,False,False,False,Aménagement
+20-128978,False,True,False,False,False,False,
+20-128981,False,False,False,False,False,False,Protection sociale
+20-128986,False,False,False,False,True,False,
+20-128988,True,False,False,False,False,False,
+20-128996,False,False,True,False,False,False,
+20-129000,True,False,False,False,False,False,
+17-5523,False,False,False,False,False,False,Établissement Public de Santé (EPS)
+20-129016,False,False,True,False,False,False,
+20-129024,False,False,True,False,False,False,
+20-129026,False,False,True,False,False,False,
+20-129032,False,False,True,False,False,False,
+20-129035,False,False,True,False,False,False,
+20-129037,False,False,True,False,False,False,
+20-129042,False,False,False,False,True,False,
+20-129050,True,False,False,False,False,False,
+20-129060,False,True,False,False,False,False,
+20-129062,False,False,False,False,True,False,
+20-129063,False,False,False,False,True,False,
+20-129068,True,False,False,False,False,False,
+20-129069,False,False,False,False,False,False,Établissement public de collecte et de traitement des déchets
+20-129072,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-129074,False,False,True,False,False,False,
+20-129075,False,False,True,False,False,False,
+20-129079,False,False,True,False,False,False,
+20-129080,False,False,False,False,True,False,
+20-129082,False,False,False,False,True,False,
+20-129083,False,False,True,False,False,False,
+20-129084,False,False,True,False,False,False,
+20-129088,True,False,False,False,False,False,
+20-129092,False,False,True,False,False,False,
+20-129093,False,False,True,False,False,False,
+20-129096,False,False,True,False,False,False,
+20-129097,False,False,False,False,True,False,
+20-129098,False,False,True,False,False,False,
+20-129101,False,False,True,False,False,False,
+20-129105,True,False,False,False,False,False,
+20-129107,False,False,True,False,False,False,
+20-129111,False,False,False,False,False,False,Etablissement public
+20-129118,False,False,False,False,True,False,
+20-129119,False,False,True,False,False,False,
+20-129121,False,False,True,False,False,False,
+20-129123,False,False,True,False,False,False,
+20-129124,False,False,False,False,False,False,Etablissement public à caractère scientifique et technologique
+20-129129,False,False,False,False,False,False,Société Publique Locale (SPL)
+20-129130,False,False,False,False,False,False,GIP
+20-129131,False,False,True,False,False,False,
+20-129133,False,False,True,False,False,False,
+20-129134,False,False,False,False,False,False,SA HLM
+20-129137,False,False,False,False,True,False,
+20-129142,False,False,True,False,False,False,
+20-129143,False,False,False,False,False,False,Syndicat intercommunal d'énergie et de e-communication
+20-129144,True,False,False,False,False,False,
+20-129145,True,False,False,False,False,False,
+20-129146,False,False,False,False,False,False,Société Publique Locale
+20-129147,False,False,False,False,False,False,Société publique locale
+20-129152,False,False,True,False,False,False,
+20-129153,False,False,False,False,False,False,autre
+20-129156,False,False,True,False,False,False,
+20-129157,False,False,False,False,False,False,autre
+20-129162,False,False,True,False,False,False,
+20-129167,False,False,False,False,False,False,autre
+20-129173,True,False,False,False,False,False,
+20-129174,False,False,False,False,False,False,Fondation déclarée d'utilité publique (personne morale de droit privé au sens du 2° a) de l'article L1211-1 du Code de la commande publique )
+20-129179,False,False,True,False,False,False,
+20-129180,False,False,False,False,False,False,Établissement public à caractère scientifique culturel et professionnel
+20-129181,False,False,True,False,False,False,
+20-129186,False,False,True,False,False,False,
+20-129187,False,False,True,False,False,False,
+20-129203,False,False,False,False,False,False,Établissement public
+20-129204,False,False,False,False,False,False,EPCI
+20-129205,False,False,True,False,False,False,
+20-129206,False,False,True,False,False,False,
+20-129211,False,False,False,True,False,False,
+20-96039,False,False,False,False,True,False,
+20-129213,False,False,False,False,True,False,
+20-129219,False,False,False,False,True,False,
+20-129222,False,False,True,False,False,False,
+20-129228,False,False,True,False,False,False,
+20-129232,True,False,False,False,False,False,
+20-129234,False,False,False,False,False,False,Syndicat intercommunal d'énergie et de e-communication
+20-129236,True,False,False,False,False,False,
+20-129238,False,False,True,False,False,False,
+20-129244,False,False,True,False,False,False,
+20-129248,False,False,True,False,False,False,
+20-129249,False,False,False,False,True,False,
+20-120813,False,False,False,False,False,False,Organisme de sécurité sociale
+20-129255,False,False,True,False,False,False,
+20-129258,False,False,True,False,False,False,
+20-129259,False,False,True,False,False,False,
+20-129261,False,False,False,False,True,False,
+20-129262,True,False,False,False,False,False,
+20-129269,False,False,False,False,False,False,Enseignement et recherche
+20-129274,False,False,True,False,False,False,
+20-129279,False,False,True,False,False,False,
+20-129283,False,False,False,False,True,False,
+20-129284,False,False,False,False,False,False,Association loi 1901
+20-129288,False,False,False,False,True,False,
+20-129295,False,False,False,False,True,False,
+20-129297,False,False,False,False,True,False,
+20-129298,True,False,False,False,False,False,
+20-129301,False,False,False,False,False,False,EPCI
+20-129309,False,False,False,False,False,False,EPIC/syndicat mixte
+20-129317,True,False,False,False,False,False,
+20-129318,False,False,False,False,True,False,
+20-129320,True,False,False,False,False,False,
+20-129326,True,False,False,False,False,False,
+20-129327,False,False,True,False,False,False,
+20-129331,False,False,False,False,False,False,Organisme de protection sociale
+20-86427,False,False,False,False,False,False,Etablissement Public de Santé
+20-129343,False,False,True,False,False,False,
+20-129346,False,False,False,False,False,False,Etablissement public de santé
+20-129349,True,False,False,False,False,False,
+20-129350,False,False,False,False,True,False,
+20-82736,False,False,True,False,False,False,
+20-129358,False,False,False,False,True,False,
+20-129360,False,False,True,False,False,False,
+20-129361,False,False,True,False,False,False,
+20-129363,False,False,True,False,False,False,
+20-129364,False,False,True,False,False,False,
+20-129365,False,False,True,False,False,False,
+20-129368,False,False,False,False,False,False,organisme privé gérant un service public
+20-129374,False,False,False,False,True,False,
+20-129379,True,False,False,False,False,False,
+20-129380,False,False,False,False,True,False,
+20-129381,False,False,False,False,False,False,Etablissement de santé
+20-129382,False,False,True,False,False,False,
+20-129383,True,False,False,False,False,False,
+20-129385,False,False,True,False,False,False,
+20-129393,False,False,False,False,False,False,Établissement public
+20-129396,False,False,False,False,False,False,Centrale d'Achat Public
+20-83211,False,False,True,False,False,False,
+20-129399,False,False,False,False,True,False,
+20-129401,False,False,False,False,True,False,
+20-129402,False,False,True,False,False,False,
+20-129404,False,False,False,False,True,False,
+20-129406,False,False,True,False,False,False,
+20-129409,False,False,True,False,False,False,
+20-129411,False,False,True,False,False,False,
+20-129414,False,False,False,False,True,False,
+20-129416,False,False,False,False,False,False,autre
+20-129422,False,False,False,False,True,False,
+20-129423,False,False,True,False,False,False,
+20-129424,False,False,False,True,False,False,
+20-129429,True,False,False,False,False,False,
+20-129430,False,False,False,False,True,False,
+20-129431,False,False,True,False,False,False,
+20-129433,False,False,False,False,False,False,Groupement hospitalier de territoire
+20-129436,False,True,False,False,False,False,
+20-129437,False,False,False,False,True,False,
+20-129438,False,False,False,False,False,False,Association loi 1901 sous le haut patronage du Ministère en charge de la Santé.
+20-129442,False,False,True,False,False,False,
+20-129447,False,False,False,False,False,False,Etablissement Public de Santé
+20-129448,False,False,False,False,False,False,Etablissement de Santé
+20-129449,False,False,False,False,False,False,Organisme de sécurité sociale
+20-129453,False,False,True,False,False,False,
+20-129455,False,False,True,False,False,False,
+20-129456,False,False,True,False,False,False,
+20-129458,False,False,True,False,False,False,
+20-129466,False,False,True,False,False,False,
+20-129468,False,False,True,False,False,False,
+20-129470,False,False,True,False,False,False,
+20-129472,True,False,False,False,False,False,
+20-129475,False,False,True,False,False,False,
+20-129477,True,False,False,False,False,False,
+20-129478,False,False,False,False,False,False,Société d'économie mixte de logements
+20-129479,False,False,False,False,False,False,Etablissement public d'aménagement
+20-129486,False,False,False,False,True,False,
+20-129491,False,False,False,False,True,False,
+20-129493,False,False,True,False,False,False,
+20-129501,False,False,False,False,False,False,autre
+20-129504,False,False,True,False,False,False,
+20-129505,False,False,False,False,True,False,
+20-129507,False,False,False,False,True,False,
+20-129509,False,False,False,False,False,False,Etablissement public de santé
+20-129512,True,False,False,False,False,False,
+20-129513,False,False,True,False,False,False,
+20-129519,True,False,False,False,False,False,
+20-129520,False,False,False,False,False,False,Organisme de sécurité sociale
+20-129522,False,False,False,False,False,False,Etablissement public de santé
+20-129523,False,False,True,False,False,False,
+20-129525,False,False,True,False,False,False,
+20-129526,False,False,True,False,False,False,
+20-129527,False,False,True,False,False,False,
+20-129535,False,False,False,False,True,False,
+20-129536,False,False,False,False,True,False,
+20-129538,True,False,False,False,False,False,
+20-129539,False,False,False,False,False,False,"Ordre de la Légion d'honneur, personne morale de droit public sui generis"
+20-129542,False,False,True,False,False,False,
+20-129543,False,False,False,False,True,False,
+20-129544,False,False,True,False,False,False,
+20-129548,False,False,False,False,True,False,
+20-129556,False,False,False,False,False,False,Comité national d'Action Sociale
+20-129557,False,False,False,False,False,False,EPCI
+20-129559,False,False,True,False,False,False,
+20-129562,False,False,True,False,False,False,
+20-129563,False,False,True,False,False,False,
+20-129566,False,False,False,False,False,False,SEM
+20-129569,False,False,False,False,False,False,Ordre de la Légion d'honneur (personne morale de droit public sui generis)
+20-129572,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+20-129573,False,False,True,False,False,False,
+20-129577,False,False,True,False,False,False,
+20-129580,False,False,False,False,False,False,Établissement public de coopération intercommunale
+20-129581,False,False,True,False,False,False,
+20-129582,False,False,False,False,True,False,
+20-129583,False,False,True,False,False,False,
+20-129588,False,False,False,False,False,False,Etablissement public de santé
+20-129591,False,False,False,False,True,False,
+20-129593,False,False,False,False,True,False,
+20-129594,False,False,True,False,False,False,
+20-129595,False,False,False,False,True,False,
+20-129606,False,False,True,False,False,False,
+20-129609,False,False,False,False,True,False,
+20-129611,False,False,False,False,False,False,Université
+20-129614,False,False,True,False,False,False,
+20-129616,False,False,False,False,True,False,
+20-129619,False,False,True,False,False,False,
+20-129623,False,False,False,False,False,False,Logements sociaux
+20-129624,False,False,False,False,True,False,
+20-129635,False,False,False,False,True,False,
+20-129640,False,False,False,False,False,False,Etablissement public de santé
+20-129642,False,False,True,False,False,False,
+20-129646,False,False,False,False,True,False,
+20-129650,False,False,True,False,False,False,
+20-129652,False,False,True,False,False,False,
+20-129653,False,False,True,False,False,False,
+20-129657,False,False,True,False,False,False,
+20-129662,False,False,False,False,True,False,
+20-129664,False,False,True,False,False,False,
+20-129667,False,False,False,False,True,False,
+20-129669,False,False,False,False,False,False,Établissements publics de santé
+20-129672,False,True,False,False,False,False,
+20-129673,False,False,True,False,False,False,
+20-129675,False,False,False,False,True,False,
+20-129676,False,False,True,False,False,False,
+20-129678,False,False,True,False,False,False,
+20-129679,False,False,True,False,False,False,
+20-129680,False,False,False,False,False,False,Société d'Economie Mixte
+20-129682,True,False,False,False,False,False,
+20-129686,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+20-129691,False,False,False,False,False,False,GIP
+20-129695,False,False,True,False,False,False,
+20-129696,False,False,True,False,False,False,
+20-129701,False,False,True,False,False,False,
+20-129702,False,False,False,False,True,False,
+20-129712,False,False,True,False,False,False,
+20-129714,True,False,False,False,False,False,
+20-129716,False,False,True,False,False,False,
+20-104433,False,False,False,False,False,False,Hôpital public
+20-129720,False,False,True,False,False,False,
+20-129721,False,False,True,False,False,False,
+20-129724,False,False,True,False,False,False,
+20-129725,False,False,True,False,False,False,
+20-129726,False,False,False,False,True,False,
+20-110792,False,False,False,False,True,False,
+20-129728,True,False,False,False,False,False,
+20-129731,False,False,False,False,True,False,
+20-129732,False,False,True,False,False,False,
+20-129734,False,True,False,False,False,False,
+20-129735,True,False,False,False,False,False,
+20-129736,False,False,False,False,False,False,Etablissement public à caractère administratif
+20-129738,False,False,False,False,True,False,
+20-129739,False,False,True,False,False,False,
+20-129740,False,False,False,False,False,False,Éducation nationale
+20-129743,False,False,True,False,False,False,
+20-129746,False,False,False,False,False,False,Société Publique Locale
+20-129747,False,False,True,False,False,False,
+20-129749,False,False,True,False,False,False,
+20-129753,False,False,False,False,False,False,Etablissement public local d'enseignements
+20-129756,False,False,False,False,True,False,
+20-129762,False,False,True,False,False,False,
+20-129763,False,False,True,False,False,False,
+20-129764,False,False,False,False,False,False,autre
+20-129767,False,False,False,False,True,False,
+20-129769,False,False,False,False,False,False,autre
+20-129771,False,False,True,False,False,False,
+20-129772,False,False,True,False,False,False,
+20-129773,False,False,False,False,True,False,
+20-106618,False,False,False,False,True,False,
+20-129778,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-129779,False,False,False,False,True,False,
+20-129782,False,False,False,False,True,False,
+20-129784,False,False,False,False,True,False,
+20-129785,False,False,False,False,True,False,
+20-129787,False,False,False,False,True,False,
+20-129790,False,False,False,False,True,False,
+20-129791,False,False,False,False,True,False,
+20-129792,False,False,False,False,False,False,établissement de droit public
+20-129794,False,False,False,False,True,False,
+20-129796,False,False,False,False,True,False,
+20-129800,False,False,True,False,False,False,
+20-129802,False,False,True,False,False,False,
+20-129804,False,False,True,False,False,False,
+20-129810,False,False,False,False,False,False,santé
+20-129811,False,False,False,False,True,False,
+20-129815,False,False,False,False,False,False,Sénat
+20-129816,False,False,False,False,True,False,
+20-129822,False,False,False,False,True,False,
+20-129823,False,False,True,False,False,False,
+20-129824,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-129826,False,False,True,False,False,False,
+20-129827,False,False,False,False,True,False,
+20-129828,False,True,False,False,False,False,
+20-129836,False,False,False,False,True,False,
+20-129838,False,False,True,False,False,False,
+20-129845,False,False,True,False,False,False,
+20-101256,True,False,False,False,False,False,
+20-129850,False,False,False,False,False,False,ESH
+20-129854,False,False,True,False,False,False,
+20-129856,True,False,False,False,False,False,
+20-129859,False,False,True,False,False,False,
+20-129862,False,False,False,False,True,False,
+20-129863,False,False,True,False,False,False,
+20-129864,False,False,True,False,False,False,
+20-129865,False,False,True,False,False,False,
+20-129867,False,False,True,False,False,False,
+20-129869,False,False,False,False,True,False,
+20-129870,False,False,False,False,True,False,
+20-129871,False,False,True,False,False,False,
+20-129876,False,False,True,False,False,False,
+20-129878,False,False,True,False,False,False,
+20-129881,False,False,False,True,False,False,
+20-129883,True,False,False,False,False,False,
+20-129887,False,False,False,False,True,False,
+20-129889,False,False,False,False,False,False,GIP
+20-129891,False,False,False,False,False,False,Autre
+20-129892,False,False,False,False,True,False,
+20-129895,True,False,False,False,False,False,
+20-129898,False,False,False,False,False,False,EPLE
+20-129900,False,False,False,False,False,False,Aménagement d'espaces publics
+20-129911,False,False,True,False,False,False,
+20-129913,False,False,True,False,False,False,
+20-129914,False,False,True,False,False,False,
+20-129919,True,False,False,False,False,False,
+20-82291,False,False,True,False,False,False,
+20-129922,False,False,True,False,False,False,
+20-129923,False,False,True,False,False,False,
+20-129925,False,False,True,False,False,False,
+20-129927,False,False,True,False,False,False,
+20-129929,False,False,True,False,False,False,
+20-129930,False,False,False,False,True,False,
+20-129932,False,False,False,False,False,False,Organisme de droit privé chargé d'une mission de service public
+20-107799,True,False,False,False,False,False,
+20-129935,False,False,True,False,False,False,
+20-129939,True,False,False,False,False,False,
+20-129941,False,False,False,False,False,False,Etablissement public de santé
+20-129944,False,False,True,False,False,False,
+20-129947,False,False,False,False,True,False,
+20-129952,False,False,False,False,True,False,
+20-129953,False,False,False,False,False,False,Locale 83
+20-129955,True,False,False,False,False,False,
+20-129957,False,False,True,False,False,False,
+20-129958,False,False,True,False,False,False,
+20-129959,False,False,True,False,False,False,
+20-129962,False,False,True,False,False,False,
+20-129964,True,False,False,False,False,False,
+20-129965,True,False,False,False,False,False,
+20-129971,False,False,False,False,True,False,
+20-129978,False,False,False,False,True,False,
+20-129979,True,False,False,False,False,False,
+20-129980,False,False,True,False,False,False,
+20-129983,False,False,True,False,False,False,
+20-129987,False,False,False,False,True,False,
+20-129990,False,False,False,False,True,False,
+20-129996,False,False,False,False,True,False,
+20-130000,False,False,True,False,False,False,
+20-130003,False,False,True,False,False,False,
+20-130005,False,False,True,False,False,False,
+20-130007,False,False,True,False,False,False,
+20-115345,False,False,False,False,False,False,Opérateur de Compétences
+20-130012,False,False,False,False,False,False,interprofession
+20-130014,False,False,False,False,False,False,Etablissement public de santé
+20-130018,False,False,True,False,False,False,
+20-130020,True,False,False,False,False,False,
+20-130029,False,False,False,False,True,False,
+20-130031,False,False,True,False,False,False,
+20-130032,False,False,True,False,False,False,
+20-130033,False,False,True,False,False,False,
+20-130034,False,False,False,False,True,False,
+20-130038,True,False,False,False,False,False,
+20-130043,False,False,False,False,True,False,
+20-130046,False,False,True,False,False,False,
+20-130048,False,False,False,False,False,False,Établissement public de coopération intercommunale
+20-130049,True,False,False,False,False,False,
+20-130050,False,False,True,False,False,False,
+20-130053,False,False,True,False,False,False,
+20-130054,False,False,False,False,True,False,
+20-130055,False,False,True,False,False,False,
+20-130056,False,False,True,False,False,False,
+20-130058,False,False,False,False,True,False,
+20-130060,False,False,False,False,True,False,
+20-130062,False,False,True,False,False,False,
+20-130066,False,False,True,False,False,False,
+20-130068,False,False,False,False,True,False,
+20-130069,False,False,True,False,False,False,
+20-130071,False,False,False,False,False,False,EPCI
+20-130073,False,False,False,False,False,False,autre
+20-130074,False,False,True,False,False,False,
+20-130075,False,False,False,False,True,False,
+20-130076,False,False,True,False,False,False,
+20-130077,False,False,True,False,False,False,
+20-130081,False,False,True,False,False,False,
+20-130082,False,False,False,False,True,False,
+20-130083,False,False,True,False,False,False,
+20-130084,False,False,False,False,True,False,
+20-130085,False,False,True,False,False,False,
+20-130086,False,False,False,False,True,False,
+20-130087,False,False,True,False,False,False,
+20-130089,False,False,True,False,False,False,
+20-130091,True,False,False,False,False,False,
+20-130092,False,False,False,False,False,False,Etablissement Public de Santé
+20-130094,False,False,False,False,False,False,ETABLISSEMENT DE SANTE
+20-130097,True,False,False,False,False,False,
+20-130098,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-130099,False,False,False,False,False,False,Chambre de Commerce et d'Industrie
+20-130100,False,False,False,False,False,False,Etablissement public de santé
+20-86968,False,False,False,False,True,False,
+20-130103,False,False,True,False,False,False,
+20-130107,False,False,True,False,False,False,
+20-130108,False,False,False,False,False,False,autre
+20-130115,False,False,True,False,False,False,
+20-130116,False,False,True,False,False,False,
+20-130117,False,False,True,False,False,False,
+20-130124,False,False,False,False,True,False,
+20-130125,False,False,False,False,True,False,
+20-130126,False,False,True,False,False,False,
+20-130127,False,False,False,False,True,False,
+20-130135,False,False,True,False,False,False,
+20-130139,False,False,True,False,False,False,
+20-130142,False,False,True,False,False,False,
+20-130145,False,False,False,False,False,False,autre
+20-130148,False,False,True,False,False,False,
+20-130149,False,False,False,False,False,False,Organisme de sécurité sociale
+20-130150,False,False,True,False,False,False,
+20-89924,False,False,True,False,False,False,
+20-130158,False,False,True,False,False,False,
+20-130160,False,False,True,False,False,False,
+20-130163,False,False,False,False,False,False,collectivité
+20-130168,False,False,False,False,True,False,
+20-130169,False,False,True,False,False,False,
+20-130170,False,False,False,False,False,False,Protection Sociale
+20-130171,False,False,False,False,True,False,
+20-130172,False,False,True,False,False,False,
+20-130173,False,False,False,False,True,False,
+20-130175,False,False,False,False,True,False,
+20-130176,False,False,True,False,False,False,
+20-130182,False,False,True,False,False,False,
+20-130183,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale (EPCI)
+20-130187,False,False,False,False,True,False,
+20-130194,False,False,True,False,False,False,
+20-89516,False,False,True,False,False,False,
+20-130204,False,False,False,False,True,False,
+20-130205,False,False,True,False,False,False,
+20-97731,True,False,False,False,False,False,
+20-130209,False,False,False,False,False,False,Hopital
+20-130214,False,False,True,False,False,False,
+20-130219,False,False,True,False,False,False,
+20-130224,False,False,True,False,False,False,
+20-130226,False,False,True,False,False,False,
+20-130227,False,False,True,False,False,False,
+20-130230,False,False,True,False,False,False,
+20-130232,False,False,True,False,False,False,
+20-130233,False,False,True,False,False,False,
+20-130236,False,False,False,False,False,False,Association loi 1901 sous le haut patronage du Ministère en charge de la Santé.
+20-130238,False,False,True,False,False,False,
+20-130243,False,False,True,False,False,False,
+20-130244,False,False,False,False,True,False,
+20-130245,False,False,False,False,False,False,social et medico-social
+20-130246,False,False,False,False,False,False,Protection sociale
+20-130250,False,False,False,False,True,False,
+20-130256,False,False,False,False,True,False,
+20-130258,False,False,False,False,True,False,
+20-130265,False,False,True,False,False,False,
+20-130266,False,False,False,False,False,False,commune
+20-130267,True,False,False,False,False,False,
+20-130268,False,False,True,False,False,False,
+20-130269,False,False,False,False,True,False,
+20-130280,False,False,False,False,True,False,
+20-130281,False,False,False,False,True,False,
+20-130283,False,False,True,False,False,False,
+20-130284,False,False,True,False,False,False,
+20-130286,False,False,False,False,True,False,
+20-130289,False,False,True,False,False,False,
+20-130290,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-130293,False,False,False,False,False,False,Association
+20-130294,False,False,True,False,False,False,
+20-130298,False,False,True,False,False,False,
+20-130300,False,False,True,False,False,False,
+20-130302,False,False,False,False,False,False,autre
+20-130303,False,False,True,False,False,False,
+20-130304,False,False,False,False,True,False,
+20-99745,False,False,True,False,False,False,
+20-130312,False,False,False,False,True,False,
+20-130314,False,False,True,False,False,False,
+20-130315,False,False,True,False,False,False,
+20-90604,False,False,False,False,False,False,Agence française de développement médias
+20-130319,False,False,False,False,True,False,
+20-130321,False,False,True,False,False,False,
+20-130322,False,False,False,False,True,False,
+20-130323,False,False,True,False,False,False,
+20-130327,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+20-130328,False,False,True,False,False,False,
+20-130332,False,False,False,False,False,False,Collectivité territoriale
+20-130333,False,False,False,False,True,False,
+20-130337,False,False,False,False,True,False,
+20-130341,False,False,True,False,False,False,
+20-100177,False,False,True,False,False,False,
+20-130345,False,False,True,False,False,False,
+20-130346,False,False,False,False,True,False,
+20-130348,False,False,False,False,False,False,Société Publique Locale (SPL)
+20-130350,False,False,False,False,True,False,
+20-130351,False,False,True,False,False,False,
+20-130354,False,False,True,False,False,False,
+20-130355,False,False,True,False,False,False,
+20-130361,False,False,False,False,False,False,EPCI
+20-130363,False,False,True,False,False,False,
+20-130364,False,False,False,False,False,False,Ville
+20-130368,False,False,False,False,True,False,
+20-130369,False,False,True,False,False,False,
+20-130380,False,False,False,False,True,False,
+20-130381,False,True,False,False,False,False,
+20-130383,False,False,False,False,True,False,
+20-130387,False,False,True,False,False,False,
+20-130389,False,False,True,False,False,False,
+20-96446,False,False,False,False,True,False,
+20-130391,False,False,False,False,True,False,
+20-130395,False,False,False,False,False,False,Collectivité territoriale
+20-130397,False,False,True,False,False,False,
+20-130399,False,False,False,False,True,False,
+20-130400,False,False,True,False,False,False,
+20-130402,False,False,True,False,False,False,
+20-130403,False,False,True,False,False,False,
+20-130405,False,False,True,False,False,False,
+20-130407,False,False,False,False,True,False,
+20-130409,False,False,False,True,False,False,
+20-130411,False,False,True,False,False,False,
+20-130412,False,False,True,False,False,False,
+20-130413,False,False,True,False,False,False,
+20-130419,False,False,True,False,False,False,
+20-130421,False,False,False,False,True,False,
+20-130423,False,False,False,False,True,False,
+20-130424,False,False,True,False,False,False,
+20-130426,False,False,True,False,False,False,
+20-130428,False,False,True,False,False,False,
+20-130431,False,False,True,False,False,False,
+20-130434,False,False,True,False,False,False,
+20-130436,False,False,False,False,True,False,
+20-130437,False,False,False,False,False,False,Comité National d'Action Sociale
+20-130438,False,False,False,False,True,False,
+20-130439,False,False,True,False,False,False,
+20-130440,False,False,True,False,False,False,
+20-130442,False,False,False,False,False,False,Organisme de Sécurité Sociale
+20-130444,False,False,True,False,False,False,
+20-130445,False,False,False,False,True,False,
+20-130447,False,False,True,False,False,False,
+20-130452,False,False,True,False,False,False,
+20-130453,False,False,False,False,False,False,autre
+20-130454,False,False,False,False,False,False,collectivité territoriale
+20-130456,False,False,False,False,False,False,autre
+20-130459,False,False,False,False,True,False,
+20-130460,False,False,True,False,False,False,
+20-130462,False,False,False,False,False,False,Syndicat Intercommunal
+20-130464,False,False,False,False,False,False,Sté d'Exploitation de la Tour Eiffel
+20-130466,False,False,True,False,False,False,
+20-130469,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-130472,False,False,False,False,True,False,
+20-130473,False,False,False,False,True,False,
+20-130474,False,False,False,False,False,False,Société Publique Locale
+20-130480,False,False,True,False,False,False,
+20-130484,False,False,False,False,True,False,
+20-130485,False,False,True,False,False,False,
+20-130487,False,False,True,False,False,False,
+20-130488,False,False,True,False,False,False,
+20-130492,False,False,False,False,True,False,
+20-130494,False,False,True,False,False,False,
+20-130496,False,False,False,False,False,False,Etablissement public local d'enseignement
+20-130497,False,False,True,False,False,False,
+20-130498,False,False,True,False,False,False,
+20-130501,True,False,False,False,False,False,
+20-130502,False,False,True,False,False,False,
+20-130503,False,False,False,False,False,False,autre
+20-130513,False,False,False,False,False,False,EPCI
+20-130515,False,False,True,False,False,False,
+20-130517,False,False,True,False,False,False,
+20-130523,False,False,False,False,True,False,
+20-130524,False,False,True,False,False,False,
+20-130535,False,False,False,False,True,False,
+20-130536,False,False,False,False,False,False,Etablissement public social et médico-social
+20-130539,False,False,False,False,True,False,
+20-130547,False,False,True,False,False,False,
+20-130548,False,False,True,False,False,False,
+20-130549,True,False,False,False,False,False,
+20-130551,False,False,True,False,False,False,
+20-130553,False,False,True,False,False,False,
+20-130554,False,False,True,False,False,False,
+19-174208,False,False,False,False,True,False,
+20-130557,True,False,False,False,False,False,
+20-130558,False,False,True,False,False,False,
+20-130559,True,False,False,False,False,False,
+20-130560,False,False,False,False,True,False,
+20-130563,False,False,True,False,False,False,
+20-130565,False,False,False,False,True,False,
+20-130571,False,False,True,False,False,False,
+20-130576,False,False,False,False,False,False,Sénat
+20-130578,False,False,True,False,False,False,
+20-130581,False,False,True,False,False,False,
+20-130582,False,False,True,False,False,False,
+20-130583,False,False,True,False,False,False,
+20-130585,False,False,True,False,False,False,
+20-130586,False,False,False,False,False,False,SA HLM
+20-130588,False,False,True,False,False,False,
+20-130590,False,False,False,False,True,False,
+20-130591,False,False,False,False,True,False,
+20-130593,True,False,False,False,False,False,
+20-130594,False,False,True,False,False,False,
+20-130596,False,False,True,False,False,False,
+20-130598,False,False,True,False,False,False,
+20-130600,False,False,False,False,False,False,Exploitation d'un port de plaisance
+20-130601,False,False,True,False,False,False,
+20-130602,False,False,True,False,False,False,
+20-130604,False,False,True,False,False,False,
+20-130611,False,False,False,False,False,False,Société Publique Locale
+20-130612,False,False,True,False,False,False,
+20-130614,False,False,True,False,False,False,
+20-130616,False,False,True,False,False,False,
+20-130629,False,False,True,False,False,False,
+20-130632,False,False,False,False,True,False,
+20-130636,False,False,True,False,False,False,
+20-130637,False,False,False,False,False,False,EPCI
+20-130638,False,False,False,False,False,False,Etablissement public de santé
+20-130639,False,False,True,False,False,False,
+20-130641,False,False,False,False,True,False,
+20-130642,False,False,True,False,False,False,
+20-130644,True,False,False,False,False,False,
+20-130645,False,False,False,False,True,False,
+20-130648,False,False,False,False,False,False,SOCIETE PUBLIQUE LOCALE
+20-130649,False,False,True,False,False,False,
+20-99365,True,False,False,False,False,False,
+20-130654,False,False,False,False,True,False,
+20-130656,False,False,True,False,False,False,
+20-130657,False,False,False,False,False,False,EPCI
+20-130660,False,False,False,False,True,False,
+20-130661,False,False,True,False,False,False,
+20-130664,False,False,False,False,True,False,
+20-130665,False,False,False,False,True,False,
+20-130668,False,False,True,False,False,False,
+20-130669,False,False,False,False,True,False,
+20-130675,False,False,True,False,False,False,
+20-130676,False,False,False,False,True,False,
+20-130678,False,False,False,False,False,False,SAFI - SEM
+20-130679,False,False,True,False,False,False,
+20-130680,False,False,False,False,True,False,
+20-130681,False,False,True,False,False,False,
+20-130684,False,False,False,False,True,False,
+20-130688,False,True,False,False,False,False,
+20-130689,False,False,True,False,False,False,
+20-130691,False,False,True,False,False,False,
+20-130699,False,False,False,False,True,False,
+20-130700,False,False,False,False,True,False,
+20-130701,False,False,True,False,False,False,
+20-130702,False,False,True,False,False,False,
+20-130704,False,False,False,False,True,False,
+20-130705,False,False,True,False,False,False,
+20-130706,False,False,False,True,False,False,
+20-130709,False,False,True,False,False,False,
+20-130715,False,False,False,False,False,False,EPSCP
+20-130719,False,False,True,False,False,False,
+20-130722,False,False,False,False,True,False,
+20-130725,False,False,False,False,True,False,
+20-130726,False,False,False,False,True,False,
+20-130732,True,False,False,False,False,False,
+20-130733,False,False,False,False,True,False,
+20-130736,True,False,False,False,False,False,
+20-130742,False,False,True,False,False,False,
+20-130743,False,False,True,False,False,False,
+20-130745,False,False,True,False,False,False,
+20-130746,False,False,True,False,False,False,
+20-130749,False,False,False,False,False,False,EPCI
+20-130754,False,False,False,False,False,False,Groupement d'Intérêt Economique
+20-130756,False,False,False,False,True,False,
+20-130757,False,False,True,False,False,False,
+20-130758,False,False,False,False,False,False,Etablissement public de santé
+20-130761,False,False,False,False,True,False,
+20-130765,True,False,False,False,False,False,
+20-130767,False,False,False,False,True,False,
+20-130769,False,False,False,False,True,False,
+20-130770,False,False,True,False,False,False,
+20-130772,False,False,True,False,False,False,
+20-130775,False,False,True,False,False,False,
+20-130778,False,False,True,False,False,False,
+20-130779,False,False,False,False,True,False,
+20-130781,False,False,True,False,False,False,
+20-130782,False,False,True,False,False,False,
+20-130787,False,False,True,False,False,False,
+20-130788,False,False,False,False,True,False,
+20-130791,False,False,True,False,False,False,
+20-130794,False,False,True,False,False,False,
+20-130795,False,False,False,False,True,False,
+20-130798,False,False,False,False,True,False,
+20-130801,False,False,True,False,False,False,
+20-130802,False,False,True,False,False,False,
+20-130804,False,False,False,False,True,False,
+20-130805,True,False,False,False,False,False,
+20-130807,False,False,False,False,False,False,autre
+20-130810,False,False,False,False,True,False,
+20-130811,False,False,False,False,False,False,autre
+20-130812,False,False,False,True,False,False,
+20-130818,False,False,False,False,True,False,
+20-130827,False,False,False,False,False,False,CIF GIE GEIPCI
+20-130830,False,False,True,False,False,False,
+20-130834,False,False,False,False,True,False,
+20-130835,False,False,True,False,False,False,
+20-130836,True,False,False,False,False,False,
+20-130837,False,False,True,False,False,False,
+20-130842,True,False,False,False,False,False,
+20-130843,False,False,True,False,False,False,
+20-130849,False,False,False,False,False,False,SPL
+20-130850,True,False,False,False,False,False,
+20-130851,False,False,True,False,False,False,
+20-130856,False,False,True,False,False,False,
+20-130857,False,False,False,False,True,False,
+20-130861,False,False,False,False,False,False,EPCI
+20-130862,False,False,False,False,True,False,
+20-130863,False,False,False,False,False,False,Etablissement public de santé
+20-130865,False,False,True,False,False,False,
+20-130866,False,False,True,False,False,False,
+20-130867,False,False,True,False,False,False,
+20-130868,False,False,False,False,True,False,
+20-130872,False,False,False,False,False,False,SPL d'Aménagement et d'Urbanisme
+20-130873,False,False,True,False,False,False,
+20-130874,False,False,True,False,False,False,
+20-130875,False,False,False,False,False,False,Association
+20-130886,False,False,True,False,False,False,
+20-130890,False,False,False,False,True,False,
+20-130894,False,False,False,False,True,False,
+20-130897,False,True,False,False,False,False,
+20-130898,False,False,False,False,True,False,
+20-130899,False,False,False,False,True,False,
+20-130901,False,False,True,False,False,False,
+20-130903,False,False,False,False,True,False,
+20-130908,False,False,True,False,False,False,
+20-130912,True,False,False,False,False,False,
+20-130914,False,False,True,False,False,False,
+20-130915,False,False,False,False,True,False,
+20-130918,False,False,False,False,False,False,EPCI
+20-130919,False,False,True,False,False,False,
+20-130924,False,False,True,False,False,False,
+20-130932,False,False,False,False,False,False,autre
+20-130934,False,False,False,False,False,False,"Syndicat mixte, Collectivité territoriale"
+20-130935,False,False,True,False,False,False,
+20-130939,False,False,False,False,False,False,Collectivité territoriale
+20-130945,False,False,True,False,False,False,
+20-130946,False,False,True,False,False,False,
+20-130950,False,False,True,False,False,False,
+20-130951,False,False,False,False,False,False,autre
+20-130952,False,False,True,False,False,False,
+20-130953,False,False,True,False,False,False,
+20-130956,False,False,True,False,False,False,
+20-130958,True,False,False,False,False,False,
+20-130959,False,False,False,False,True,False,
+20-130961,False,False,False,False,False,False,Organisme privé de Sécurité Sociale
+20-130962,False,False,False,False,False,False,Santé
+20-130966,False,False,False,False,True,False,
+20-130968,False,False,True,False,False,False,
+20-130970,False,False,True,False,False,False,
+20-130971,True,False,False,False,False,False,
+20-130973,False,False,False,False,True,False,
+20-130974,False,False,False,False,True,False,
+20-130975,False,False,False,False,True,False,
+20-130977,False,False,False,False,False,False,Santé
+20-130980,False,False,True,False,False,False,
+20-130984,False,False,True,False,False,False,
+20-130993,False,False,False,True,False,False,
+20-130999,False,False,False,False,False,False,Société publique locale
+20-131002,False,False,False,False,True,False,
+20-131005,False,False,True,False,False,False,
+20-131014,False,False,True,False,False,False,
+20-131016,False,False,True,False,False,False,
+20-131024,False,False,False,False,False,False,autre
+20-131025,False,False,True,False,False,False,
+20-131026,False,False,False,False,True,False,
+20-131028,False,False,True,False,False,False,
+20-131029,False,False,True,False,False,False,
+20-131030,False,False,True,False,False,False,
+20-131031,False,False,False,False,False,False,autre
+20-131032,False,False,False,False,True,False,
+20-131033,False,False,False,False,False,False,Commune de Etel
+20-131035,False,False,True,False,False,False,
+20-131036,False,False,False,False,True,False,
+20-131038,False,False,False,False,True,False,
+20-131041,True,False,False,False,False,False,
+20-131044,False,False,False,False,True,False,
+20-131045,False,False,False,False,True,False,
+20-131048,False,False,True,False,False,False,
+20-131049,False,False,True,False,False,False,
+20-131056,False,False,True,False,False,False,
+20-131058,False,False,True,False,False,False,
+20-131059,False,False,False,False,True,False,
+20-131060,True,False,False,False,False,False,
+20-131061,False,False,False,True,False,False,
+20-131062,False,False,True,False,False,False,
+20-131067,True,False,False,False,False,False,
+20-131072,False,False,True,False,False,False,
+20-131074,False,False,False,False,False,False,Association loi 1901 sous le haut patronage du Ministère en charge de la Santé.
+20-131077,False,False,False,False,False,False,Enseignement surprise et recherche
+20-131080,False,False,False,False,False,False,Santé
+20-131081,False,False,False,False,True,False,
+20-131082,False,False,True,False,False,False,
+20-131085,True,False,False,False,False,False,
+20-131087,False,False,True,False,False,False,
+20-131088,False,False,True,False,False,False,
+20-131089,False,False,False,False,True,False,
+20-131091,False,False,True,False,False,False,
+20-131092,True,False,False,False,False,False,
+20-131093,True,False,False,False,False,False,
+20-131095,False,False,False,False,True,False,
+20-131097,False,False,True,False,False,False,
+20-131098,False,False,True,False,False,False,
+20-131102,False,False,True,False,False,False,
+20-131104,False,False,False,False,True,False,
+20-131107,False,False,True,False,False,False,
+20-131108,False,False,True,False,False,False,
+20-131110,False,False,True,False,False,False,
+20-131113,False,False,False,False,True,False,
+20-131115,False,False,False,False,True,False,
+20-131124,True,False,False,False,False,False,
+20-131125,False,False,False,False,True,False,
+20-131126,True,False,False,False,False,False,
+20-131127,False,False,False,False,True,False,
+20-131128,False,False,False,False,True,False,
+20-131129,True,False,False,False,False,False,
+20-131130,False,False,False,False,False,False,Régime général de la sécurité sociale
+20-131131,False,False,False,False,True,False,
+20-131139,False,False,False,False,False,False,Bailleur privé
+20-131142,False,False,True,False,False,False,
+20-131146,True,False,False,False,False,False,
+20-131148,False,False,False,False,False,False,autre
+20-131149,False,False,False,False,True,False,
+20-131153,False,False,True,False,False,False,
+20-131154,False,False,True,False,False,False,
+20-131155,False,False,False,False,True,False,
+20-131156,False,False,False,False,False,False,autre
+20-131158,False,False,False,False,True,False,
+20-131159,False,False,True,False,False,False,
+20-131160,False,False,False,False,False,False,commune
+20-131165,False,False,True,False,False,False,
+20-131167,False,False,False,False,False,False,EPIC
+20-131168,False,False,True,False,False,False,
+20-131169,False,False,False,False,True,False,
+20-131178,False,False,False,False,True,False,
+20-131179,False,False,False,False,True,False,
+20-131180,False,False,False,False,True,False,
+20-131181,False,False,False,False,True,False,
+20-131182,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-131184,False,False,False,False,True,False,
+20-131188,False,False,True,False,False,False,
+20-131191,False,False,True,False,False,False,
+20-131193,False,False,False,False,False,False,autre
+20-131194,False,False,True,False,False,False,
+20-131195,True,False,False,False,False,False,
+20-131196,False,False,False,False,False,False,commune
+20-131203,False,False,False,False,False,False,autre
+20-131204,False,False,False,False,True,False,
+20-131206,False,True,False,False,False,False,
+20-131209,False,False,False,False,False,False,Commune
+20-131211,False,False,False,False,True,False,
+20-131215,True,False,False,False,False,False,
+20-131216,False,False,True,False,False,False,
+20-131217,False,False,False,False,True,False,
+20-131218,False,False,False,False,True,False,
+20-131220,False,True,False,False,False,False,
+20-131225,False,False,True,False,False,False,
+20-131229,False,False,True,False,False,False,
+20-131230,False,False,True,False,False,False,
+20-131231,False,False,True,False,False,False,
+20-131232,False,False,True,False,False,False,
+20-131233,False,False,True,False,False,False,
+20-131240,True,False,False,False,False,False,
+20-131246,False,False,False,False,True,False,
+20-131249,False,False,False,False,False,False,autre
+20-131250,False,False,False,False,False,False,Etablissement Public de Santé
+20-131251,False,False,False,True,False,False,
+20-131255,False,False,True,False,False,False,
+20-131258,False,False,True,False,False,False,
+20-131260,False,False,False,False,False,False,Communauté de communes
+20-131264,False,False,True,False,False,False,
+20-131271,False,False,False,False,True,False,
+20-131272,False,False,False,False,False,False,Établissement d'enseignement supérieur et de recherche
+20-131274,False,False,True,False,False,False,
+20-131276,False,False,False,False,False,False,Université
+20-131278,False,False,True,False,False,False,
+20-131280,False,False,False,False,False,False,Etablissement Public de Santé
+20-131281,True,False,False,False,False,False,
+20-131282,True,False,False,False,False,False,
+20-131284,False,False,True,False,False,False,
+20-131285,False,False,True,False,False,False,
+20-131290,False,False,True,False,False,False,
+20-131291,False,False,True,False,False,False,
+20-131302,False,False,False,False,True,False,
+20-131303,False,False,True,False,False,False,
+20-131306,False,False,True,False,False,False,
+20-131307,False,False,True,False,False,False,
+20-131308,True,False,False,False,False,False,
+20-131309,False,False,True,False,False,False,
+20-131311,False,False,False,False,True,False,
+20-131312,True,False,False,False,False,False,
+20-131313,False,False,False,False,False,False,EPIC
+20-131316,False,False,True,False,False,False,
+20-131317,False,False,True,False,False,False,
+20-131319,False,False,False,False,True,False,
+20-131321,False,False,True,False,False,False,
+20-131323,False,False,True,False,False,False,
+20-131326,False,False,True,False,False,False,
+20-131330,False,False,True,False,False,False,
+20-131331,False,False,False,False,True,False,
+20-131333,False,False,True,False,False,False,
+20-131334,False,False,False,False,False,False,Collectivité territoriale
+20-131335,False,False,True,False,False,False,
+20-131336,False,False,True,False,False,False,
+20-131339,False,False,False,False,False,False,Activité Portuaire
+20-131345,False,False,True,False,False,False,
+20-131350,False,False,False,False,True,False,
+20-131352,False,False,False,False,True,False,
+20-131354,False,False,False,False,True,False,
+20-131360,False,False,False,False,True,False,
+20-131364,False,False,False,False,True,False,
+20-131365,False,False,False,False,True,False,
+20-131366,False,False,True,False,False,False,
+20-131368,False,False,True,False,False,False,
+20-131370,False,False,True,False,False,False,
+20-131371,False,False,True,False,False,False,
+20-131373,False,False,True,False,False,False,
+20-131374,False,False,False,False,False,False,Université
+20-131376,False,False,False,False,True,False,
+20-131380,False,False,False,False,False,False,Collectivité territoriale
+20-131386,False,False,False,False,True,False,
+20-131393,False,False,False,False,True,False,
+20-131395,False,False,True,False,False,False,
+20-131397,False,False,True,False,False,False,
+20-131398,False,False,False,False,True,False,
+20-131399,True,False,False,False,False,False,
+20-131400,True,False,False,False,False,False,
+20-131402,False,False,True,False,False,False,
+20-131404,False,False,False,False,True,False,
+20-131406,False,False,False,False,True,False,
+20-131411,False,False,True,False,False,False,
+20-131415,True,False,False,False,False,False,
+20-131421,False,False,True,False,False,False,
+20-131431,False,False,True,False,False,False,
+20-131432,False,False,False,True,False,False,
+20-131433,False,False,True,False,False,False,
+20-131443,False,False,True,False,False,False,
+20-131444,False,False,True,False,False,False,
+20-131445,False,False,True,False,False,False,
+20-131446,False,False,True,False,False,False,
+20-131447,False,False,True,False,False,False,
+20-131448,False,False,False,False,True,False,
+20-131456,False,False,True,False,False,False,
+20-131461,True,False,False,False,False,False,
+20-131464,False,False,True,False,False,False,
+20-131465,False,False,True,False,False,False,
+20-131478,False,False,True,False,False,False,
+20-131479,True,False,False,False,False,False,
+20-131482,False,False,False,False,True,False,
+20-131483,False,False,True,False,False,False,
+20-131485,False,False,False,False,False,False,autres organismes publics
+20-131486,False,False,True,False,False,False,
+20-131487,False,False,False,False,True,False,
+20-131495,False,False,True,False,False,False,
+20-131496,False,False,True,False,False,False,
+20-131498,False,False,False,False,True,False,
+20-131500,False,False,False,False,False,False,Délégation de Service public
+20-131503,False,False,True,False,False,False,
+20-131506,False,False,True,False,False,False,
+20-131507,False,False,False,False,False,False,autre
+20-131509,False,False,False,False,True,False,
+20-131510,True,False,False,False,False,False,
+20-131512,True,False,False,False,False,False,
+20-131514,False,False,True,False,False,False,
+20-131519,False,False,True,False,False,False,
+20-131525,False,False,False,False,False,False,Sécurité sociale
+20-131526,True,False,False,False,False,False,
+20-131527,False,True,False,False,False,False,
+20-131532,False,False,False,False,False,False,Aménagement du territoire
+20-131536,False,False,True,False,False,False,
+20-131537,False,False,False,False,True,False,
+20-131540,False,False,True,False,False,False,
+20-131541,False,False,True,False,False,False,
+20-131544,True,False,False,False,False,False,
+20-131546,False,False,False,False,True,False,
+20-131548,False,False,True,False,False,False,
+20-131555,False,False,False,False,True,False,
+20-131557,False,False,True,False,False,False,
+20-131559,False,False,True,False,False,False,
+20-131561,False,False,True,False,False,False,
+20-131562,False,False,False,False,True,False,
+20-131563,False,False,True,False,False,False,
+20-131571,False,False,True,False,False,False,
+20-131574,False,False,True,False,False,False,
+20-131579,False,False,False,False,True,False,
+20-131581,False,False,True,False,False,False,
+20-131583,False,False,True,False,False,False,
+20-131586,False,False,True,False,False,False,
+20-131587,False,False,True,False,False,False,
+20-131588,True,False,False,False,False,False,
+20-131590,False,False,True,False,False,False,
+20-131591,True,False,False,False,False,False,
+20-131593,False,False,False,False,True,False,
+20-131594,False,False,False,False,True,False,
+20-131595,False,False,False,False,True,False,
+20-131602,False,False,True,False,False,False,
+20-131603,False,False,True,False,False,False,
+20-131605,True,False,False,False,False,False,
+20-131606,False,False,True,False,False,False,
+20-131610,False,False,False,False,False,False,"Collectivité territoriale, Syndicat mixte"
+20-131611,True,False,False,False,False,False,
+20-131614,False,False,False,False,True,False,
+20-131621,False,False,False,False,False,False,EPIC
+20-131623,False,False,False,False,False,False,Société d'Économie Mixte
+20-131624,False,False,False,False,True,False,
+20-131627,False,False,False,False,False,False,Syndicat mixte
+20-131629,False,False,True,False,False,False,
+20-131641,False,False,False,False,False,False,commune
+20-131649,False,False,False,False,False,False,autre
+20-131653,False,False,True,False,False,False,
+20-131654,False,False,True,False,False,False,
+20-131655,False,False,True,False,False,False,
+20-131656,False,False,False,False,False,False,autre
+20-131657,True,False,False,False,False,False,
+20-131660,False,False,True,False,False,False,
+20-131661,False,False,True,False,False,False,
+20-131662,False,False,True,False,False,False,
+20-131664,False,False,False,False,False,False,Établissement public de coopération intercommunale
+20-131665,True,False,False,False,False,False,
+20-131667,False,False,False,False,False,False,collectivités locales
+20-131670,False,False,True,False,False,False,
+20-131671,True,False,False,False,False,False,
+20-131673,False,False,False,False,True,False,
+20-131674,False,False,True,False,False,False,
+20-131677,False,False,False,False,True,False,
+20-131680,False,False,True,False,False,False,
+20-131682,False,False,True,False,False,False,
+20-131684,False,False,False,False,True,False,
+20-131685,True,False,False,False,False,False,
+20-131691,False,False,True,False,False,False,
+20-131692,False,False,True,False,False,False,
+20-131698,False,False,False,False,True,False,
+20-131701,False,False,True,False,False,False,
+20-131705,False,False,True,False,False,False,
+20-131708,False,False,True,False,False,False,
+20-131711,False,False,False,False,True,False,
+20-131714,False,False,True,False,False,False,
+20-131715,False,False,True,False,False,False,
+20-131718,False,False,True,False,False,False,
+20-131719,False,False,False,False,True,False,
+20-131732,False,False,True,False,False,False,
+20-131736,False,False,False,True,False,False,
+20-131738,False,True,False,False,False,False,
+20-131741,True,False,False,False,False,False,
+20-131744,False,False,False,False,True,False,
+20-131745,False,False,False,False,True,False,
+20-131748,False,False,False,False,False,False,Office HLM
+20-131750,False,False,False,False,False,False,Secteur sanitaire et medico-social
+20-131751,False,False,False,False,False,False,GROUPEMENT D'INTERET PUBLIC
+20-131755,False,False,False,False,False,False,OPH
+20-131757,False,False,False,False,True,False,
+20-131759,False,False,False,False,False,False,Groupement d'Intérêt Economique
+20-131761,False,False,True,False,False,False,
+20-131764,False,False,True,False,False,False,
+20-131765,False,False,True,False,False,False,
+20-131769,False,False,False,False,False,False,Etablissement publics de santé
+20-131771,False,False,False,False,False,False,Chambre consulaire
+20-131772,False,False,False,False,False,False,EPIC (Etablissement public industriel et commercial) de l'Etat
+20-131773,True,False,False,False,False,False,
+20-131774,False,False,True,False,False,False,
+20-131783,False,False,False,False,False,False,Intercommunalité
+20-131789,True,False,False,False,False,False,
+20-131798,False,False,False,False,False,False,Syndicat mixte
+20-131800,False,False,True,False,False,False,
+20-131805,False,False,False,False,True,False,
+20-131806,False,False,False,False,True,False,
+20-131807,False,False,False,False,True,False,
+20-131810,False,False,True,False,False,False,
+20-131813,False,False,False,True,False,False,
+20-131815,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-131816,False,False,False,False,True,False,
+20-131821,True,False,False,False,False,False,
+20-131823,False,False,False,False,True,False,
+20-131824,False,False,True,False,False,False,
+20-131828,False,False,True,False,False,False,
+20-131829,False,False,True,False,False,False,
+20-131830,False,False,True,False,False,False,
+20-131831,False,False,True,False,False,False,
+20-131833,False,False,True,False,False,False,
+20-131835,False,False,True,False,False,False,
+20-131836,False,False,False,False,True,False,
+20-131838,False,False,True,False,False,False,
+20-131839,False,False,False,False,False,False,Union des caisses nationales de Sécurité sociale (UCANSS) - centrale d'achats.
+20-131840,False,False,False,False,False,False,Collectivité territoriale - Commune
+20-131843,True,False,False,False,False,False,
+20-131847,False,False,False,False,True,False,
+20-131849,False,False,False,False,False,False,EPSCP
+20-131853,True,False,False,False,False,False,
+20-131854,False,False,True,False,False,False,
+20-131858,False,False,True,False,False,False,
+20-131860,True,False,False,False,False,False,
+20-131862,True,False,False,False,False,False,
+20-131865,False,False,False,False,False,False,Organisme de sécurité sociale
+20-131867,False,False,False,False,True,False,
+20-131869,False,False,False,False,True,False,
+20-131871,False,False,False,False,True,False,
+20-131875,False,False,True,False,False,False,
+20-131881,False,False,False,False,False,False,autre
+20-131882,False,False,True,False,False,False,
+20-131883,False,False,True,False,False,False,
+20-131885,False,False,True,False,False,False,
+20-131886,False,False,True,False,False,False,
+20-131888,False,False,False,False,False,False,Aide à la création d'entreprise
+20-131889,False,False,False,False,False,False,Aide à la création d'entreprises
+20-131891,False,False,False,False,True,False,
+20-131892,False,False,False,False,True,False,
+20-131899,False,False,False,False,False,False,Etablissement public de santé
+20-131901,False,False,False,False,True,False,
+20-131904,False,False,False,False,False,False,Aide à la création d'entreprise
+20-131906,False,False,False,False,False,False,Aide à la création d'entreprise
+20-131907,False,False,True,False,False,False,
+20-131912,False,False,True,False,False,False,
+20-131913,False,False,False,False,True,False,
+20-131917,True,False,False,False,False,False,
+20-131918,False,False,False,False,True,False,
+20-131920,False,False,False,False,True,False,
+20-131923,False,False,False,False,True,False,
+20-131925,False,False,True,False,False,False,
+20-131926,False,False,False,False,False,False,Etablissement Public de Santé
+20-131928,False,False,True,False,False,False,
+20-131938,False,False,True,False,False,False,
+20-131939,False,False,True,False,False,False,
+20-131942,False,False,False,False,True,False,
+20-131943,False,False,True,False,False,False,
+20-131945,False,False,True,False,False,False,
+20-131947,False,False,True,False,False,False,
+20-131948,False,False,False,False,True,False,
+20-131954,False,False,False,False,False,False,Opérateur de compétences
+20-131955,False,False,True,False,False,False,
+20-131956,False,False,False,False,False,False,Santé
+20-131963,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-131964,False,False,False,False,False,False,EPCI
+20-131966,False,False,False,False,True,False,
+20-131970,False,False,False,False,True,False,
+20-131972,True,False,False,False,False,False,
+20-131978,True,False,False,False,False,False,
+20-131981,False,False,True,False,False,False,
+20-131983,False,False,True,False,False,False,
+20-131989,False,False,True,False,False,False,
+20-131990,False,False,True,False,False,False,
+20-131997,False,False,True,False,False,False,
+20-131998,False,False,False,False,True,False,
+20-131999,False,False,False,False,False,False,autre
+20-132001,False,False,False,False,True,False,
+20-132003,False,False,True,False,False,False,
+20-132007,False,False,False,False,True,False,
+20-132008,False,False,False,False,True,False,
+20-132010,False,False,False,False,False,False,CHU
+20-132015,True,False,False,False,False,False,
+20-132019,False,False,False,False,True,False,
+20-132021,False,False,False,False,True,False,
+20-132023,False,False,False,False,True,False,
+20-132024,False,False,True,False,False,False,
+20-132028,False,False,True,False,False,False,
+20-132031,False,False,True,False,False,False,
+20-132032,False,False,True,False,False,False,
+20-132033,False,False,False,False,True,False,
+20-132035,False,False,True,False,False,False,
+20-132037,False,False,True,False,False,False,
+20-132038,False,False,False,False,False,False,CHU
+20-132042,False,False,True,False,False,False,
+20-132046,False,False,False,False,True,False,
+20-132047,False,False,True,False,False,False,
+20-132048,False,False,True,False,False,False,
+20-132049,False,False,False,False,True,False,
+20-132056,False,False,False,False,True,False,
+20-132063,False,False,True,False,False,False,
+20-132065,False,False,True,False,False,False,
+20-132066,False,False,True,False,False,False,
+20-132069,False,False,False,False,True,False,
+20-132070,False,False,False,False,True,False,
+20-132073,False,False,True,False,False,False,
+20-132078,False,False,False,False,True,False,
+20-132082,False,False,True,False,False,False,
+20-132084,True,False,False,False,False,False,
+20-132085,False,False,False,False,False,False,Institution de Retraite Complémentaire
+20-132087,True,False,False,False,False,False,
+20-132088,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+20-132089,False,False,False,False,False,False,Société d'Économie Mixte
+20-132093,False,False,False,False,False,False,Santé
+20-132095,True,False,False,False,False,False,
+20-132098,False,False,False,False,True,False,
+20-132099,False,False,True,False,False,False,
+20-132104,False,False,True,False,False,False,
+20-132105,False,False,True,False,False,False,
+20-132106,False,False,True,False,False,False,
+20-132107,False,False,True,False,False,False,
+20-132108,False,False,False,False,False,False,Collectivité territoriale
+20-132109,False,False,False,False,False,False,SCIC EVOLEA
+20-132111,False,False,False,False,True,False,
+20-132117,False,False,False,False,True,False,
+20-132118,False,False,True,False,False,False,
+20-132119,False,False,True,False,False,False,
+20-132120,False,False,False,False,True,False,
+20-132125,False,False,True,False,False,False,
+20-132126,False,False,True,False,False,False,
+20-132128,False,False,True,False,False,False,
+20-132133,False,False,True,False,False,False,
+20-132134,False,False,False,False,True,False,
+20-132135,False,False,True,False,False,False,
+20-132136,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel"
+20-132137,False,False,True,False,False,False,
+20-132138,False,False,True,False,False,False,
+20-132139,False,False,False,False,False,False,Centre hospitalier
+20-132140,False,False,False,False,False,False,Groupement de commande des syndicats d'énergies de Nouvelle-Aquitaine
+20-132145,False,False,False,False,False,False,logement social
+20-132153,True,False,False,False,False,False,
+20-132154,False,False,False,False,False,False,EPCI
+20-132155,False,False,True,False,False,False,
+20-132156,False,False,False,False,True,False,
+20-132157,False,False,True,False,False,False,
+20-132161,False,False,True,False,False,False,
+20-132167,True,False,False,False,False,False,
+20-132171,False,False,False,False,False,False,Organisme de Sécurité Sociale
+20-132173,False,False,False,False,False,False,Collectivité
+20-132174,False,False,True,False,False,False,
+20-132176,False,False,False,False,True,False,
+20-132180,False,False,False,False,True,False,
+20-132181,False,False,True,False,False,False,
+20-132183,False,False,False,False,True,False,
+20-132186,False,False,False,False,False,False,OPH
+20-132195,True,False,False,False,False,False,
+20-132200,False,False,True,False,False,False,
+20-132202,False,False,False,False,True,False,
+20-132204,False,False,True,False,False,False,
+20-132207,False,False,False,True,False,False,
+20-132209,False,False,True,False,False,False,
+20-132212,False,False,True,False,False,False,
+20-132216,False,False,False,False,False,False,autre
+20-132221,False,False,False,False,False,False,autre
+20-132225,False,False,False,False,True,False,
+20-132234,True,False,False,False,False,False,
+20-132238,False,False,False,False,True,False,
+20-132241,False,False,False,False,False,False,E.P.C.I.
+20-132247,True,False,False,False,False,False,
+20-132248,False,False,False,False,True,False,
+20-132252,False,False,False,False,True,False,
+20-132257,False,False,False,False,False,False,Association Syndicale Autorisée
+20-132259,False,False,False,False,False,False,Office de l'Habitat de Puteaux
+20-132261,False,False,False,False,True,False,
+20-132267,False,False,False,False,True,False,
+20-132268,False,False,True,False,False,False,
+20-132269,False,False,True,False,False,False,
+20-132281,False,False,False,False,True,False,
+20-132283,False,False,True,False,False,False,
+20-132284,False,False,True,False,False,False,
+20-132285,False,False,False,False,False,False,autre
+20-132288,False,False,False,False,False,False,autre
+20-132293,False,False,False,False,False,False,autre
+20-132294,False,False,False,False,True,False,
+20-132298,False,False,True,False,False,False,
+20-132299,False,False,False,False,False,False,OPH
+20-132300,False,True,False,False,False,False,
+20-132302,False,False,True,False,False,False,
+20-132306,False,False,False,False,False,False,communauté de communes
+20-132307,False,False,False,False,True,False,
+20-132309,False,False,False,False,False,False,Centrale d'achats
+20-132317,False,False,True,False,False,False,
+20-132318,False,False,False,False,False,False,autre
+20-132320,False,False,True,False,False,False,
+20-132321,False,False,True,False,False,False,
+20-132324,False,False,False,False,False,False,autre
+20-132325,False,False,False,True,False,False,
+20-132327,False,False,True,False,False,False,
+20-132328,False,False,False,False,True,False,
+20-132330,False,False,False,False,False,False,Association 1901 gérant le régime d'assurance chômage
+20-132334,False,False,False,False,True,False,
+20-132339,False,False,True,False,False,False,
+20-132340,False,False,True,False,False,False,
+20-132341,False,False,False,False,False,False,autre
+20-132344,False,False,False,False,True,False,
+20-132347,False,True,False,False,False,False,
+20-132354,False,False,False,False,True,False,
+20-132356,False,False,False,False,True,False,
+20-132357,True,False,False,False,False,False,
+20-132362,False,False,True,False,False,False,
+20-132375,False,False,True,False,False,False,
+20-132378,False,False,True,False,False,False,
+20-132379,False,False,False,False,False,False,collectivite territoriale
+20-132380,False,False,True,False,False,False,
+20-132384,False,False,True,False,False,False,
+20-132388,False,False,False,False,False,False,autre
+20-132389,False,False,False,False,True,False,
+20-132392,False,False,False,False,False,False,Etablissement Public de Santé
+20-132394,False,False,False,False,True,False,
+20-132396,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+20-132397,False,False,False,False,False,False,EPCI
+20-132398,True,False,False,False,False,False,
+20-132409,False,False,True,False,False,False,
+20-132416,False,False,True,False,False,False,
+20-132417,False,False,False,False,False,False,Etablissement public administratif
+20-132419,False,False,True,False,False,False,
+20-132432,False,False,False,False,False,False,établissement public de santé
+20-132436,False,False,True,False,False,False,
+20-132439,False,False,True,False,False,False,
+20-132440,False,False,False,False,True,False,
+20-132441,False,False,True,False,False,False,
+20-132442,False,False,True,False,False,False,
+20-132444,False,False,True,False,False,False,
+20-132447,False,False,True,False,False,False,
+20-132449,False,False,False,False,False,False,Action sociale
+20-132451,False,False,True,False,False,False,
+20-132456,False,False,False,False,True,False,
+20-132460,False,False,False,False,False,False,Association
+20-132461,False,False,False,False,True,False,
+20-132465,False,False,False,False,True,False,
+20-132466,False,False,False,False,False,False,Syndicat mixte informatique
+20-132468,False,False,False,False,True,False,
+20-132469,False,False,False,False,False,False,CHU
+20-132471,False,False,False,False,False,False,EPA Haras national du Pin
+20-132472,False,False,False,False,False,False,Organisme de protection sociale
+20-132475,False,False,True,False,False,False,
+20-132478,False,False,True,False,False,False,
+20-132479,False,False,True,False,False,False,
+20-132483,False,False,False,False,False,False,Chambre consulaire
+20-132484,False,False,True,False,False,False,
+20-132489,False,False,True,False,False,False,
+20-132493,False,False,True,False,False,False,
+20-132495,False,False,False,False,True,False,
+20-132496,False,False,True,False,False,False,
+20-132497,False,False,True,False,False,False,
+20-132498,False,False,True,False,False,False,
+20-132501,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+20-132509,False,False,True,False,False,False,
+20-132511,False,False,True,False,False,False,
+20-132513,False,False,True,False,False,False,
+20-132514,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+20-132520,True,False,False,False,False,False,
+20-132523,False,False,False,False,True,False,
+20-132524,False,False,True,False,False,False,
+20-132525,True,False,False,False,False,False,
+20-132532,False,False,False,False,False,False,SCIC d'HLM
+20-132536,False,False,True,False,False,False,
+20-132542,False,False,False,False,True,False,
+20-132544,False,False,False,False,True,False,
+20-132545,False,False,False,False,False,False,Centre hospitalier
+20-132547,False,False,False,False,False,False,Sénat
+20-132553,False,False,True,False,False,False,
+20-132556,False,False,False,False,False,False,autre
+20-132558,False,False,True,False,False,False,
+20-132562,False,False,True,False,False,False,
+20-132563,False,True,False,False,False,False,
+20-132564,False,False,False,False,False,False,autre
+20-132565,False,False,False,False,False,False,autre
+20-132572,False,False,True,False,False,False,
+20-132576,False,False,False,False,True,False,
+20-132581,False,False,True,False,False,False,
+20-132583,False,False,False,False,False,False,EHPAD
+20-132588,False,False,False,False,False,False,Établissement public de santé
+20-132591,False,False,True,False,False,False,
+20-132592,False,False,True,False,False,False,
+20-132596,False,False,False,False,True,False,
+20-132597,False,False,True,False,False,False,
+20-132598,False,False,True,False,False,False,
+20-132599,False,False,False,False,True,False,
+20-132600,False,False,True,False,False,False,
+20-132601,False,False,True,False,False,False,
+20-132607,True,False,False,False,False,False,
+20-132608,False,False,False,False,True,False,
+20-132613,False,False,False,False,True,False,
+20-132614,True,False,False,False,False,False,
+20-132623,False,False,True,False,False,False,
+20-132632,False,False,False,False,True,False,
+20-132633,False,False,True,False,False,False,
+20-132638,False,False,True,False,False,False,
+20-132639,False,False,False,False,True,False,
+20-132642,False,False,True,False,False,False,
+20-132644,False,False,True,False,False,False,
+20-132657,False,False,True,False,False,False,
+20-132658,False,False,True,False,False,False,
+20-132663,False,False,True,False,False,False,
+20-132684,False,False,True,False,False,False,
+20-132686,False,False,True,False,False,False,
+20-132695,False,False,True,False,False,False,
+20-132696,False,False,True,False,False,False,
+20-132698,False,False,False,False,True,False,
+20-132701,False,False,False,False,True,False,
+20-132702,False,False,False,False,True,False,
+20-132703,False,False,True,False,False,False,
+20-132705,False,False,False,False,True,False,
+20-132707,False,False,True,False,False,False,
+20-132709,True,False,False,False,False,False,
+20-132711,False,False,False,False,True,False,
+20-132712,False,False,True,False,False,False,
+20-132713,False,False,True,False,False,False,
+20-132715,False,False,False,False,True,False,
+20-132716,False,False,False,False,False,False,Mairie
+20-132717,False,False,True,False,False,False,
+20-132725,True,False,False,False,False,False,
+20-132727,False,False,False,False,False,False,EPIC
+20-132729,False,False,False,False,True,False,
+20-132738,False,False,True,False,False,False,
+20-132739,False,False,False,False,True,False,
+20-132740,False,False,True,False,False,False,
+20-132743,False,False,True,False,False,False,
+20-132744,False,False,True,False,False,False,
+20-132745,False,False,False,False,True,False,
+20-132746,False,False,True,False,False,False,
+20-132747,False,False,True,False,False,False,
+20-132752,False,False,True,False,False,False,
+20-132753,False,False,True,False,False,False,
+20-132754,False,False,True,False,False,False,
+20-132757,False,False,True,False,False,False,
+20-132759,False,False,False,False,True,False,
+20-132761,False,False,False,True,False,False,
+20-132762,False,False,True,False,False,False,
+20-132765,False,False,True,False,False,False,
+20-132767,False,False,False,False,True,False,
+20-132770,False,False,True,False,False,False,
+20-132772,False,False,False,False,True,False,
+20-132776,False,False,True,False,False,False,
+20-132777,False,False,False,False,False,False,SERVICE DEPARTEMENTAL D INCENDIE ET DE SECOURS
+20-132779,False,False,True,False,False,False,
+20-132789,False,False,True,False,False,False,
+20-132791,False,False,True,False,False,False,
+20-132797,True,False,False,False,False,False,
+20-132801,False,False,True,False,False,False,
+20-132803,False,False,True,False,False,False,
+20-132804,False,False,True,False,False,False,
+20-132807,False,False,False,False,True,False,
+20-132811,False,False,True,False,False,False,
+20-132812,False,True,False,False,False,False,
+20-132824,False,False,False,False,True,False,
+20-132826,False,False,True,False,False,False,
+20-132827,False,False,False,False,True,False,
+20-132828,False,False,False,False,False,False,AFU/A
+20-132830,False,False,False,False,True,False,
+20-132843,False,False,True,False,False,False,
+20-132849,False,False,False,False,True,False,
+20-132850,False,False,False,False,True,False,
+20-132851,False,False,False,False,True,False,
+20-132852,False,False,False,False,True,False,
+20-132853,False,False,False,False,True,False,
+20-132855,True,False,False,False,False,False,
+20-132862,False,False,True,False,False,False,
+20-132867,False,False,False,False,False,False,Organisme de Sécurité Sociale
+20-132868,True,False,False,False,False,False,
+20-132870,True,False,False,False,False,False,
+20-132875,False,False,True,False,False,False,
+20-132880,False,False,True,False,False,False,
+20-132888,False,False,False,True,False,False,
+20-132891,False,False,True,False,False,False,
+20-132892,False,False,True,False,False,False,
+20-132893,False,False,False,False,False,False,Etablissement public Médico-social
+20-132894,False,False,False,False,False,False,Organisme de Sécurité Sociale
+20-132896,False,False,True,False,False,False,
+20-132901,False,False,True,False,False,False,
+20-132903,False,False,False,False,False,False,OPH
+20-132908,False,False,False,False,True,False,
+20-132909,False,False,False,False,False,False,Communauté de Communes
+20-132910,False,False,False,False,False,False,Commune
+20-132912,False,False,True,False,False,False,
+20-132917,False,False,False,False,False,False,Établissement public à caractère industriel et commercial
+20-132919,False,False,False,False,False,False,Etablissement public de coopération intercommunale - Communauté d'Agglomération
+20-132920,False,False,False,False,True,False,
+20-132929,False,False,False,False,False,False,autre
+20-132930,False,False,True,False,False,False,
+20-132931,False,False,False,False,True,False,
+20-132933,False,False,False,False,True,False,
+20-132936,False,False,False,False,False,False,Établissement public à caractère industriel et commercial
+20-132937,False,False,True,False,False,False,
+20-132944,False,False,False,False,True,False,
+20-132963,False,False,True,False,False,False,
+20-132964,False,False,False,False,True,False,
+20-132966,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-132977,False,False,True,False,False,False,
+20-132979,False,False,True,False,False,False,
+20-132981,False,False,True,False,False,False,
+20-132983,False,False,False,False,True,False,
+20-132987,True,False,False,False,False,False,
+20-132990,False,False,True,False,False,False,
+20-132991,False,False,False,True,False,False,
+20-132992,False,False,True,False,False,False,
+20-132996,False,False,True,False,False,False,
+20-133002,False,False,False,False,False,False,autre
+20-133003,False,False,True,False,False,False,
+20-133004,False,False,True,False,False,False,
+20-133005,False,False,True,False,False,False,
+20-133010,False,False,True,False,False,False,
+20-133012,False,False,False,True,False,False,
+20-133013,False,False,False,False,False,False,autre
+20-133015,False,False,True,False,False,False,
+20-133017,True,False,False,False,False,False,
+20-133018,False,False,False,False,True,False,
+20-133022,False,False,False,False,False,False,Etablissement public de santé
+20-133025,True,False,False,False,False,False,
+20-133033,True,False,False,False,False,False,
+20-133041,False,False,False,False,False,False,Organisme de sécurité sociale
+20-133043,False,False,True,False,False,False,
+20-133044,False,False,False,False,False,False,Chambre de Commerce et d'Industrie
+20-133046,False,False,False,False,False,False,Sapeurs pompiers
+20-133048,False,False,False,False,True,False,
+20-133049,False,False,True,False,False,False,
+20-133061,False,False,False,False,True,False,
+20-133062,False,False,False,False,True,False,
+20-133065,False,True,False,False,False,False,
+20-133067,False,False,False,False,True,False,
+20-133071,False,False,False,False,True,False,
+20-133072,False,False,True,False,False,False,
+20-133074,False,False,False,False,False,False,Assemblée consultative
+20-133075,False,False,False,False,True,False,
+20-133076,False,False,True,False,False,False,
+20-133078,False,False,True,False,False,False,
+20-133079,False,False,False,False,True,False,
+20-133081,False,False,True,False,False,False,
+20-133083,False,False,True,False,False,False,
+20-133086,True,False,False,False,False,False,
+20-133087,False,False,False,False,True,False,
+20-133092,False,False,True,False,False,False,
+20-133096,False,False,False,False,False,False,organisme privé gérant des fonds publics
+20-133097,False,False,False,False,True,False,
+20-133102,False,False,False,False,False,False,Education
+20-133107,False,False,False,False,False,False,autre
+20-133108,False,False,False,True,False,False,
+20-133112,False,False,False,False,True,False,
+20-133115,False,False,True,False,False,False,
+20-133117,False,False,True,False,False,False,
+20-133119,False,False,False,False,True,False,
+20-133127,False,False,True,False,False,False,
+20-133130,False,False,True,False,False,False,
+20-133133,True,False,False,False,False,False,
+20-133137,False,False,True,False,False,False,
+20-133147,False,False,True,False,False,False,
+20-133150,False,False,False,False,False,False,Etablissement public administratif
+20-133153,False,False,False,False,False,False,Développement économique
+20-133158,False,False,False,False,True,False,
+20-133164,False,False,True,False,False,False,
+20-133174,False,False,True,False,False,False,
+20-133175,False,False,True,False,False,False,
+20-133176,False,False,False,False,True,False,
+20-133178,False,False,False,False,True,False,
+20-133183,False,True,False,False,False,False,
+20-133184,True,False,False,False,False,False,
+20-133185,False,False,False,False,False,False,Organisme de sécurité sociale - organisme de droit privé gérant une mission de service public.
+20-133186,False,False,True,False,False,False,
+20-133190,False,False,True,False,False,False,
+20-133191,False,False,True,False,False,False,
+20-133196,True,False,False,False,False,False,
+20-133199,False,False,True,False,False,False,
+20-133208,False,False,False,False,True,False,
+20-133210,False,False,True,False,False,False,
+20-133211,False,False,False,False,False,False,Chambre de Commerce et d'Industrie
+20-133212,False,False,False,False,True,False,
+20-133220,False,False,True,False,False,False,
+20-133221,False,False,True,False,False,False,
+20-133226,False,False,False,False,False,False,Etablissement public de Santé
+20-133232,False,False,True,False,False,False,
+20-133235,False,False,False,False,False,False,Collectivité territoriale
+20-133241,False,False,False,False,True,False,
+20-133243,False,False,False,False,False,False,Protection sociale - organisme de sécurité sociale
+20-133248,False,False,True,False,False,False,
+20-133250,False,False,True,False,False,False,
+20-133251,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-133260,False,False,False,False,True,False,
+20-133262,False,False,True,False,False,False,
+20-133263,False,False,False,False,False,False,GIE INFORMATIQUE
+20-133264,True,False,False,False,False,False,
+20-133265,False,False,True,False,False,False,
+20-133268,False,False,False,False,False,False,Établissement public à caractère industriel et commercial
+20-133270,False,False,True,False,False,False,
+20-133273,False,False,False,False,True,False,
+20-133276,False,False,True,False,False,False,
+20-133277,False,False,False,False,False,False,Etablissement public à caractère administratif
+20-133278,False,False,True,False,False,False,
+20-133285,False,False,False,False,True,False,
+20-133286,False,False,True,False,False,False,
+20-133288,False,False,True,False,False,False,
+20-133289,False,False,False,False,False,False,Collectivité territoriale
+20-133290,False,False,True,False,False,False,
+20-133295,False,False,False,False,True,False,
+20-133302,False,False,False,False,False,False,Collectivite territoriale
+20-133305,True,False,False,False,False,False,
+20-133306,False,False,True,False,False,False,
+20-133308,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-133314,False,False,False,False,True,False,
+20-133320,False,False,False,False,False,False,Régulation des marchés financiers
+20-133322,False,False,True,False,False,False,
+20-133323,False,False,True,False,False,False,
+20-133324,False,False,False,False,True,False,
+20-133325,True,False,False,False,False,False,
+20-133326,False,False,False,False,False,False,Syndicat Mixte Fermé
+20-133327,False,False,False,False,True,False,
+20-133332,False,False,True,False,False,False,
+20-133337,False,False,False,False,False,False,Etablissement Public de santé
+20-133340,False,False,True,False,False,False,
+20-133342,False,False,False,False,True,False,
+20-133345,False,False,False,False,False,False,Exploitation et animation biens appartenant au domaine public
+20-133347,False,False,False,False,True,False,
+20-133348,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-133351,False,False,False,False,True,False,
+20-133353,False,False,True,False,False,False,
+20-133358,False,False,True,False,False,False,
+20-133359,False,False,True,False,False,False,
+20-133362,False,False,False,False,False,False,autre
+20-133363,False,False,False,False,True,False,
+20-133366,False,False,True,False,False,False,
+20-133367,False,False,True,False,False,False,
+20-133369,False,False,True,False,False,False,
+20-133371,False,False,False,False,True,False,
+20-133372,False,False,False,False,False,False,Santé publique
+20-133376,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-133378,False,False,False,False,False,False,EPCI
+20-133379,False,False,True,False,False,False,
+20-133380,False,False,False,False,False,False,Etablissement public local
+20-133383,False,False,False,False,True,False,
+20-133385,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+20-133386,False,False,False,False,False,False,Organisme privé à but non lucratif déclaré d'utilité publique
+20-133388,False,False,False,False,False,False,Etablissement public local
+20-133389,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+20-133395,False,False,False,False,True,False,
+20-133528,False,False,False,False,True,False,
+20-17719,False,False,False,False,False,False,Etablissement public de santé
+20-1957,True,False,False,False,False,False,
+20-30555,False,False,False,False,True,False,
+20-35607,False,False,False,False,True,False,
+20-3640,False,False,False,False,False,False,Société d'économie mixte
+20-52402,False,False,False,False,False,False,chu
+20-53889,False,False,True,False,False,False,
+20-60083,False,False,True,False,False,False,
+20-72448,False,False,False,False,True,False,
+20-75701,False,False,False,False,True,False,
+20-83870,False,False,False,False,True,False,
+20-84273,False,False,False,False,False,False,Société publique locale
+20-84926,False,False,True,False,False,False,
+20-84946,False,False,False,False,False,False,Département
+20-85205,True,False,False,False,False,False,
+20-8739,False,False,False,False,False,False,Université
+20-87749,True,False,False,False,False,False,
+20-89859,False,False,False,False,True,False,
+20-93221,False,False,True,False,False,False,
+20-93469,False,False,True,False,False,False,
+20-93784,False,False,False,False,True,False,
+20-94044,True,False,False,False,False,False,
+20-94160,False,False,True,False,False,False,
+20-94203,False,False,False,False,False,False,EPST
+20-94469,False,False,False,False,True,False,
+20-95844,False,False,False,False,True,False,
+20-97349,False,False,False,False,False,False,Collectivité Territoriale
+20-97400,False,False,True,False,False,False,
+20-97746,False,False,True,False,False,False,
+20-98163,False,False,True,False,False,False,
+20-98725,False,False,False,False,False,False,Société publique locale
+20-98836,True,False,False,False,False,False,
+20-99366,True,False,False,False,False,False,
+20-99697,False,False,True,False,False,False,
+20-99731,False,False,False,False,False,False,Organisme de droit privé de la MSA
+20-99921,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+20-99961,True,False,False,False,False,False,

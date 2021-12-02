@@ -1,0 +1,13 @@
+BOAMP_AVIS_NUM,D_21_01_Annexed4_Infructueux,D_21_02_Annexed4_Raisonstechniques,D_21_03_Annexed4_Raisonsartistiques,D_21_04_Annexed4_Raisonsexclusivites,D_21_05_Annexed4_Proprieteintellectuelle,D_21_06_Annexed4_Horsscope,D_21_07_Annexed4_Explication
+20-3604,False,False,False,False,,True,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<EXPLICATION xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">Enedis et EDF bénéficient de droits exclusifs consacrés par la législation nationale (article L111-52, L121-5 et L334-3 du Code de l'énergie)</EXPLICATION>"
+20-5906,False,True,False,False,,False,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<EXPLICATION xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">Les travaux et services ne peuvent être fournis que par un opérateur économique disposant d'un droit exclusif, conformément aux dispositions des articles L.121-4 et L.121-5 du code de l'énergie, les dispositons de l'article 11 de l'accord-cadre national FNCCR-France Urbaine-EDF-Enedis en date du 22 décembre 2017 relatif aux modalités de déploiement du nouveau modèle de contrat de concession et le Code de la Commande Publique et le Code Général des Collectivités territoirales</EXPLICATION>"
+20-7145,False,False,False,False,,True,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<EXPLICATION xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">Le contrat ne relève pas du champ d'application de la directive</EXPLICATION>"
+20-7247,False,False,False,False,,True,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<EXPLICATION xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">SICAE EST bénéficie de droits exclusifs consacrés par la législation nationale (article L. 111-52, L.121-5 et L.334-3 du code de l'énergie)</EXPLICATION>"
+20-7253,False,False,False,False,,True,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<EXPLICATION xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">Enedis et EDF bénéficient de droits exclusifs consacrés par la législation nationale (article L. 111-52, L.121-5 et L.334-3 du code de l'énergie)</EXPLICATION>"
+20-8483,False,False,False,True,,False,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<EXPLICATION xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">ENEDIS et EDF bénéficient de droit exclusif consacré par la législation nationale (Article L.111-52, L.121-5 et L.334-3 du code de l'Energie).</EXPLICATION>"
